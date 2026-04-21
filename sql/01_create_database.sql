@@ -1,3 +1,6 @@
+-- Purpose: Create Database, tables and datatypes
+-- Date:    21/04/2026
+
 CREATE DATABASE RetailSales;
 GO
 
