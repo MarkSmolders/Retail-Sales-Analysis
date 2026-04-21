@@ -1,0 +1,11 @@
+﻿store_name,city,address,postal_code,manager_name
+NorthStore,Amsterdam,Hoofdstraat 48,8372 PR,Jan de Vries
+SouthStore,rotterdam,Lijnbaan 168,5658 NT,Maria Jansen
+EastStore,UTRECHT,Lijnbaan 2,2957 VK,Piet Bakker
+WestStore,Den Haag,Lijnbaan 1,6651 YH,Sophie Peters
+CenterStore,Eindhoven,Lijnbaan 5,1233 JM,Lars Visser
+MainStore,Tilburg,Kerkstraat 175,1956 VI,Emma Mulder
+PlazaStore,Groningen,Hoofdstraat 33,8845 SX,Klaas Smit
+HarborStore,Breda,Hoofdstraat 6,2698 QA,Anna de Boer
+MarketStore,NIJMEGEN,Marktstraat 172,7918 HI,Tom van Dijk
+CityStore,Haarlem,Kerkstraat 189,7612 FG,Lisa Hendriks

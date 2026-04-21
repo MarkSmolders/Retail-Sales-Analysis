@@ -1,0 +1,3001 @@
+﻿order_reference,product_name,quantity,unit_price,line_total
+ORD_0860,Mouse,6,923.37,5540.22
+Evelyn Peters,Lamp,6,129.35,659.68
+ORD_0007,Fitness Tracker,5,228.04,570.10
+Liam Dekker,Conditioner,2,38.22,76.44
+ORD_0761,Sports Watch,9,,
+Benjamin van Dijk,Coat Hanger,8,87.64,806.29
+ORD_0570,Charger,4,1142.39,4569.56
+Mia Bos,Charger,10,1142.39,11423.90
+Olivia Smit,Leggings,,21.18,
+Tim Visser,Face Cream,2,23.96,47.92
+ORD_0627,Router,9,173.62,1562.58
+ORD_0829,Headphones,8,750.23,6001.84
+ORD_0588,Cereal,4,7.98,31.92
+ORD_0180,Storage Box,6,27.43,164.58
+Evelyn Jansen,Gloves,9,14.13,127.17
+Harper van den Berg,Hoodie,5,158.66,674.30
+ORD_0543,Dumbbell,8,180.1,1440.80
+ORD_0228,Fitness Tracker,2,228.04,684.12
+ORD_0284,Sweater,10,132.17,1321.70
+Lucas Smit,Sports Watch,10,35.57,355.70
+ORD_0465,Jam,10,7.71,77.10
+ORD_0278,Plant Pot,5,,
+Benjamin Dijkstra,Cutting Board,6,37.79,226.74
+ORD_1063,Toothpaste,1,20,20.00
+ORD_1057,Hoodie,6,158.66,951.96
+ORD_0154,Cushion,6,6.27,37.62
+ORD_0227,Mascara,3,27.26,81.78
+Lucas Dekker,Fitness Tracker,6,228.04,1368.24
+Ava Peeters,Storage Box,10,27.43,274.30
+Nora Dekker,Crackers,5,24.01,120.05
+ORD_0914,Belt,,53.41,
+Oliver van Dijk,Sweater,,132.17,
+Evelyn Peters,Shower Gel,7,31.86,223.02
+ORD_1092,Oats,,11.67,
+Mia Jansen,Mascara,10,27.26,408.90
+ORD_1017,Laundry Basket,6,,
+Sem Hendriks,Oats,7,11.67,81.69
+Aiden Hendriks,Swimwear,3,130.23,390.69
+ORD_0366,Serum,2,51.72,103.44
+Aiden Peters,Microphone,4,779.69,1559.38
+Liam de Boer,Cushion,9,6.27,56.43
+ORD_0728,Coasters,3,113.24,339.72
+ORD_0337,Peanut Butter,4,28.1,112.40
+ORD_0719,Water Bottle,3,21.73,65.19
+Ethan Smit,Conditioner,5,,
+ORD_0987,Power Bank,4,266.91,1067.64
+Daan Bakker,Serum,9,51.72,465.48
+Benjamin van den Berg,Soap Dispenser,6,71.41,428.46
+Mason van Dijk,Coffee,9,9.46,85.14
+ORD_0377,Shorts,,151.9,
+ORD_0762,Resistance Band,1,267.11,267.11
+Harper Peters,Mouse,7,923.37,5494.05
+Finn de Groot,Cardigan,7,131.63,921.41
+Emma Peeters,Towel,2,142.76,285.52
+Mason Dekker,Tennis Racket,7,254.89,1784.23
+ORD_0299,Picture Frame,6,88.73,532.38
+ORD_0701,Serum,6,51.72,310.32
+Aiden de Boer,Smartphone,3,945.45,2836.35
+ORD_1152,Conditioner,4,38.22,152.88
+ORD_1138,Socks,8,68.84,550.72
+ORD_1087,Biscuits,10,29.25,292.50
+Charlotte Peters,Nuts,1,29.61,29.61
+ORD_0134,Tablet,1,1346.72,1346.72
+ORD_0957,Toothbrush,7,77.28,540.96
+Mia Smit,Sunscreen,4,40.27,161.08
+Aiden Jansen,Sneakers,2,113.26,226.52
+Noah Hendriks,Scarf,4,142.73,570.92
+Benjamin Hendriks,Clock,7,137.5,962.50
+ORD_0873,Football,8,,
+ORD_1118,Perfume,9,9.51,85.59
+Liam Vos,Candle,10,127.47,1274.70
+Finn Meijer,Jam,9,7.71,69.39
+ORD_0976,Cushion,3,,
+ORD_0819,Belt,5,53.41,267.05
+Noah de Vries,Storage Box,5,27.43,137.15
+Nora de Boer,Soup,10,26.96,269.60
+ORD_0289,Keyboard,3,20,60.00
+ORD_0807,Foam Roller,,77.79,
+Finn Dekker,Skirt,6,136.95,821.70
+ORD_1057,Running Shoes,5,19.47,97.35
+ORD_0036,Dumbbell,7,180.1,1260.70
+ORD_0298,Speaker,3,1049.85,3149.55
+ORD_1125,Badminton Set,4,178.08,712.32
+ORD_0319,Sports Watch,6,35.57,213.42
+ORD_0371,Smartphone,,945.45,
+ORD_0089,Picture Frame,1,88.73,88.73
+Bram Peters,Sports Watch,10,35.57,355.70
+ORD_0788,Hair Oil,6,20,120.00
+ORD_0100,Nuts,10,29.61,296.10
+ORD_0958,Smart TV,5,,
+ORD_0264,Jacket,10,15.78,157.80
+Mia Bos,Cycling Gloves,4,204.17,408.34
+Levi de Groot,Crackers,5,24.01,120.05
+ORD_1181,Hat,4,165.24,660.96
+Olivia Smit,Tennis Racket,4,254.89,1019.56
+ORD_0784,Gym Bag,8,,
+Evelyn van Leeuwen,Charger,2,1142.39,2284.78
+Lucas Dekker,Mascara,8,27.26,218.08
+Sophia Vos,Nail Polish,4,43.42,199.73
+Evelyn Jansen,Dumbbell,,180.1,
+Liam Bos,Gamepad,10,1043.03,10430.30
+ORD_0473,Cutting Board,7,37.79,224.85
+Benjamin van Leeuwen,Blanket,1,37.47,37.47
+ORD_0677,Water Bottle,3,21.73,65.19
+Liam de Groot,Resistance Band,6,267.11,1602.66
+ORD_0295,Gamepad,5,1043.03,5215.15
+ORD_0418,Charger,5,,
+ORD_0925,Gloves,9,14.13,127.17
+ORD_0479,Yoga Mat,2,15.35,30.70
+ORD_1163,Doormat,,119.9,
+ORD_0931,Honey,1,3.42,3.42
+Sem Hendriks,Skipping Rope,2,152.47,304.94
+ORD_0326,Mirror,4,34.64,138.56
+ORD_0480,Gloves,5,14.13,35.33
+Lucas Peters,Cutting Board,9,37.79,340.11
+ORD_0307,Resistance Band,9,267.11,2403.99
+ORD_1086,Foam Roller,7,77.79,544.53
+Ava Bakker,Storage Box,5,27.43,137.15
+ORD_1060,Razor,9,62.25,560.25
+ORD_0163,Leggings,1,,
+ORD_0704,Lamp,3,129.35,388.05
+Sem Hendriks,Vase,5,74.99,431.19
+Ava Peeters,Jeans,9,20,180.00
+Mason Dekker,Cycling Gloves,5,,
+Julia Dekker,Smart TV,9,,
+Sem Dekker,Lip Balm,4,,
+Mia Bos,Boots,3,20,60.00
+Julia de Vries,Smartphone,7,945.45,6618.15
+Sem de Boer,Sweater,1,132.17,132.17
+Mia Bos,Cushion,8,6.27,50.16
+ORD_0933,Leggings,4,21.18,42.36
+ORD_0533,Laundry Basket,4,119.13,476.52
+Benjamin van Dijk,Smartwatch,3,576.28,1728.84
+Amelia de Vries,Deodorant,3,49.92,149.76
+Lucas van Dijk,Socks,,68.84,
+ORD_0188,Sweater,8,132.17,1057.36
+Isabella Jansen,Oats,8,11.67,140.04
+ORD_0730,Bicycle Helmet,,293.98,
+Emma Mulder,Knee Pads,10,37.22,372.20
+Laura de Vries,Granola,6,3.28,19.68
+Noah de Vries,Speaker,2,1049.85,2099.70
+Oliver van Leeuwen,Blanket,7,37.47,262.29
+Benjamin van den Berg,Rug,6,81.5,489.00
+ORD_0631,Blanket,8,37.47,299.76
+ORD_1035,Protein Bar,1,6.97,6.97
+ORD_0503,Graphics Card,9,,
+ORD_0523,Gloves,7,14.13,98.91
+ORD_0219,Sneakers,5,113.26,566.30
+Ava de Groot,Storage Box,5,27.43,137.15
+Sem de Boer,Jacket,10,15.78,157.80
+ORD_0948,Crackers,5,24.01,120.05
+ORD_0443,SSD Drive,3,819.93,2459.79
+ORD_0152,Sneakers,2,113.26,226.52
+Mason Mulder,Vase,5,74.99,374.95
+ORD_0290,Belt,9,53.41,480.69
+Daan Bakker,Coasters,3,113.24,339.72
+ORD_1028,Cushion,10,6.27,62.70
+ORD_0905,Instant Noodles,2,29.39,58.78
+Nora de Vries,Rug,9,81.5,733.50
+Aiden Visser,Socks,1,68.84,68.84
+Noah Jansen,Graphics Card,,289.49,
+Sem Dekker,Soap Dispenser,1,,
+Noah Jansen,Cycling Gloves,7,204.17,1429.19
+ORD_0265,Monitor,4,548.49,2193.96
+Finn van Leeuwen,T-Shirt,2,20,40.00
+Evelyn van Leeuwen,Peanut Butter,4,28.1,112.40
+Laura Meijer,Face Cream,7,,
+ORD_0503,Laptop,8,20,160.00
+ORD_0423,Cereal,9,7.98,82.59
+Finn de Groot,Tea,5,3.37,16.85
+James Peeters,Mascara,3,27.26,81.78
+Julia Hendriks,Sneakers,6,113.26,679.56
+Laura Dekker,Laundry Basket,,119.13,
+ORD_0133,Hat,9,165.24,743.58
+Aiden Meijer,Leggings,1,21.18,21.18
+ORD_0331,Lip Balm,1,41.42,41.42
+Lucas van Dijk,Lamp,7,129.35,905.45
+ORD_1032,Coat,10,130.08,1951.20
+ORD_0916,Tablet,7,1346.72,9427.04
+ORD_0574,Coat,7,130.08,910.56
+Daan Dekker,Mascara,9,27.26,245.34
+ORD_0999,Storage Box,8,27.43,219.44
+ORD_0892,Jam,10,7.71,77.10
+ORD_0847,Smart TV,4,563.86,2255.44
+Sem Visser,Coat,3,130.08,390.24
+Ava Vos,Jam,,7.71,
+Finn Brouwer,Protein Bar,5,6.97,34.85
+ORD_0285,Cushion,8,6.27,50.16
+ORD_0624,Toner,8,20,160.00
+ORD_0196,Belt,5,53.41,267.05
+Sara Meijer,Boots,10,20,170.00
+Ava Mulder,Coasters,2,113.24,226.48
+Charlotte de Vries,Webcam,4,1047.62,4190.48
+Liam Dekker,Lamp,9,129.35,1164.15
+Isabella Dijkstra,Blanket,10,37.47,374.70
+ORD_0507,Olive Oil,3,15.63,39.86
+Tim van Leeuwen,Bicycle Helmet,6,293.98,1763.88
+Isabella Jansen,Resistance Band,7,267.11,1869.77
+Sara de Vries,Power Bank,3,266.91,800.73
+ORD_1030,Serum,8,51.72,413.76
+ORD_0096,Candle,6,127.47,764.82
+Lucas Bos,Blanket,7,,
+ORD_0862,Scarf,10,142.73,1427.30
+ORD_1167,Keyboard,4,20,80.00
+ORD_0149,Football,8,122.47,979.76
+ORD_0746,Yoga Mat,7,15.35,107.45
+Liam Bos,Foam Roller,9,77.79,700.11
+Laura Hendriks,Gloves,3,14.13,42.39
+ORD_0467,Monitor,4,548.49,1864.87
+Ava Bakker,Hair Oil,2,20,40.00
+ORD_0513,Swimwear,9,130.23,1172.07
+ORD_0659,Coffee,7,9.46,66.22
+Daan Dekker,Honey,8,3.42,27.36
+ORD_0768,Mouse,1,923.37,923.37
+Oliver Smit,Olive Oil,7,15.63,109.41
+ORD_0493,Rug,1,81.5,81.50
+ORD_0812,Pasta,1,13.78,6.89
+ORD_0002,Lip Balm,3,41.42,124.26
+Ethan Jansen,Basketball,6,20,120.00
+ORD_0275,Bicycle Helmet,5,293.98,1469.90
+ORD_0704,Protein Bar,8,6.97,55.76
+Liam de Groot,Router,,173.62,
+Noah Jansen,Rug,,81.5,
+Laura Hendriks,Storage Box,5,27.43,137.15
+ORD_1183,Smart TV,1,563.86,563.86
+Bram Vos,SSD Drive,3,819.93,2459.79
+Isabella Vos,Sunscreen,9,40.27,362.43
+ORD_0342,Fitness Tracker,9,,
+Sara Meijer,Scarf,3,142.73,428.19
+Lisa van Dijk,Webcam,,,
+ORD_0372,Smart TV,2,563.86,1127.72
+ORD_0448,Router,6,173.62,1197.98
+ORD_0072,Rug,3,81.5,244.50
+Bram Peters,Dress,2,65.57,131.14
+ORD_0106,Plant Pot,8,118.04,944.32
+Charlotte Peeters,Face Cream,8,23.96,191.68
+Ethan de Vries,Nuts,4,29.61,118.44
+Amelia Bakker,Shower Gel,8,31.86,254.88
+ORD_0747,Vase,4,74.99,299.96
+Noah Mulder,Cutting Board,6,37.79,226.74
+Harper Mulder,Picture Frame,10,88.73,887.30
+ORD_0165,Hair Oil,1,20,20.00
+ORD_0665,Coat Hanger,1,87.64,87.64
+Benjamin Jansen,Soup,7,26.96,94.36
+Isabella Peeters,Graphics Card,7,289.49,2026.43
+Lucas van Dijk,Coat Hanger,8,,
+ORD_0986,Mascara,3,27.26,81.78
+Nora Brouwer,Badminton Set,,178.08,
+ORD_0866,Plant Pot,8,118.04,944.32
+Lisa Jansen,Earbuds,8,1420.23,11361.84
+Nora Brouwer,Running Shoes,4,19.47,77.88
+ORD_0416,Coffee,3,9.46,28.38
+ORD_0496,Dried Fruit,10,20,200.00
+Aiden Jansen,Running Shoes,7,19.47,136.29
+ORD_1159,Nail Polish,9,43.42,390.78
+ORD_0478,Knee Pads,6,37.22,223.32
+Aiden Hendriks,Mascara,1,27.26,27.26
+James de Vries,Tennis Racket,2,254.89,509.78
+ORD_0376,Mug,5,92.79,533.54
+ORD_0933,Shower Gel,2,31.86,63.72
+Lucas van Dijk,Sweater,4,132.17,528.68
+ORD_0840,Microphone,8,779.69,6237.52
+ORD_0731,Coat,3,130.08,390.24
+Noah Bakker,Dried Fruit,8,20,160.00
+ORD_0649,Coffee,9,9.46,85.14
+ORD_0002,Face Mask,6,52.96,317.76
+ORD_1181,Dumbbell,2,180.1,360.20
+Lucas Peeters,Router,5,173.62,868.10
+ORD_0558,Earbuds,7,1420.23,8450.37
+Lucas van Dijk,Dried Fruit,8,20,160.00
+ORD_0845,Soup,3,26.96,80.88
+Noah Jansen,Olive Oil,5,15.63,78.15
+ORD_0796,Sports Watch,10,35.57,355.70
+Harper Meijer,Cardigan,5,131.63,658.15
+ORD_0811,Deodorant,10,49.92,499.20
+ORD_0365,Belt,7,53.41,373.87
+ORD_0919,Mirror,4,34.64,138.56
+Mason Brouwer,Blazer,6,88.9,533.40
+ORD_0640,USB Hub,6,107.53,645.18
+Finn Brouwer,Coat Hanger,10,87.64,876.40
+ORD_0179,Smart TV,9,563.86,5074.74
+ORD_1109,Mirror,10,34.64,346.40
+ORD_0168,Honey,5,3.42,17.10
+ORD_0758,Tennis Racket,1,254.89,254.89
+Mia Jansen,Dried Fruit,8,20,240.00
+ORD_0360,Skipping Rope,4,152.47,609.88
+ORD_0145,Foam Roller,8,77.79,622.32
+ORD_0769,Dried Fruit,9,20,180.00
+ORD_0988,Vase,10,74.99,749.90
+ORD_0178,Microphone,4,779.69,2650.95
+Charlotte Hendriks,Plant Pot,6,118.04,708.24
+Aiden van den Berg,Tennis Racket,2,254.89,509.78
+ORD_0854,Instant Noodles,8,29.39,235.12
+ORD_0123,Jump Rope,7,112.2,785.40
+ORD_0862,Cushion,2,6.27,12.54
+ORD_1133,Hoodie,3,158.66,475.98
+ORD_0369,Picture Frame,10,88.73,887.30
+ORD_0579,Doormat,,119.9,
+ORD_0653,Rug,6,81.5,489.00
+ORD_1183,Jacket,1,15.78,15.78
+Bram Vos,Lamp,,129.35,
+Lucas Visser,Face Mask,5,52.96,264.80
+ORD_1026,Yoga Mat,10,15.35,153.50
+ORD_1007,Jump Rope,1,112.2,112.20
+Mason Bos,Yoga Mat,,15.35,
+ORD_1105,Sneakers,3,,
+Tim de Groot,Gym Bag,10,133.33,1333.30
+ORD_0838,T-Shirt,4,20,80.00
+Sophia Peters,Perfume,5,9.51,47.55
+Finn Bos,Basketball,3,20,60.00
+ORD_0181,Cutting Board,7,37.79,264.53
+ORD_0861,Storage Box,2,27.43,54.86
+ORD_0419,Granola,2,3.28,6.56
+ORD_0841,Microphone,7,,
+Ethan Hendriks,Biscuits,7,29.25,204.75
+ORD_0355,Basketball,5,20,100.00
+Levi van Leeuwen,Protein Bar,10,6.97,104.55
+ORD_0844,Yoga Mat,,15.35,
+ORD_0500,Sunscreen,,40.27,
+Lucas de Vries,Rice,4,16.12,64.48
+ORD_0606,Eye Cream,4,11.08,44.32
+ORD_0310,Coat,4,130.08,520.32
+ORD_1097,Monitor,7,548.49,3839.43
+Isabella Peeters,Razor,8,62.25,498.00
+Lisa Visser,Cycling Gloves,5,204.17,1020.85
+ORD_0870,Blazer,5,88.9,444.50
+Charlotte Dekker,Pasta,10,13.78,137.80
+ORD_0045,Honey,10,,
+Benjamin Bakker,Hoodie,,158.66,
+ORD_0516,Picture Frame,4,88.73,354.92
+Liam Meijer,Sneakers,2,113.26,226.52
+ORD_0224,Toothbrush,7,77.28,540.96
+ORD_0279,Tennis Racket,10,254.89,2548.90
+Harper van Leeuwen,Candle,9,127.47,1147.23
+ORD_0859,Plant Pot,8,118.04,944.32
+ORD_1120,Soap Dispenser,6,71.41,492.73
+Sem Dijkstra,Gloves,4,14.13,56.52
+ORD_0487,Foundation,8,41.65,333.20
+ORD_0745,Blazer,6,88.9,613.41
+Amelia de Vries,Shorts,1,,
+ORD_0483,Water Bottle,5,21.73,108.65
+ORD_0889,Microphone,,779.69,
+Olivia Meijer,Leggings,2,21.18,42.36
+Lisa Brouwer,Crackers,2,24.01,48.02
+ORD_0773,Polo Shirt,6,138.95,833.70
+Mia Visser,Sweater,1,132.17,132.17
+Liam Dekker,Crackers,1,24.01,24.01
+Olivia Mulder,Graphics Card,3,289.49,868.47
+Laura Peeters,Coat Hanger,6,87.64,525.84
+Olivia de Groot,Perfume,7,9.51,66.57
+ORD_0306,Body Lotion,3,18.63,55.89
+ORD_0889,Graphics Card,1,289.49,289.49
+ORD_0342,Rice,,16.12,
+ORD_0664,Tomato Sauce,3,11.48,34.44
+ORD_1151,Towel,6,142.76,856.56
+ORD_1153,Smartwatch,6,576.28,3457.68
+ORD_0249,Jump Rope,8,112.2,897.60
+ORD_0645,Clock,6,137.5,825.00
+Bram Vos,Toner,,20,
+ORD_1093,Mouse,10,923.37,9233.70
+Nora de Vries,Coat Hanger,,,
+Ava Bakker,Dried Fruit,7,,
+ORD_0556,Earbuds,7,1420.23,9941.61
+ORD_1181,Dried Fruit,4,20,80.00
+ORD_0735,Soap Dispenser,7,71.41,499.87
+ORD_0480,Tea,10,3.37,33.70
+ORD_0734,Rug,8,81.5,652.00
+Charlotte Peeters,Rice,3,16.12,48.36
+Finn van den Berg,Running Shoes,,19.47,
+Oliver de Boer,Monitor,4,548.49,2193.96
+Bram van Leeuwen,Socks,5,68.84,344.20
+ORD_0709,Shower Gel,6,31.86,191.16
+ORD_0091,Running Shoes,1,19.47,19.47
+Lucas Brouwer,Tennis Racket,,254.89,
+Levi Meijer,Shampoo,8,48.94,587.28
+Finn Visser,Eye Cream,2,11.08,22.16
+Laura van Dijk,Soap Dispenser,5,71.41,357.05
+ORD_0686,Swimwear,7,130.23,911.61
+Mia Jansen,Jacket,3,15.78,47.34
+ORD_0220,Rug,3,81.5,366.75
+ORD_0319,Hoodie,8,158.66,1269.28
+ORD_0350,Socks,8,,
+ORD_0670,Jump Rope,3,112.2,336.60
+ORD_0581,Jeans,3,20,60.00
+Ethan Dekker,Plant Pot,2,118.04,354.12
+ORD_1062,Nuts,9,29.61,266.49
+ORD_0199,SSD Drive,5,819.93,4714.60
+ORD_0258,Crackers,5,24.01,120.05
+ORD_0185,Leggings,4,21.18,84.72
+Noah Vos,Knee Pads,7,,
+ORD_1176,SSD Drive,10,819.93,8199.30
+Evelyn Bos,Polo Shirt,3,138.95,416.85
+ORD_0196,Storage Box,,27.43,
+Harper Bos,Mug,10,92.79,927.90
+ORD_0531,Towel,2,142.76,285.52
+Sara de Vries,Fitness Tracker,,228.04,
+ORD_0304,Jeans,,20,
+ORD_0926,Tea,,3.37,
+ORD_0558,Speaker,3,,
+Mia van den Berg,Knee Pads,4,37.22,148.88
+Daan Dekker,Mirror,3,34.64,103.92
+ORD_0083,Lip Balm,9,41.42,372.78
+ORD_0199,Earbuds,,1420.23,
+Levi de Vries,Running Shoes,5,19.47,97.35
+Finn Brouwer,Sweater,7,132.17,925.19
+ORD_0698,Smartphone,5,945.45,4727.25
+Bram Brouwer,Jeans,9,20,180.00
+Isabella Meijer,Earbuds,3,1420.23,4260.69
+ORD_0941,Earbuds,4,1420.23,5680.92
+Mia Mulder,Webcam,6,1047.62,6285.72
+ORD_0879,Sports Watch,5,35.57,177.85
+ORD_0435,Belt,5,53.41,267.05
+ORD_0128,Earbuds,10,1420.23,14202.30
+ORD_0789,Plant Pot,9,118.04,1062.36
+Mia Jansen,USB Hub,8,107.53,860.24
+Mia de Vries,Lamp,7,129.35,905.45
+ORD_0522,Belt,8,53.41,491.37
+ORD_0769,Plant Pot,1,118.04,118.04
+ORD_1040,Honey,,3.42,
+Oliver van Leeuwen,Badminton Set,2,178.08,356.16
+ORD_0866,Headphones,2,750.23,1275.39
+ORD_0129,Dumbbell,1,180.1,180.10
+Benjamin van den Berg,Kitchen Timer,3,72.94,218.82
+ORD_1200,Yoga Mat,4,,
+ORD_0083,Nail Polish,1,43.42,49.93
+Laura Peeters,Dried Fruit,3,,
+ORD_1192,Rice,5,16.12,120.90
+ORD_0344,Jeans,10,20,200.00
+ORD_0987,Biscuits,7,29.25,204.75
+Sem Dekker,Towel,3,,
+ORD_0507,Plant Pot,6,118.04,708.24
+ORD_0876,Toothbrush,8,77.28,618.24
+ORD_0443,Swimwear,1,130.23,130.23
+Aiden Smit,Swimwear,8,130.23,1041.84
+ORD_0518,Face Mask,10,52.96,529.60
+Oliver van Leeuwen,Sneakers,3,113.26,339.78
+ORD_0133,Nail Polish,4,43.42,147.63
+ORD_0588,Swim Goggles,1,20,20.00
+ORD_0332,Laptop,1,20,30.00
+ORD_0349,Serum,8,51.72,413.76
+ORD_0614,Sports Watch,10,35.57,302.34
+ORD_0260,Swim Goggles,8,,
+Lucas Smit,Sports Watch,2,,
+Mason van Leeuwen,Serum,4,51.72,206.88
+Mia van den Berg,Graphics Card,6,289.49,1736.94
+Mia de Boer,Swimwear,8,130.23,1041.84
+ORD_0189,Knee Pads,10,37.22,372.20
+ORD_0237,Resistance Band,8,267.11,3205.32
+Charlotte Hendriks,Water Bottle,6,,
+Sem van Leeuwen,Rug,8,81.5,652.00
+ORD_0176,Coat,1,130.08,130.08
+ORD_0881,Keyboard,10,20,300.00
+James de Groot,Doormat,8,119.9,959.20
+ORD_0942,Monitor,8,548.49,4387.92
+Benjamin van den Berg,Charger,7,1142.39,7996.73
+ORD_1086,Coasters,,113.24,
+ORD_0835,Blazer,8,88.9,711.20
+ORD_0287,Lamp,1,129.35,129.35
+ORD_0813,Power Bank,7,266.91,1868.37
+ORD_0856,Hoodie,2,158.66,317.32
+ORD_0099,Shorts,2,151.9,303.80
+Ava Meijer,Mouse,9,923.37,8310.33
+Sem Peters,Football,7,122.47,857.29
+Benjamin van den Berg,Fitness Tracker,1,228.04,114.02
+ORD_0154,Lip Balm,1,41.42,41.42
+Bram van Leeuwen,Sports Watch,1,35.57,35.57
+Laura Peeters,Running Shoes,10,19.47,194.70
+Tim van Leeuwen,Laundry Basket,8,,
+Tim Visser,Coasters,3,113.24,339.72
+James de Boer,Resistance Band,4,267.11,1068.44
+ORD_0733,Keyboard,3,20,30.00
+ORD_0119,Vase,10,74.99,749.90
+Levi de Groot,Body Lotion,3,18.63,55.89
+ORD_0050,Dried Fruit,,20,
+ORD_0768,Water Bottle,,,
+Benjamin Peeters,Router,7,173.62,1215.34
+ORD_0957,Belt,3,53.41,160.23
+ORD_0179,Mug,2,92.79,185.58
+Lucas Dijkstra,Coat Hanger,4,87.64,350.56
+ORD_1060,Speaker,,,
+Amelia van den Berg,Razor,,62.25,
+ORD_0526,Soap Dispenser,6,71.41,428.46
+Sara Jansen,Protein Bar,10,6.97,69.70
+ORD_0935,Towel,9,142.76,1284.84
+ORD_0335,Jeans,1,20,20.00
+Benjamin Bakker,Belt,4,53.41,213.64
+ORD_0280,Badminton Set,10,178.08,2671.20
+ORD_0713,Resistance Band,,267.11,
+ORD_0963,Smartphone,1,945.45,472.73
+ORD_0419,Instant Noodles,6,29.39,176.34
+Sara Visser,Jeans,3,20,60.00
+ORD_0332,Rice,1,,
+Noah Vos,Swim Goggles,,20,
+ORD_0243,Router,7,173.62,1215.34
+Evelyn van Dijk,Blazer,1,88.9,88.90
+ORD_0001,Headphones,7,750.23,5251.61
+Finn Jansen,Serum,8,51.72,413.76
+Ava Brouwer,Football,5,,
+ORD_0424,Kitchen Timer,1,72.94,72.94
+Tim Visser,Towel,5,142.76,713.80
+ORD_1077,Face Cream,9,23.96,215.64
+Harper de Vries,Tea,4,3.37,13.48
+ORD_0893,Badminton Set,1,178.08,178.08
+ORD_0481,Soap Dispenser,6,71.41,428.46
+ORD_1077,Gloves,3,14.13,42.39
+Benjamin van Dijk,Face Cream,8,23.96,191.68
+ORD_0790,Skirt,2,136.95,273.90
+Levi Meijer,Smartwatch,4,576.28,2305.12
+Levi Meijer,Fitness Tracker,9,228.04,2052.36
+Aiden de Boer,Hoodie,1,,
+ORD_0775,Coat Hanger,,87.64,
+ORD_0875,Tablet,,,
+Benjamin van den Berg,Candle,7,127.47,892.29
+ORD_0283,Hoodie,3,158.66,475.98
+Harper Mulder,Badminton Set,,178.08,
+Olivia de Vries,Coat Hanger,10,87.64,876.40
+Amelia Mulder,SSD Drive,4,819.93,3279.72
+Julia Dekker,Tomato Sauce,,11.48,
+ORD_0674,Power Bank,9,266.91,2402.19
+Noah Jansen,Vase,8,74.99,599.92
+ORD_0222,Knee Pads,6,37.22,223.32
+ORD_0874,Tomato Sauce,8,11.48,91.84
+Julia Hendriks,Peanut Butter,6,28.1,168.60
+ORD_0782,Oats,8,11.67,93.36
+ORD_0590,Microphone,4,,
+ORD_1180,Dress,7,65.57,458.99
+ORD_0335,Coat,10,130.08,1495.92
+Lucas Peters,Blazer,10,88.9,889.00
+ORD_0357,Knee Pads,7,37.22,260.54
+ORD_0543,SSD Drive,9,819.93,7379.37
+James Bos,Yoga Mat,2,15.35,30.70
+Ethan Dekker,Dumbbell,1,180.1,180.10
+Julia Bos,Lip Balm,1,41.42,41.42
+ORD_0251,Boots,1,20,20.00
+ORD_0656,Cutting Board,1,37.79,37.79
+Lucas Dijkstra,Doormat,1,119.9,119.90
+ORD_0268,Peanut Butter,1,,
+ORD_0574,Coat,2,130.08,260.16
+ORD_0147,Shorts,,151.9,
+ORD_0843,Shorts,2,151.9,303.80
+ORD_0561,Foam Roller,3,77.79,233.37
+Lucas Smit,Hat,,165.24,
+ORD_0212,Hat,9,165.24,1487.16
+ORD_0122,Coffee,10,9.46,94.60
+ORD_1152,Plant Pot,4,118.04,472.16
+Laura de Vries,Basketball,2,20,40.00
+ORD_0644,Blanket,5,37.47,187.35
+ORD_0853,Monitor,4,548.49,2193.96
+Emma van Leeuwen,Biscuits,4,29.25,117.00
+ORD_0262,Keyboard,3,20,60.00
+ORD_1044,Plant Pot,5,118.04,590.20
+Liam Meijer,Nail Polish,4,43.42,173.68
+Oliver van Leeuwen,Coasters,1,113.24,113.24
+ORD_0572,Swimwear,9,130.23,1172.07
+ORD_0607,Vase,6,74.99,449.94
+ORD_0169,Nuts,6,29.61,177.66
+ORD_0048,Rice,5,16.12,80.60
+Lucas van Dijk,Microphone,8,779.69,6237.52
+Ava Meijer,Doormat,3,119.9,359.70
+Liam Dekker,Perfume,2,9.51,19.02
+ORD_0837,Jeans,1,20,20.00
+ORD_0155,Chocolate,7,13.22,92.54
+ORD_1045,Basketball,2,20,40.00
+ORD_0765,Football,4,122.47,244.94
+Ava Hendriks,Swim Goggles,,20,
+Finn Dijkstra,Blazer,3,88.9,133.35
+Olivia Meijer,Lip Balm,2,41.42,82.84
+Isabella de Groot,Lamp,2,129.35,258.70
+ORD_0560,Football,,122.47,
+ORD_0177,Tennis Racket,6,254.89,1529.34
+ORD_0209,Skipping Rope,10,152.47,2287.05
+ORD_1031,Boots,8,20,136.00
+ORD_0473,Foundation,2,41.65,83.30
+Julia van den Berg,Leggings,5,21.18,158.85
+Julia Dijkstra,Mouse,10,,
+Isabella Jansen,Coat Hanger,6,87.64,525.84
+ORD_0429,Keyboard,1,,
+ORD_0733,Hat,3,,
+ORD_0250,Laptop,3,20,60.00
+ORD_0415,Football,6,122.47,734.82
+ORD_0039,Boots,8,20,160.00
+Noah Dijkstra,Badminton Set,,178.08,
+Laura van Dijk,Swimwear,1,,
+ORD_0679,Dress,10,65.57,655.70
+ORD_1018,Rug,1,81.5,81.50
+ORD_0949,Coffee,3,9.46,28.38
+ORD_0414,SSD Drive,,819.93,
+ORD_1039,Soap Dispenser,6,71.41,428.46
+Lisa Mulder,Dried Fruit,1,20,10.00
+ORD_0631,Skipping Rope,10,152.47,1524.70
+Evelyn van den Berg,Speaker,5,1049.85,5249.25
+Nora Bos,Badminton Set,6,178.08,1068.48
+ORD_0601,Peanut Butter,8,,
+Sem Peters,Gloves,9,14.13,127.17
+ORD_1067,Storage Box,1,27.43,27.43
+Tim Visser,Smart TV,8,563.86,4510.88
+ORD_0401,Blazer,6,88.9,533.40
+ORD_1165,Shorts,3,151.9,455.70
+Bram Vos,Belt,10,53.41,534.10
+Harper de Vries,USB Hub,7,107.53,752.71
+Benjamin van den Berg,Yoga Mat,5,15.35,76.75
+Tim Bos,Candle,6,127.47,764.82
+Ava Dekker,Face Mask,2,52.96,105.92
+ORD_0705,T-Shirt,4,20,80.00
+Liam de Groot,Tomato Sauce,3,11.48,34.44
+Levi Mulder,Jacket,4,15.78,63.12
+ORD_1126,Shorts,5,151.9,759.50
+Mason Mulder,Running Shoes,1,19.47,16.55
+ORD_0271,Cardigan,5,131.63,658.15
+Harper van Leeuwen,Power Bank,4,,
+Liam Bos,Boots,9,,
+ORD_0725,Coffee,6,9.46,56.76
+ORD_0673,Peanut Butter,1,28.1,42.15
+ORD_0139,Granola,3,,
+Finn Dekker,Clock,10,137.5,1375.00
+Benjamin Brouwer,Cutting Board,9,37.79,340.11
+ORD_0192,Nuts,10,29.61,296.10
+Sem Dekker,Leggings,2,21.18,36.01
+ORD_0733,Pasta,4,13.78,55.12
+Levi van Leeuwen,Shorts,8,151.9,1032.92
+ORD_0765,Cereal,10,7.98,79.80
+ORD_0258,USB Hub,1,107.53,107.53
+ORD_0054,Running Shoes,2,19.47,38.94
+Charlotte Vos,Keyboard,9,20,180.00
+Benjamin van Dijk,Toner,2,20,40.00
+ORD_0381,Crackers,9,24.01,216.09
+Evelyn van den Berg,Blanket,4,37.47,149.88
+Daan Bakker,Sports Watch,3,35.57,53.36
+ORD_0889,Hat,6,165.24,991.44
+ORD_1095,Instant Noodles,,29.39,
+ORD_0166,Soup,7,26.96,188.72
+Olivia van Leeuwen,Knee Pads,7,37.22,260.54
+ORD_0948,Swimwear,9,130.23,1172.07
+Liam Dekker,Biscuits,1,29.25,29.25
+Emma Jansen,Perfume,6,,
+ORD_0570,Sneakers,8,113.26,906.08
+ORD_0167,Chocolate,1,13.22,13.22
+ORD_0886,Shower Gel,5,31.86,159.30
+Bram Jansen,Instant Noodles,7,,
+ORD_1117,Router,1,,
+Ethan de Vries,Soup,8,26.96,215.68
+Laura van Dijk,Rice,7,16.12,56.42
+Evelyn Jansen,Skirt,2,136.95,273.90
+ORD_0864,Jam,4,7.71,30.84
+ORD_0045,Webcam,1,1047.62,1047.62
+Liam de Groot,Resistance Band,1,267.11,267.11
+ORD_1075,Swim Goggles,10,20,200.00
+Amelia Bakker,Yoga Mat,7,15.35,107.45
+Oliver Visser,Nuts,4,29.61,59.22
+ORD_0050,Mascara,,27.26,
+ORD_0624,Granola,4,3.28,13.12
+ORD_0434,Skirt,2,136.95,273.90
+Evelyn Bos,Biscuits,10,29.25,292.50
+Amelia Peters,Soap Dispenser,6,71.41,642.69
+Lisa de Boer,Boots,2,20,40.00
+Mason Mulder,Cycling Gloves,9,204.17,1837.53
+Benjamin Bakker,Peanut Butter,4,,
+ORD_0747,Hoodie,,158.66,
+ORD_0535,Hat,10,165.24,1652.40
+Nora de Boer,Crackers,6,24.01,144.06
+Lisa Visser,Dumbbell,1,180.1,180.10
+Sara Dekker,Dumbbell,1,180.1,180.10
+Noah de Vries,Speaker,,1049.85,
+Benjamin Dijkstra,Hoodie,2,158.66,317.32
+ORD_0684,Resistance Band,9,267.11,2403.99
+Amelia van den Berg,Hair Oil,3,20,60.00
+ORD_0551,Socks,8,68.84,826.08
+Aiden van den Berg,Microphone,9,779.69,7017.21
+Amelia Bos,Laundry Basket,1,119.13,119.13
+Benjamin Bakker,Speaker,2,1049.85,2099.70
+Amelia Bos,Soup,2,26.96,53.92
+Aiden Hendriks,Shorts,9,151.9,1367.10
+Ava Peeters,Smartwatch,1,576.28,576.28
+Daan Dekker,Instant Noodles,1,29.39,29.39
+Mia van den Berg,Laundry Basket,8,,
+Laura Dijkstra,Monitor,6,548.49,3290.94
+ORD_0398,Cushion,6,6.27,37.62
+Daan van Leeuwen,Jam,,7.71,
+ORD_0213,Shower Gel,2,31.86,63.72
+James de Boer,Protein Bar,10,6.97,34.85
+ORD_1141,Rug,9,81.5,733.50
+ORD_1200,Cereal,8,7.98,63.84
+ORD_0897,Jeans,8,20,160.00
+Sophia Vos,SSD Drive,1,819.93,819.93
+Mia Visser,Swimwear,7,130.23,911.61
+Amelia de Vries,Water Bottle,9,21.73,195.57
+Sem Hendriks,Foundation,2,41.65,83.30
+ORD_0055,Granola,,3.28,
+ORD_0944,Eye Cream,3,11.08,33.24
+Evelyn Peters,Skipping Rope,3,152.47,457.41
+ORD_0226,Coffee,9,9.46,85.14
+Daan Mulder,Keyboard,1,20,20.00
+Lucas Bakker,Kitchen Timer,5,72.94,364.70
+ORD_0576,Pasta,4,13.78,55.12
+Julia Vos,Power Bank,9,266.91,2402.19
+ORD_0460,Clock,4,137.5,550.00
+ORD_0365,Football,4,122.47,489.88
+Charlotte Hendriks,Basketball,7,20,140.00
+ORD_0913,Polo Shirt,1,138.95,138.95
+Harper de Vries,Gamepad,4,1043.03,2086.06
+Benjamin van Dijk,Candle,2,127.47,254.94
+Ava de Groot,Skipping Rope,4,152.47,609.88
+ORD_0294,Smartwatch,10,576.28,5762.80
+Lisa de Boer,Monitor,1,548.49,548.49
+Julia de Vries,Mouse,4,923.37,3693.48
+Amelia Bakker,Smartwatch,,576.28,
+Laura van Dijk,Crackers,9,24.01,216.09
+Mason van den Berg,Sunscreen,3,40.27,120.81
+ORD_0984,Socks,8,68.84,550.72
+ORD_0151,Boots,10,20,200.00
+ORD_0464,Dress,1,65.57,65.57
+ORD_0404,Pasta,7,13.78,96.46
+Mason Hendriks,Basketball,9,20,270.00
+ORD_0611,Picture Frame,7,,
+Benjamin Dijkstra,Coat,,130.08,
+Nora Mulder,Webcam,8,1047.62,12571.44
+Isabella de Groot,Olive Oil,2,15.63,31.26
+Benjamin Dekker,Plant Pot,6,118.04,602.00
+ORD_0905,Dress,,65.57,
+Finn de Boer,Belt,6,53.41,320.46
+Ava Vos,Tablet,8,1346.72,10773.76
+ORD_0913,Cereal,3,7.98,23.94
+ORD_0217,Smartwatch,8,576.28,4610.24
+Evelyn Jansen,Headphones,4,750.23,3000.92
+Mia Smit,Protein Bar,1,6.97,6.97
+Emma Peters,Tablet,10,,
+Mia de Boer,Tennis Racket,3,254.89,764.67
+ORD_0318,Soap Dispenser,5,71.41,357.05
+ORD_0279,Face Cream,7,23.96,167.72
+ORD_0848,Gamepad,10,1043.03,10430.30
+ORD_0729,Plant Pot,3,118.04,354.12
+Charlotte Peters,Gloves,,14.13,
+ORD_1116,Doormat,10,119.9,1199.00
+ORD_0247,Tomato Sauce,6,11.48,68.88
+Benjamin Bakker,Gloves,7,14.13,98.91
+ORD_0508,Peanut Butter,3,28.1,84.30
+ORD_0542,Picture Frame,8,88.73,709.84
+Liam Meijer,Storage Box,6,27.43,164.58
+ORD_1123,Boots,7,20,140.00
+Aiden Meijer,Rice,8,16.12,128.96
+ORD_0454,Swimwear,1,130.23,130.23
+Finn Dekker,Blanket,4,37.47,149.88
+ORD_0403,Hoodie,6,158.66,1094.75
+ORD_0128,Cycling Gloves,3,204.17,612.51
+ORD_0112,Serum,10,51.72,517.20
+Olivia de Vries,Sweater,8,132.17,1057.36
+ORD_0118,Jam,3,7.71,23.13
+ORD_0025,Gym Bag,3,133.33,399.99
+ORD_0767,Polo Shirt,8,138.95,1111.60
+Daan Bakker,Nuts,3,29.61,88.83
+ORD_0713,Charger,7,1142.39,11995.10
+Isabella Dekker,Gym Bag,5,133.33,666.65
+ORD_0786,Instant Noodles,2,29.39,58.78
+Nora Dekker,Toner,2,20,40.00
+ORD_0078,Oats,2,11.67,23.34
+ORD_1059,Laptop,3,20,60.00
+Sophia Vos,Mouse,8,923.37,11080.44
+ORD_0610,USB Hub,2,107.53,215.06
+ORD_0080,Picture Frame,8,88.73,709.84
+Noah Brouwer,Coasters,1,113.24,113.24
+ORD_0702,Laundry Basket,,119.13,
+Noah van Leeuwen,Scarf,5,142.73,820.70
+ORD_0951,Deodorant,9,49.92,449.28
+ORD_0582,Lip Balm,6,41.42,248.52
+Tim de Groot,Belt,4,53.41,213.64
+ORD_0988,Basketball,5,20,100.00
+ORD_1164,Foundation,1,41.65,41.65
+Aiden Mulder,Storage Box,8,,
+Oliver van Leeuwen,Shampoo,6,48.94,293.64
+Nora de Groot,Blanket,1,37.47,37.47
+ORD_0081,Belt,4,53.41,213.64
+ORD_0241,Pasta,9,13.78,124.02
+ORD_0790,Mouse,5,923.37,4616.85
+Sara Vos,Fitness Tracker,3,228.04,1026.18
+ORD_0575,Smartwatch,,576.28,
+ORD_0001,Jump Rope,,112.2,
+ORD_0205,Water Bottle,4,21.73,86.92
+Noah de Groot,Coasters,,,
+ORD_1083,Mascara,1,27.26,27.26
+ORD_0241,Jump Rope,10,112.2,1122.00
+ORD_0133,Toner,3,,
+ORD_0420,Smartwatch,4,576.28,2305.12
+ORD_1087,Smartwatch,5,576.28,2881.40
+James van Leeuwen,SSD Drive,1,,
+ORD_0582,Blanket,5,37.47,187.35
+ORD_0721,Microphone,6,779.69,4678.14
+Oliver Dekker,Boots,3,,
+ORD_0547,Tomato Sauce,5,11.48,57.40
+ORD_0158,Mirror,,34.64,
+ORD_0597,Laundry Basket,,119.13,
+ORD_0758,Coat Hanger,9,87.64,788.76
+Julia Hendriks,Water Bottle,7,21.73,152.11
+ORD_0098,Mascara,,27.26,
+ORD_0148,Eye Cream,3,11.08,33.24
+ORD_1063,Bicycle Helmet,2,293.98,293.98
+ORD_1079,Headphones,6,750.23,4501.38
+Daan Mulder,Keyboard,3,,
+Daan Bakker,Jacket,9,15.78,142.02
+ORD_1060,Instant Noodles,10,29.39,293.90
+ORD_0128,Granola,10,,
+Ava de Groot,Jacket,8,15.78,63.12
+James Brouwer,Headphones,,750.23,
+ORD_0300,Jacket,8,15.78,126.24
+ORD_0250,Hair Oil,10,,
+Emma Dekker,Towel,10,142.76,1427.60
+ORD_0252,Boots,9,20,180.00
+Emma Peeters,Honey,1,3.42,3.42
+Mason Bos,Storage Box,5,27.43,137.15
+Sem Brouwer,Instant Noodles,9,29.39,264.51
+ORD_0518,Protein Bar,4,6.97,27.88
+Olivia de Vries,Basketball,4,20,40.00
+ORD_0650,Chocolate,3,13.22,39.66
+Isabella Peeters,Skipping Rope,6,152.47,457.41
+Benjamin Dekker,Shorts,9,151.9,1367.10
+ORD_0561,Keyboard,9,20,180.00
+ORD_0470,Biscuits,10,29.25,292.50
+ORD_0476,Lip Balm,1,41.42,41.42
+Aiden Smit,Razor,7,62.25,435.75
+Evelyn Peters,Doormat,4,119.9,479.60
+Sara Smit,Dried Fruit,2,20,40.00
+ORD_0500,Badminton Set,,178.08,
+ORD_1167,Resistance Band,1,267.11,267.11
+Julia Vos,Lip Balm,8,41.42,331.36
+ORD_0681,Cereal,6,,
+ORD_0628,Gym Bag,8,133.33,906.64
+Oliver van Dijk,Shorts,6,151.9,911.40
+ORD_0861,Eye Cream,2,11.08,22.16
+ORD_1081,Vase,1,74.99,74.99
+ORD_1063,Mouse,3,923.37,2770.11
+Daan van Dijk,Sunscreen,8,40.27,273.84
+ORD_0241,Laundry Basket,5,119.13,595.65
+Olivia Meijer,Laundry Basket,3,,
+Laura Dekker,Jam,7,7.71,53.97
+Charlotte Peeters,Tablet,,1346.72,
+ORD_0571,Perfume,8,9.51,76.08
+ORD_0685,Skipping Rope,8,152.47,1219.76
+Oliver de Groot,Microphone,3,779.69,2339.07
+James de Groot,Tomato Sauce,,11.48,
+Mia de Vries,Rice,8,16.12,128.96
+ORD_0174,Tea,9,3.37,45.50
+ORD_0952,Graphics Card,4,289.49,1157.96
+ORD_0378,Boots,4,20,80.00
+ORD_0760,Biscuits,6,,
+ORD_1119,Kitchen Timer,10,72.94,729.40
+Oliver van Leeuwen,Razor,,62.25,
+ORD_0540,Tennis Racket,9,254.89,2294.01
+Lucas van Dijk,Tablet,1,1346.72,673.36
+Bram Peeters,Rug,9,81.5,733.50
+Ethan Smit,Router,,173.62,
+Charlotte Visser,Tomato Sauce,5,11.48,57.40
+Nora Visser,Instant Noodles,5,29.39,146.95
+Finn van Leeuwen,Laundry Basket,7,119.13,833.91
+ORD_0706,Doormat,4,119.9,479.60
+ORD_0708,Lip Balm,7,41.42,289.94
+Aiden de Vries,Peanut Butter,7,28.1,196.70
+Levi de Groot,Instant Noodles,8,29.39,235.12
+ORD_0752,Coat,1,130.08,130.08
+ORD_0035,Running Shoes,2,19.47,38.94
+ORD_0594,Soap Dispenser,4,71.41,285.64
+Liam Dekker,Fitness Tracker,9,,
+ORD_0089,Olive Oil,9,,
+Liam Meijer,Chocolate,4,13.22,52.88
+ORD_0013,Lip Balm,6,41.42,248.52
+Noah Jansen,Pasta,10,13.78,137.80
+Benjamin van den Berg,Charger,7,1142.39,7996.73
+Isabella Peeters,Resistance Band,5,267.11,1335.55
+Sophia Vos,Foundation,4,41.65,166.60
+ORD_0078,Face Mask,1,,
+Finn de Groot,Jeans,2,20,40.00
+Ava Vos,Cereal,2,7.98,15.96
+Laura de Vries,Cutting Board,1,37.79,37.79
+ORD_0372,Gamepad,8,1043.03,8344.24
+ORD_0170,Badminton Set,7,178.08,1246.56
+ORD_0404,Nail Polish,10,43.42,434.20
+Isabella de Vries,Granola,5,3.28,16.40
+ORD_0747,Headphones,6,750.23,4501.38
+ORD_0154,Running Shoes,10,19.47,194.70
+Sophia Peeters,Earbuds,6,1420.23,8521.38
+Amelia de Vries,Power Bank,5,266.91,1334.55
+ORD_0076,Plant Pot,2,118.04,236.08
+ORD_0990,SSD Drive,1,819.93,819.93
+Mason van den Berg,Jacket,8,15.78,126.24
+ORD_0187,USB Hub,2,107.53,215.06
+Sophia Dijkstra,Sweater,5,132.17,660.85
+ORD_0491,Perfume,,9.51,
+Isabella Meijer,Shorts,9,151.9,1367.10
+ORD_0184,Boots,6,20,120.00
+Amelia Vos,Candle,5,127.47,637.35
+ORD_0493,USB Hub,7,107.53,1129.07
+ORD_0092,Doormat,2,119.9,275.77
+ORD_0879,Mouse,6,923.37,5540.22
+ORD_0354,Belt,7,53.41,186.94
+ORD_0182,Dumbbell,7,180.1,1260.70
+Ethan de Vries,Smart TV,6,563.86,3383.16
+ORD_0682,Kitchen Timer,2,72.94,72.94
+Bram Vos,Badminton Set,9,178.08,1602.72
+ORD_0508,Smartwatch,1,576.28,288.14
+Noah de Vries,Lamp,5,129.35,646.75
+Ava Peeters,Doormat,1,119.9,119.90
+Bram Peeters,Mirror,7,34.64,242.48
+ORD_0880,Dress,4,65.57,262.28
+Noah Vos,Scarf,4,142.73,570.92
+Lucas de Vries,Blanket,9,37.47,337.23
+ORD_0115,Soap Dispenser,7,71.41,499.87
+Lucas van Dijk,Cushion,8,,
+ORD_0095,Jump Rope,,112.2,
+ORD_0796,Cardigan,1,131.63,131.63
+ORD_0735,Mascara,7,27.26,190.82
+ORD_0983,Swimwear,6,130.23,781.38
+Lisa Dekker,Sweater,6,132.17,396.51
+ORD_1188,Deodorant,8,49.92,399.36
+Finn Brouwer,Pasta,6,13.78,82.68
+Emma Bos,Candle,9,127.47,1147.23
+ORD_0736,Cutting Board,2,37.79,75.58
+ORD_0029,Tablet,9,1346.72,12120.48
+Tim van Leeuwen,Headphones,7,750.23,5251.61
+Ava Peters,Shower Gel,3,31.86,95.58
+ORD_1194,Deodorant,2,49.92,49.92
+Julia Bos,Socks,5,68.84,344.20
+Julia Dekker,Resistance Band,2,267.11,534.22
+ORD_0718,Yoga Mat,10,15.35,153.50
+Isabella Meijer,Lip Balm,3,41.42,124.26
+Finn de Groot,Rice,2,16.12,32.24
+Lucas Bakker,Gloves,3,14.13,42.39
+Julia Smit,Jacket,1,15.78,15.78
+ORD_0618,Cardigan,7,131.63,921.41
+Mia Bos,Blazer,1,88.9,88.90
+ORD_0830,Mug,6,92.79,556.74
+Evelyn van den Berg,Razor,,,
+ORD_1193,Football,3,122.47,367.41
+Benjamin Bakker,Vase,10,74.99,749.90
+Sophia Jansen,Running Shoes,1,,
+Lisa Dekker,Tablet,4,1346.72,5386.88
+ORD_0878,Cardigan,4,131.63,526.52
+ORD_0017,Shorts,8,151.9,1215.20
+ORD_0621,Cereal,7,7.98,55.86
+James Vos,Biscuits,2,29.25,58.50
+Laura van Dijk,Graphics Card,1,289.49,289.49
+Noah Brouwer,Blanket,8,37.47,299.76
+ORD_0515,Picture Frame,6,88.73,532.38
+Sophia Bakker,Mug,10,92.79,927.90
+Aiden Meijer,Gloves,1,14.13,14.13
+ORD_0010,Dried Fruit,10,20,200.00
+Evelyn Dijkstra,Chocolate,2,,
+ORD_0538,Sports Watch,1,35.57,35.57
+Ethan Bos,Running Shoes,7,19.47,136.29
+Liam Bos,Headphones,5,750.23,3751.15
+ORD_0882,Resistance Band,10,267.11,2671.10
+ORD_1018,Kitchen Timer,2,,
+Julia de Vries,Eye Cream,4,11.08,50.97
+ORD_0976,Jam,6,7.71,46.26
+ORD_0138,Microphone,3,779.69,2339.07
+ORD_1071,Tea,8,3.37,26.96
+Lucas Mulder,Smartphone,4,945.45,3781.80
+Mason de Groot,Instant Noodles,1,,
+Levi Meijer,T-Shirt,4,20,80.00
+Aiden Peters,Soap Dispenser,2,71.41,142.82
+Evelyn Peters,Water Bottle,7,21.73,152.11
+Mason Brouwer,Jacket,9,15.78,142.02
+Benjamin Peters,Monitor,1,548.49,548.49
+ORD_0135,Earbuds,10,,
+ORD_1106,Laundry Basket,2,119.13,238.26
+Sara de Groot,Coat,2,130.08,260.16
+Charlotte Vos,Nuts,4,29.61,118.44
+Ethan Brouwer,Scarf,5,142.73,713.65
+Sem Vos,Water Bottle,6,21.73,130.38
+ORD_0713,Foundation,6,41.65,249.90
+Lucas van Dijk,Crackers,6,,
+Aiden Jansen,Soap Dispenser,10,71.41,714.10
+Oliver van Leeuwen,Clock,6,137.5,825.00
+Emma Visser,Rug,1,81.5,81.50
+Laura de Vries,Laundry Basket,5,,
+Laura Dijkstra,Kitchen Timer,3,72.94,218.82
+ORD_1119,Coat,5,130.08,650.40
+ORD_1166,Rice,9,16.12,145.08
+ORD_0557,Vase,5,74.99,374.95
+Laura Dijkstra,Keyboard,10,20,170.00
+Julia de Vries,Running Shoes,10,19.47,194.70
+Sem de Boer,T-Shirt,10,20,170.00
+ORD_1045,Cycling Gloves,,204.17,
+Evelyn Mulder,Tablet,4,1346.72,2693.44
+Julia Meijer,Foam Roller,3,77.79,233.37
+ORD_0652,Kitchen Timer,2,72.94,145.88
+Lucas Bos,Granola,2,3.28,6.56
+ORD_0302,Picture Frame,10,88.73,887.30
+Charlotte Peters,Keyboard,5,,
+ORD_0767,Body Lotion,9,18.63,167.67
+ORD_0478,Toothbrush,6,77.28,231.84
+ORD_0097,Candle,6,127.47,764.82
+Julia Bos,Foam Roller,10,77.79,777.90
+ORD_0578,Granola,5,3.28,8.20
+Liam Dekker,Pasta,3,13.78,41.34
+ORD_0438,Scarf,8,142.73,1141.84
+ORD_0315,Deodorant,8,49.92,399.36
+Noah Brouwer,Mouse,8,923.37,7386.96
+Charlotte Peeters,Soup,2,26.96,53.92
+ORD_0265,Shorts,10,151.9,1519.00
+Harper Brouwer,Boots,3,20,60.00
+ORD_1159,Rug,6,81.5,489.00
+Sem van den Berg,SSD Drive,10,819.93,8199.30
+Laura de Vries,Serum,,51.72,
+Daan Hendriks,Jacket,3,,
+Julia Dijkstra,Sunscreen,,40.27,
+ORD_0671,Smartwatch,2,576.28,1152.56
+Lisa Visser,Shower Gel,9,31.86,286.74
+Mia van den Berg,Microphone,7,779.69,5457.83
+Sara Smit,Conditioner,8,38.22,305.76
+ORD_0127,Hoodie,3,158.66,475.98
+ORD_1021,Jam,8,7.71,61.68
+Lisa Visser,Laundry Basket,9,119.13,1072.17
+ORD_0027,Socks,8,68.84,550.72
+Lucas Mulder,Coasters,3,113.24,339.72
+ORD_0257,Smartwatch,8,576.28,4610.24
+Isabella Jansen,Knee Pads,3,37.22,111.66
+Lucas van Dijk,Jacket,1,15.78,15.78
+Aiden Visser,Socks,3,68.84,206.52
+James Brouwer,Storage Box,6,27.43,164.58
+Mason Mulder,Monitor,9,548.49,4936.41
+ORD_0243,Lamp,7,129.35,905.45
+Lucas Peters,Perfume,2,9.51,19.02
+Harper Peters,Hair Oil,5,20,100.00
+ORD_0444,Soup,10,26.96,269.60
+Lucas Peeters,Webcam,5,,
+ORD_0972,Sports Watch,8,35.57,284.56
+ORD_0920,Storage Box,2,27.43,54.86
+Sem Bakker,Coat Hanger,8,87.64,806.29
+ORD_0171,Cereal,5,7.98,39.90
+ORD_0561,Laundry Basket,,119.13,
+Olivia Visser,Swimwear,5,130.23,651.15
+Amelia Vos,Tea,10,3.37,33.70
+ORD_1063,Serum,6,,
+Sem Peters,Microphone,9,779.69,7017.21
+Charlotte Peters,Running Shoes,7,19.47,136.29
+Charlotte Smit,Microphone,10,779.69,8966.43
+Daan Bakker,Plant Pot,8,118.04,944.32
+ORD_0185,Granola,9,3.28,29.52
+James Vos,Plant Pot,6,118.04,708.24
+ORD_0357,Scarf,3,142.73,428.19
+ORD_1140,Socks,5,68.84,344.20
+ORD_1057,Conditioner,3,38.22,114.66
+Nora de Groot,Boots,,20,
+ORD_0780,Resistance Band,9,267.11,2403.99
+Lucas Brouwer,Water Bottle,1,21.73,21.73
+ORD_0268,Dried Fruit,9,,
+James van Leeuwen,T-Shirt,10,20,200.00
+ORD_0864,Gamepad,10,1043.03,10430.30
+ORD_0425,Kitchen Timer,5,72.94,364.70
+ORD_0636,Doormat,9,119.9,1079.10
+ORD_0166,Rice,7,16.12,112.84
+ORD_0891,Crackers,9,24.01,216.09
+Sem Vos,Serum,2,51.72,103.44
+ORD_0016,Earbuds,1,,
+Laura Hendriks,Towel,4,142.76,571.04
+Lucas Visser,Basketball,9,20,180.00
+Noah de Vries,Coasters,8,113.24,905.92
+ORD_0756,Monitor,5,548.49,2742.45
+ORD_0473,Basketball,9,20,180.00
+Mia Peters,Leggings,9,21.18,190.62
+ORD_1139,Skirt,6,,
+Lucas Smit,Dumbbell,5,180.1,900.50
+ORD_0012,Biscuits,8,29.25,234.00
+Laura Peeters,Smart TV,8,,
+ORD_1091,Speaker,1,1049.85,1049.85
+ORD_0243,Blanket,3,37.47,112.41
+ORD_0637,Smart TV,1,563.86,648.44
+Finn Visser,Smart TV,9,,
+Mia van den Berg,Earbuds,5,1420.23,7101.15
+ORD_1027,Candle,10,127.47,1274.70
+Sara Bakker,Laptop,,20,
+ORD_0830,Dress,9,65.57,590.13
+ORD_0301,Rice,6,16.12,48.36
+ORD_0687,Coffee,2,9.46,18.92
+ORD_0837,Crackers,1,24.01,24.01
+ORD_0755,SSD Drive,5,819.93,4099.65
+Evelyn Peters,Scarf,5,142.73,713.65
+Bram Vos,Instant Noodles,10,,
+Finn van Dijk,Clock,5,137.5,687.50
+Isabella Meijer,Bicycle Helmet,6,,
+Lucas Vos,Storage Box,8,27.43,219.44
+Emma Mulder,Shorts,5,151.9,759.50
+Amelia Bakker,Face Cream,7,23.96,167.72
+Ava de Boer,Olive Oil,9,15.63,140.67
+ORD_0801,Jump Rope,,,
+ORD_0318,Running Shoes,6,19.47,116.82
+ORD_0264,Soup,1,26.96,26.96
+ORD_0944,Hat,8,165.24,1520.21
+Olivia Brouwer,Hoodie,6,158.66,951.96
+Mason de Groot,Monitor,5,548.49,2742.45
+Olivia de Vries,Candle,10,127.47,1274.70
+ORD_0467,Shower Gel,4,31.86,108.32
+Evelyn Bos,Cereal,10,7.98,79.80
+Finn Meijer,Mouse,4,923.37,3693.48
+ORD_0282,Swimwear,10,130.23,1302.30
+ORD_0184,Eye Cream,,11.08,
+ORD_0428,Tomato Sauce,7,11.48,80.36
+Benjamin Bakker,Coasters,10,113.24,1132.40
+Mia Visser,Gamepad,5,1043.03,2607.57
+ORD_0318,Granola,5,3.28,16.40
+ORD_0508,Smart TV,,563.86,
+Ethan Visser,Lip Balm,,41.42,
+Harper van den Berg,Storage Box,7,27.43,192.01
+Benjamin van den Berg,Pasta,6,13.78,82.68
+ORD_0200,Crackers,10,24.01,240.10
+Bram Vos,Jump Rope,,112.2,
+Sem Peters,Laptop,9,20,180.00
+ORD_0816,Bicycle Helmet,8,293.98,2351.84
+ORD_0389,Olive Oil,5,,
+ORD_0901,Leggings,5,21.18,105.90
+ORD_0121,Speaker,3,1049.85,3149.55
+ORD_0995,Earbuds,2,1420.23,4260.69
+Tim de Vries,Dried Fruit,5,20,100.00
+Isabella Jansen,Tennis Racket,9,254.89,2294.01
+ORD_0962,Razor,2,62.25,124.50
+ORD_0824,Hat,1,165.24,165.24
+Julia Meijer,Cycling Gloves,9,,
+Ava de Groot,Power Bank,10,266.91,2669.10
+ORD_0141,Mirror,3,34.64,103.92
+ORD_0662,Tablet,9,1346.72,12120.48
+Finn Dekker,Gamepad,4,1043.03,4172.12
+Laura de Vries,Power Bank,10,266.91,2669.10
+ORD_0165,Webcam,8,1047.62,8380.96
+ORD_1034,Sweater,7,132.17,925.19
+Lucas Smit,Foundation,10,41.65,416.50
+Sophia Vos,Hair Oil,9,20,180.00
+Harper Smit,Jacket,5,15.78,78.90
+Aiden Mulder,Shower Gel,2,31.86,31.86
+ORD_0751,Towel,4,142.76,571.04
+Julia Hendriks,Mirror,1,34.64,34.64
+ORD_0544,Cycling Gloves,4,204.17,816.68
+ORD_0557,Doormat,3,119.9,359.70
+Sem Bakker,Earbuds,2,1420.23,4260.69
+Charlotte Dekker,Chocolate,2,13.22,26.44
+ORD_0046,Graphics Card,7,289.49,2026.43
+Sara Jansen,Serum,2,51.72,103.44
+ORD_0372,Storage Box,3,27.43,82.29
+ORD_0987,Tomato Sauce,,11.48,
+ORD_0807,Foam Roller,6,77.79,466.74
+Noah Jansen,Coffee,7,9.46,66.22
+Oliver Vos,Tea,3,3.37,10.11
+Tim Meijer,Dried Fruit,1,20,10.00
+ORD_0715,Swimwear,7,130.23,911.61
+ORD_0549,Dried Fruit,,20,
+Harper Mulder,Gym Bag,1,133.33,200.00
+James Vos,Face Cream,,23.96,
+ORD_0897,Cutting Board,10,37.79,377.90
+ORD_0197,Tablet,7,1346.72,9427.04
+Mason Brouwer,Serum,7,51.72,362.04
+ORD_0583,Earbuds,,1420.23,
+ORD_0472,Tablet,,1346.72,
+Charlotte Dekker,Belt,1,53.41,80.11
+Sem Bakker,Mug,6,92.79,556.74
+Laura Dijkstra,Pasta,4,13.78,55.12
+Ethan Hendriks,Body Lotion,2,18.63,37.26
+Oliver de Boer,Football,8,122.47,489.88
+James Brouwer,Lip Balm,2,41.42,82.84
+Benjamin Bos,Jam,8,7.71,61.68
+ORD_0284,Webcam,8,1047.62,8380.96
+Isabella Jansen,Sports Watch,2,35.57,71.14
+Evelyn Peters,Mug,2,92.79,185.58
+ORD_0332,Soap Dispenser,2,71.41,142.82
+Ethan Visser,Leggings,1,21.18,21.18
+ORD_1086,Coat Hanger,2,87.64,175.28
+Mia van Leeuwen,Power Bank,5,266.91,1334.55
+ORD_1091,Jeans,10,20,200.00
+ORD_0444,Honey,3,3.42,8.72
+ORD_0498,Skirt,3,136.95,410.85
+Aiden Brouwer,Resistance Band,5,267.11,1335.55
+Noah Jansen,Rug,7,81.5,570.50
+Amelia de Groot,Instant Noodles,6,29.39,176.34
+Benjamin van Leeuwen,Biscuits,8,29.25,234.00
+Aiden Jansen,Cereal,9,7.98,71.82
+Sem van den Berg,Tomato Sauce,5,11.48,57.40
+ORD_1000,Blanket,10,37.47,374.70
+Sophia Bakker,Chocolate,1,13.22,13.22
+ORD_0238,Dress,,65.57,
+Laura de Vries,Honey,1,3.42,1.71
+Mia Visser,Lamp,2,129.35,258.70
+ORD_0776,Foam Roller,10,77.79,777.90
+ORD_0959,Hoodie,5,158.66,793.30
+ORD_0592,T-Shirt,6,20,120.00
+ORD_0433,Pasta,3,13.78,20.67
+ORD_0138,Coat,2,130.08,260.16
+ORD_0086,Lamp,6,129.35,776.10
+Finn de Groot,Swimwear,5,130.23,651.15
+ORD_0883,Lip Balm,4,41.42,165.68
+ORD_0883,Router,4,173.62,694.48
+Mason van Dijk,Granola,2,3.28,6.56
+Daan Bakker,Rice,3,16.12,48.36
+Ava van Leeuwen,Hoodie,1,,
+Ethan Mulder,Sneakers,4,113.26,453.04
+ORD_0194,Kitchen Timer,3,,
+ORD_0055,Coat Hanger,1,87.64,87.64
+Aiden Bakker,SSD Drive,5,819.93,4099.65
+Bram Peeters,Earbuds,7,1420.23,8450.37
+ORD_0086,Lamp,10,129.35,1293.50
+ORD_1130,Sneakers,4,,
+Oliver Dekker,T-Shirt,5,20,115.00
+Harper Mulder,Dress,9,65.57,590.13
+Finn Mulder,Swimwear,10,130.23,1302.30
+ORD_0388,Rice,10,,
+Sara Smit,Mascara,3,27.26,81.78
+Bram van Leeuwen,Coasters,7,113.24,792.68
+Amelia Bakker,Toner,6,20,180.00
+Lisa Bos,Cardigan,1,131.63,131.63
+Benjamin van den Berg,Clock,,137.5,
+ORD_0253,Lip Balm,7,41.42,144.97
+ORD_0751,Vase,2,74.99,149.98
+ORD_0010,Granola,8,3.28,26.24
+Ethan de Groot,Coasters,9,113.24,1019.16
+Liam de Groot,USB Hub,8,107.53,860.24
+ORD_0607,Leggings,10,21.18,180.03
+James de Groot,Headphones,4,750.23,3000.92
+Julia de Vries,Resistance Band,9,267.11,2403.99
+ORD_1022,Jacket,3,15.78,47.34
+Benjamin de Groot,Shorts,1,151.9,151.90
+ORD_0039,Sweater,8,132.17,1057.36
+ORD_0194,Peanut Butter,9,28.1,252.90
+Amelia Bakker,Toner,2,20,40.00
+Julia van den Berg,Nuts,4,29.61,118.44
+Benjamin Dijkstra,Headphones,10,750.23,7502.30
+ORD_0617,Laundry Basket,4,119.13,476.52
+ORD_1143,Tablet,7,1346.72,9427.04
+Sara de Vries,Gloves,,14.13,
+Oliver Vos,Headphones,10,750.23,8627.65
+ORD_0229,Granola,4,3.28,13.12
+Julia Dijkstra,Tennis Racket,,254.89,
+Benjamin Bakker,Fitness Tracker,2,228.04,456.08
+ORD_0252,Socks,5,68.84,344.20
+Evelyn van den Berg,Nail Polish,3,43.42,130.26
+ORD_0411,Boots,9,,
+ORD_0753,Headphones,5,750.23,3751.15
+Nora Bos,Cushion,8,6.27,50.16
+Lucas de Vries,Laundry Basket,10,119.13,1191.30
+ORD_0722,Monitor,8,548.49,5046.11
+Ethan Smit,Nail Polish,4,43.42,173.68
+ORD_0500,Pasta,3,13.78,41.34
+ORD_0910,Face Mask,7,52.96,370.72
+James de Vries,Microphone,10,779.69,7796.90
+Finn Visser,Lip Balm,9,41.42,372.78
+ORD_0403,Bicycle Helmet,6,293.98,1763.88
+Liam Bos,Instant Noodles,8,29.39,235.12
+ORD_0363,Perfume,10,9.51,95.10
+ORD_0547,Sports Watch,4,35.57,142.28
+Sem Dijkstra,Football,4,122.47,489.88
+Ethan Hendriks,Tea,4,3.37,13.48
+Laura Peeters,Webcam,10,1047.62,10476.20
+ORD_0059,Gamepad,,1043.03,
+ORD_0404,Bicycle Helmet,8,293.98,2351.84
+Sophia Dijkstra,Mug,7,92.79,649.53
+Oliver Dijkstra,SSD Drive,,819.93,
+Liam de Boer,Doormat,2,119.9,239.80
+Olivia van Leeuwen,Instant Noodles,,29.39,
+ORD_0002,Running Shoes,4,19.47,77.88
+Tim Meijer,Foam Roller,4,77.79,311.16
+Nora de Boer,Smart TV,4,,
+ORD_1061,Tomato Sauce,8,11.48,91.84
+ORD_0192,Water Bottle,4,21.73,86.92
+ORD_0479,Rug,10,81.5,815.00
+Finn de Boer,Toner,2,20,40.00
+ORD_0055,Instant Noodles,9,29.39,264.51
+ORD_0995,Lamp,8,,
+Julia de Vries,Coat,6,130.08,780.48
+ORD_0247,Laptop,,20,
+ORD_0445,Cutting Board,8,37.79,453.48
+Ethan Smit,Conditioner,4,,
+ORD_0778,Honey,8,3.42,27.36
+ORD_1000,Nail Polish,6,43.42,221.44
+ORD_0832,Jump Rope,3,,
+ORD_0946,Laptop,,20,
+Evelyn van Leeuwen,Biscuits,9,29.25,263.25
+Charlotte van Leeuwen,Instant Noodles,10,29.39,293.90
+ORD_0304,Speaker,7,1049.85,6246.61
+ORD_0288,Toothbrush,4,77.28,309.12
+Tim Visser,Hair Oil,9,20,180.00
+Sem van den Berg,Hat,10,165.24,1652.40
+Aiden Meijer,Power Bank,3,266.91,800.73
+Ethan Bos,Coat Hanger,2,87.64,175.28
+ORD_0771,Toothbrush,7,77.28,540.96
+Sem Dekker,Cardigan,5,131.63,658.15
+ORD_0957,Chocolate,3,13.22,39.66
+ORD_0074,Sweater,7,,
+Finn de Groot,Face Cream,10,23.96,239.60
+Liam Peeters,Keyboard,,20,
+ORD_0565,Storage Box,8,27.43,186.52
+ORD_0206,Gym Bag,9,133.33,1199.97
+James Peeters,Polo Shirt,,138.95,
+ORD_0702,Doormat,3,119.9,359.70
+Mia Dekker,Olive Oil,4,15.63,62.52
+ORD_0010,Jump Rope,2,112.2,224.40
+ORD_0603,Storage Box,3,27.43,69.95
+Laura de Vries,Mirror,3,34.64,103.92
+Liam Meijer,Graphics Card,2,,
+Lucas Bakker,Hat,2,165.24,330.48
+ORD_0808,Sneakers,3,113.26,339.78
+ORD_1115,Oats,1,11.67,11.67
+ORD_0096,Instant Noodles,3,29.39,88.17
+Noah de Groot,Webcam,7,1047.62,7333.34
+ORD_0522,Lamp,5,129.35,646.75
+ORD_0368,Picture Frame,2,88.73,177.46
+Lucas Bos,Running Shoes,6,19.47,116.82
+Harper Meijer,Mascara,10,27.26,272.60
+ORD_0403,Hoodie,9,158.66,1427.94
+Liam van den Berg,Headphones,3,750.23,2250.69
+Julia de Vries,Gym Bag,3,133.33,399.99
+Olivia Peeters,Blazer,10,88.9,889.00
+Julia Dijkstra,Sweater,7,132.17,925.19
+ORD_1180,Kitchen Timer,10,72.94,729.40
+ORD_0638,Monitor,8,548.49,4387.92
+ORD_0224,Razor,5,62.25,311.25
+ORD_0558,Lip Balm,5,41.42,207.10
+ORD_0877,Running Shoes,5,19.47,146.02
+Liam van den Berg,Storage Box,3,27.43,82.29
+ORD_0673,Mouse,,923.37,
+Laura Jansen,Foundation,5,41.65,208.25
+Liam Mulder,Boots,4,20,80.00
+ORD_1021,Vase,,74.99,
+Bram van Leeuwen,Leggings,,21.18,
+Isabella Dijkstra,Badminton Set,3,178.08,801.36
+ORD_0731,T-Shirt,5,20,100.00
+ORD_0164,Charger,8,,
+ORD_1024,Toothpaste,6,20,102.00
+Ava Peters,Skipping Rope,7,152.47,1067.29
+Mia Jansen,Oats,7,11.67,81.69
+ORD_0275,Jacket,10,15.78,157.80
+ORD_0746,Biscuits,5,29.25,146.25
+ORD_0330,Body Lotion,4,18.63,74.52
+ORD_0956,Nail Polish,1,43.42,43.42
+ORD_0615,Honey,1,3.42,3.42
+Nora Dekker,Blanket,9,37.47,337.23
+ORD_0924,Smartphone,,945.45,
+Amelia de Groot,Candle,9,127.47,1147.23
+ORD_0850,Sweater,2,132.17,264.34
+ORD_0245,Olive Oil,10,15.63,156.30
+ORD_0441,Towel,,142.76,
+ORD_0753,Olive Oil,6,15.63,93.78
+Noah Jansen,Foundation,10,41.65,416.50
+Laura van Dijk,Skirt,6,136.95,821.70
+Emma Bos,Chocolate,6,13.22,79.32
+Levi Dijkstra,Tennis Racket,10,254.89,2548.90
+ORD_0124,Gym Bag,6,133.33,679.98
+Nora Visser,Belt,1,,
+Laura Dekker,Cushion,6,6.27,37.62
+ORD_0389,Deodorant,3,49.92,149.76
+ORD_0970,Picture Frame,9,88.73,798.57
+ORD_0040,Laundry Basket,4,119.13,476.52
+ORD_1098,Deodorant,2,49.92,99.84
+ORD_0646,USB Hub,2,107.53,215.06
+Oliver van Leeuwen,Tablet,3,1346.72,4040.16
+ORD_0678,Protein Bar,2,6.97,13.94
+ORD_0032,Coat,8,130.08,1040.64
+ORD_0045,Shower Gel,,31.86,
+Emma Smit,Gym Bag,3,133.33,399.99
+James van Leeuwen,Mouse,,923.37,
+Sem Peters,Yoga Mat,9,15.35,138.15
+Noah de Vries,Hoodie,10,158.66,1586.60
+Harper Bos,Cutting Board,6,37.79,226.74
+ORD_0544,Soap Dispenser,3,71.41,214.23
+ORD_0032,Speaker,10,1049.85,10498.50
+Lucas Mulder,Sweater,1,,
+ORD_0355,Coasters,2,113.24,226.48
+Evelyn van den Berg,SSD Drive,9,819.93,7379.37
+Ava Peters,Laundry Basket,4,119.13,476.52
+Mia Bos,Toothbrush,1,77.28,77.28
+Mia Peters,Pasta,2,13.78,27.56
+Benjamin Hendriks,USB Hub,4,107.53,430.12
+Daan de Groot,Razor,4,62.25,249.00
+Olivia de Groot,Serum,6,51.72,310.32
+Daan de Groot,Leggings,7,21.18,148.26
+ORD_1061,Knee Pads,10,37.22,372.20
+ORD_1198,Cushion,5,6.27,36.05
+ORD_0251,Tablet,7,1346.72,9427.04
+ORD_1139,Picture Frame,3,88.73,266.19
+ORD_1120,Nuts,4,29.61,118.44
+ORD_0957,Jam,7,7.71,53.97
+Daan Bakker,Crackers,5,24.01,120.05
+ORD_1114,Face Cream,8,23.96,191.68
+Charlotte de Boer,Vase,,74.99,
+Lucas Brouwer,Dried Fruit,6,20,120.00
+Amelia Vos,Mirror,1,34.64,34.64
+Liam Meijer,Rice,1,16.12,16.12
+ORD_0205,Sweater,10,132.17,1321.70
+ORD_0106,Cushion,5,6.27,15.67
+ORD_0944,Scarf,5,142.73,713.65
+ORD_1192,Granola,6,3.28,19.68
+Olivia de Groot,Perfume,,9.51,
+ORD_1118,Toothpaste,5,20,85.00
+ORD_0298,Water Bottle,8,21.73,173.84
+Lisa Dekker,Face Mask,10,52.96,529.60
+ORD_1086,Soap Dispenser,4,71.41,328.49
+Daan Mulder,Swim Goggles,7,20,140.00
+ORD_0930,Soup,,26.96,
+Emma Dijkstra,Yoga Mat,3,15.35,46.05
+Emma Mulder,Headphones,6,750.23,4501.38
+Mason van Dijk,Lamp,3,129.35,388.05
+ORD_0549,Football,1,122.47,122.47
+Liam de Boer,Shower Gel,5,31.86,159.30
+Finn van Leeuwen,Vase,9,,
+ORD_0373,Boots,1,20,20.00
+ORD_0629,Crackers,6,24.01,144.06
+ORD_0606,USB Hub,6,107.53,967.77
+Isabella van den Berg,Deodorant,3,49.92,149.76
+ORD_0091,Biscuits,3,29.25,87.75
+James Peeters,Blanket,10,37.47,430.90
+ORD_1095,Swim Goggles,2,20,40.00
+ORD_1156,Swim Goggles,8,20,160.00
+Noah Brouwer,Boots,,20,
+ORD_1073,Jacket,6,15.78,94.68
+ORD_0321,Dried Fruit,10,20,200.00
+Daan van Leeuwen,Coasters,,113.24,
+Olivia Meijer,Face Mask,5,52.96,264.80
+ORD_0336,Lip Balm,8,41.42,331.36
+ORD_0802,Serum,5,51.72,258.60
+Oliver van Leeuwen,Face Cream,2,23.96,47.92
+Emma Jansen,Power Bank,8,266.91,2135.28
+ORD_0573,Nail Polish,8,43.42,347.36
+Laura Jansen,Dumbbell,,180.1,
+ORD_0645,Charger,3,1142.39,3427.17
+Liam Dekker,Nail Polish,1,43.42,43.42
+Olivia Peeters,Face Mask,7,52.96,370.72
+ORD_0968,Jeans,1,20,20.00
+Lucas Mulder,Smart TV,2,563.86,1127.72
+Oliver Smit,Smart TV,8,563.86,4510.88
+Laura de Vries,Shampoo,,48.94,
+ORD_0252,Boots,7,20,140.00
+ORD_0529,Instant Noodles,1,29.39,29.39
+Lucas Bakker,Belt,9,53.41,480.69
+Lisa Dekker,Eye Cream,8,11.08,101.94
+Liam Dekker,Picture Frame,2,88.73,177.46
+Charlotte Dekker,Power Bank,8,,
+ORD_0999,T-Shirt,8,20,160.00
+Daan Peeters,T-Shirt,1,20,20.00
+ORD_0451,Nail Polish,5,43.42,217.10
+ORD_1001,Mug,9,,
+ORD_0506,T-Shirt,3,20,60.00
+Daan Mulder,Olive Oil,8,15.63,125.04
+ORD_0972,Cutting Board,6,37.79,226.74
+Lucas van Dijk,Chocolate,5,13.22,66.10
+ORD_0238,Polo Shirt,2,138.95,277.90
+Nora Bos,Mouse,10,923.37,9233.70
+Benjamin Dijkstra,Lip Balm,4,,
+Levi Dijkstra,Football,10,122.47,1224.70
+Julia van den Berg,Shampoo,9,48.94,440.46
+ORD_0332,Granola,,3.28,
+ORD_0884,Foundation,4,41.65,166.60
+ORD_0717,Chocolate,6,13.22,79.32
+ORD_0891,Olive Oil,5,15.63,78.15
+Sem Peters,Toothpaste,8,20,160.00
+ORD_1071,Plant Pot,8,118.04,944.32
+ORD_0095,Headphones,4,750.23,3000.92
+Aiden Visser,Monitor,9,548.49,4936.41
+ORD_0818,Cardigan,4,131.63,526.52
+Lucas de Vries,Cycling Gloves,3,204.17,612.51
+Julia Dijkstra,Bicycle Helmet,,293.98,
+ORD_1024,Kitchen Timer,,72.94,
+Nora Brouwer,Doormat,8,119.9,959.20
+ORD_0473,Water Bottle,7,21.73,152.11
+Lisa Mulder,Hair Oil,1,,
+Julia Dijkstra,Microphone,10,779.69,7796.90
+Laura Meijer,Foam Roller,1,77.79,77.79
+Mia van den Berg,Pasta,8,13.78,110.24
+ORD_0375,Gloves,9,14.13,127.17
+Daan van Leeuwen,Face Mask,4,52.96,211.84
+Lucas Dijkstra,Smartwatch,3,576.28,1728.84
+Sara Visser,Crackers,2,24.01,48.02
+ORD_0033,Razor,1,62.25,62.25
+Aiden Jansen,Yoga Mat,1,15.35,15.35
+ORD_0960,Crackers,4,24.01,96.04
+ORD_0980,Pasta,,13.78,
+Oliver Smit,Body Lotion,4,18.63,74.52
+Ava de Boer,Water Bottle,10,21.73,217.30
+Benjamin Bakker,Toothpaste,9,20,180.00
+ORD_0006,Cycling Gloves,2,204.17,612.51
+Noah Peeters,Pasta,10,13.78,137.80
+ORD_0183,Deodorant,,49.92,
+ORD_0001,Keyboard,10,20,200.00
+Daan van Leeuwen,Body Lotion,,18.63,
+ORD_0492,Socks,5,68.84,395.83
+Sem Bos,Soup,2,26.96,53.92
+Oliver Dekker,Vase,9,74.99,674.91
+Bram Peters,Blazer,8,,
+Nora de Boer,Mouse,9,923.37,8310.33
+Aiden Mulder,Toner,9,20,180.00
+ORD_0839,Jacket,4,15.78,94.68
+Lucas Mulder,Coat,5,130.08,650.40
+ORD_0001,Serum,10,51.72,517.20
+ORD_0253,Smart TV,5,563.86,2819.30
+Mason Bos,Tea,3,3.37,10.11
+Tim de Vries,Honey,8,3.42,27.36
+Mason Mulder,Dried Fruit,2,20,40.00
+Harper Smit,Hair Oil,4,20,80.00
+ORD_0382,Jeans,3,20,60.00
+Julia Smit,Peanut Butter,5,28.1,140.50
+Liam de Boer,Blanket,4,37.47,149.88
+ORD_0583,Cushion,2,,
+Lisa van Dijk,Mirror,7,34.64,242.48
+Lisa Visser,Soup,,,
+ORD_1115,Rice,9,16.12,145.08
+ORD_0063,Conditioner,9,38.22,343.98
+Lucas Visser,Blazer,7,88.9,622.30
+ORD_0811,Running Shoes,10,19.47,165.49
+ORD_0316,Cardigan,4,,
+ORD_0462,Picture Frame,10,88.73,887.30
+ORD_0833,Earbuds,6,1420.23,8521.38
+Noah de Groot,Shampoo,9,48.94,440.46
+James de Boer,Power Bank,9,266.91,2762.52
+ORD_0510,Crackers,1,24.01,24.01
+ORD_0125,Speaker,,1049.85,
+Noah Bos,Badminton Set,9,178.08,1602.72
+Nora Visser,Chocolate,6,13.22,79.32
+ORD_0405,Body Lotion,2,18.63,37.26
+Noah van Leeuwen,Face Cream,6,23.96,143.76
+ORD_0246,Belt,2,53.41,106.82
+ORD_0886,Bicycle Helmet,2,293.98,587.96
+ORD_1089,Rice,5,16.12,80.60
+ORD_0347,Gloves,1,14.13,14.13
+Noah van Leeuwen,Face Mask,5,52.96,264.80
+Finn Dijkstra,Storage Box,,27.43,
+ORD_0341,Tomato Sauce,7,11.48,80.36
+Aiden Visser,Smart TV,9,563.86,5074.74
+Liam Bos,Toner,10,20,200.00
+ORD_0480,Nail Polish,10,43.42,434.20
+ORD_0781,Toner,5,,
+Mason Peeters,Granola,9,3.28,29.52
+James de Boer,Smart TV,7,563.86,3947.02
+Laura Dekker,Vase,2,74.99,149.98
+Finn Bos,Lip Balm,7,41.42,289.94
+ORD_0606,Graphics Card,3,,
+Sem Vos,Clock,7,137.5,1443.75
+ORD_0134,Mirror,7,,
+Aiden Hendriks,Blazer,4,88.9,355.60
+ORD_0714,USB Hub,6,107.53,645.18
+Noah de Vries,Instant Noodles,7,29.39,205.73
+Evelyn Peters,Razor,3,62.25,186.75
+Lucas Dijkstra,Earbuds,1,1420.23,1420.23
+ORD_1141,Serum,7,51.72,362.04
+ORD_1102,Dress,10,65.57,655.70
+Sara de Vries,Coffee,,,
+ORD_0375,Skirt,7,136.95,814.85
+Ethan Smit,Skipping Rope,2,,
+Mia Jansen,Peanut Butter,2,28.1,56.20
+ORD_0253,Toothbrush,8,77.28,618.24
+Sem Visser,Power Bank,10,266.91,2669.10
+Benjamin Bakker,Fitness Tracker,8,228.04,1824.32
+ORD_1059,USB Hub,10,107.53,1075.30
+ORD_0728,Pasta,8,13.78,126.78
+Evelyn Peters,Body Lotion,5,,
+ORD_0436,Scarf,7,142.73,999.11
+ORD_0486,Peanut Butter,10,28.1,323.15
+ORD_0700,Towel,6,,
+Sophia Vos,Protein Bar,10,6.97,69.70
+Aiden Smit,Dried Fruit,7,20,140.00
+Aiden Smit,Boots,6,20,120.00
+Lisa van Leeuwen,Towel,8,142.76,1142.08
+Laura Dijkstra,Boots,9,20,180.00
+ORD_0128,Laundry Basket,9,119.13,1072.17
+Ava Dekker,Keyboard,2,20,34.00
+Benjamin Bos,Doormat,5,119.9,599.50
+ORD_0968,Nail Polish,6,43.42,260.52
+Noah Jansen,Cardigan,8,131.63,1053.04
+ORD_1070,Football,1,122.47,122.47
+Liam Peeters,Dress,6,65.57,393.42
+ORD_0746,Cutting Board,2,37.79,75.58
+ORD_1048,Yoga Mat,10,15.35,153.50
+Sem Bakker,Power Bank,7,266.91,2148.63
+Lisa Dekker,Jeans,5,20,100.00
+ORD_0083,Coffee,4,9.46,37.84
+ORD_0573,Coat Hanger,6,87.64,525.84
+ORD_1102,Sunscreen,4,40.27,161.08
+Noah de Groot,Candle,,127.47,
+Ava de Groot,Sunscreen,2,40.27,80.54
+Julia de Vries,Instant Noodles,3,29.39,88.17
+ORD_0255,Clock,10,137.5,1375.00
+Sem Brouwer,Water Bottle,3,21.73,65.19
+Lisa Visser,Instant Noodles,8,29.39,235.12
+ORD_0994,Candle,7,127.47,892.29
+ORD_0449,Basketball,3,20,60.00
+ORD_0705,Granola,10,3.28,32.80
+ORD_0326,Storage Box,9,27.43,246.87
+ORD_0223,Sports Watch,,35.57,
+Lucas Brouwer,Water Bottle,7,21.73,152.11
+Bram Mulder,Router,,173.62,
+Lucas Bakker,Shampoo,6,48.94,293.64
+ORD_0379,Tennis Racket,2,254.89,586.25
+ORD_0902,Graphics Card,5,289.49,1447.45
+Mia Bos,Oats,7,11.67,81.69
+Ethan Hendriks,Leggings,9,21.18,190.62
+Charlotte van Leeuwen,Candle,5,127.47,637.35
+Daan van Leeuwen,Mascara,6,27.26,163.56
+Finn de Groot,Microphone,,779.69,
+ORD_0139,Jump Rope,8,112.2,897.60
+Ava van Leeuwen,Belt,3,53.41,160.23
+ORD_0867,Monitor,,548.49,
+Liam Dekker,Smart TV,6,563.86,3383.16
+ORD_0769,Foundation,9,41.65,374.85
+ORD_0591,Shower Gel,5,31.86,159.30
+Evelyn Jansen,USB Hub,7,107.53,752.71
+Julia Dijkstra,Gloves,3,14.13,42.39
+ORD_0055,Fitness Tracker,8,,
+Tim Visser,Towel,8,142.76,1142.08
+Tim Meijer,Oats,10,,
+ORD_0502,Jacket,2,15.78,31.56
+ORD_0226,Belt,4,53.41,213.64
+ORD_0874,Microphone,7,779.69,5457.83
+ORD_1169,Monitor,9,548.49,4936.41
+Finn Jansen,Smartwatch,6,576.28,3457.68
+Julia Meijer,Tea,3,3.37,10.11
+Finn Bos,Water Bottle,10,21.73,249.89
+ORD_0723,Smart TV,3,563.86,1691.58
+ORD_0089,Cereal,1,7.98,7.98
+Lisa Dekker,Nuts,6,29.61,177.66
+ORD_0536,Conditioner,2,38.22,76.44
+Lisa de Boer,Speaker,,1049.85,
+ORD_0484,Honey,10,3.42,34.20
+ORD_0070,Gym Bag,7,,
+ORD_0943,Eye Cream,1,11.08,11.08
+Sem Peters,Hair Oil,,20,
+ORD_0467,Face Cream,10,23.96,239.60
+ORD_0247,Mascara,7,27.26,190.82
+Sem Peters,USB Hub,8,107.53,860.24
+Isabella Meijer,Nail Polish,7,43.42,303.94
+ORD_0403,Rice,6,16.12,48.36
+ORD_0573,Coat Hanger,4,87.64,350.56
+Ethan de Vries,Boots,3,20,60.00
+Levi de Vries,Toothpaste,10,20,200.00
+ORD_1098,Coffee,5,,
+ORD_0136,Sweater,8,,
+ORD_1026,Hoodie,2,158.66,317.32
+Nora de Boer,Football,6,122.47,734.82
+ORD_0469,Crackers,7,24.01,168.07
+Liam Bos,Honey,3,3.42,10.26
+ORD_0131,Sunscreen,3,40.27,60.41
+ORD_0078,Jacket,8,15.78,126.24
+ORD_0383,Hair Oil,3,20,60.00
+Ava Bakker,Instant Noodles,2,29.39,58.78
+Emma Smit,Doormat,,119.9,
+Harper de Vries,Cereal,7,7.98,83.79
+ORD_0028,Smart TV,4,563.86,2255.44
+ORD_0181,Deodorant,6,49.92,299.52
+ORD_1084,Charger,5,1142.39,5711.95
+ORD_0671,Pasta,4,13.78,55.12
+ORD_0990,Soap Dispenser,10,71.41,714.10
+ORD_0922,Face Mask,2,,
+Sara Vos,Soap Dispenser,10,71.41,714.10
+Charlotte Peters,Fitness Tracker,2,228.04,456.08
+Nora Dekker,Football,8,122.47,979.76
+ORD_0836,Nail Polish,4,43.42,173.68
+Charlotte Hendriks,Hat,,165.24,
+ORD_0199,Mouse,7,923.37,6463.59
+ORD_0044,Toner,,20,
+Olivia Visser,Doormat,6,119.9,359.70
+Sem van den Berg,Picture Frame,3,88.73,266.19
+ORD_0134,Sneakers,8,113.26,906.08
+Lisa van Leeuwen,T-Shirt,6,20,120.00
+Nora de Groot,Biscuits,4,29.25,117.00
+Noah Bakker,Polo Shirt,8,138.95,1111.60
+Aiden de Vries,Mug,5,92.79,463.95
+ORD_0343,Cycling Gloves,10,204.17,2041.70
+Harper de Vries,Mirror,8,34.64,277.12
+ORD_0767,Coffee,5,9.46,47.30
+Noah Vos,Rug,8,81.5,652.00
+ORD_0493,Instant Noodles,8,29.39,235.12
+Finn Bos,Sports Watch,6,35.57,213.42
+Charlotte Peters,Chocolate,7,13.22,92.54
+Olivia Meijer,Mug,9,92.79,835.11
+ORD_0925,Monitor,4,548.49,2193.96
+ORD_0372,Sports Watch,10,35.57,355.70
+ORD_0425,Skirt,1,136.95,136.95
+Lisa Mulder,Badminton Set,7,178.08,1246.56
+ORD_1126,Granola,5,3.28,16.40
+ORD_0065,Kitchen Timer,3,72.94,218.82
+Isabella Dekker,Picture Frame,3,88.73,266.19
+Finn Brouwer,Mascara,9,27.26,245.34
+Finn Visser,Fitness Tracker,2,228.04,456.08
+ORD_0153,Sunscreen,2,40.27,80.54
+Isabella Dekker,Face Mask,10,52.96,529.60
+Lisa Visser,Hair Oil,9,20,180.00
+ORD_0415,Dried Fruit,1,20,20.00
+ORD_1150,Eye Cream,6,11.08,66.48
+Evelyn Jansen,Jeans,10,20,200.00
+ORD_0693,Foundation,2,41.65,83.30
+Amelia Peters,Running Shoes,5,19.47,97.35
+Amelia de Groot,Cushion,2,6.27,12.54
+Lucas Bakker,Skirt,1,136.95,136.95
+Aiden de Vries,Tea,2,3.37,6.74
+ORD_0615,Chocolate,,13.22,
+ORD_0020,Router,6,173.62,1041.72
+Oliver de Boer,Doormat,1,119.9,119.90
+ORD_0432,Mug,5,92.79,463.95
+ORD_0672,Nuts,10,29.61,296.10
+Liam Bos,Graphics Card,6,289.49,1736.94
+Bram Vos,Swim Goggles,7,20,140.00
+ORD_0100,Granola,7,3.28,22.96
+Amelia van den Berg,Dried Fruit,2,,
+Sara Visser,Tablet,3,1346.72,4040.16
+ORD_0890,Towel,4,142.76,485.38
+ORD_0401,Instant Noodles,9,29.39,396.76
+Benjamin Bakker,Leggings,,21.18,
+Sara Meijer,Smartphone,7,945.45,6618.15
+ORD_0176,Hair Oil,10,20,200.00
+Benjamin van den Berg,T-Shirt,,20,
+ORD_1167,Protein Bar,3,,
+Harper Smit,Granola,10,3.28,32.80
+Harper Mulder,Deodorant,8,49.92,399.36
+Lisa Visser,Earbuds,1,1420.23,1420.23
+Mia Jansen,Leggings,3,21.18,63.54
+ORD_0759,Face Mask,9,52.96,238.32
+ORD_1025,Mirror,3,34.64,103.92
+Evelyn van Leeuwen,Lip Balm,7,41.42,289.94
+Sophia Peeters,Tea,10,3.37,50.55
+Mia Jansen,Cardigan,6,131.63,789.78
+Sem Bakker,Scarf,10,142.73,1427.30
+Liam Bakker,Resistance Band,,267.11,
+Mia Bos,Chocolate,4,13.22,52.88
+ORD_0292,Toner,3,20,51.00
+ORD_0698,Resistance Band,,267.11,
+ORD_1146,Smartphone,1,945.45,945.45
+Daan Bakker,Vase,1,74.99,74.99
+ORD_0890,Laptop,7,20,140.00
+Laura Peeters,Cycling Gloves,9,204.17,1837.53
+Bram van Leeuwen,Crackers,1,24.01,24.01
+ORD_1069,Hair Oil,1,20,20.00
+ORD_0785,Coffee,4,9.46,37.84
+ORD_0472,Smartphone,6,945.45,5672.70
+Julia de Boer,Smartwatch,1,576.28,576.28
+Julia Vos,Hair Oil,4,20,80.00
+Finn Jansen,Mug,4,92.79,371.16
+Isabella Dekker,Gym Bag,,,
+ORD_1067,Jam,9,7.71,69.39
+Ava de Boer,Foundation,8,41.65,333.20
+Emma Jansen,Resistance Band,2,267.11,534.22
+ORD_1117,Foundation,6,,
+Tim de Vries,Tennis Racket,5,254.89,1274.45
+Aiden Meijer,Badminton Set,6,178.08,1068.48
+Noah Jansen,Belt,9,53.41,480.69
+Oliver van Leeuwen,Hair Oil,2,20,60.00
+Olivia de Groot,Rice,4,16.12,96.72
+Benjamin van Dijk,Gamepad,6,1043.03,6258.18
+ORD_0377,Cereal,6,7.98,47.88
+Levi Mulder,Tennis Racket,3,254.89,764.67
+ORD_0420,Polo Shirt,10,138.95,1389.50
+ORD_0892,Monitor,8,548.49,4387.92
+Isabella van den Berg,Body Lotion,4,18.63,74.52
+Sara Jansen,Tomato Sauce,7,,
+ORD_0629,Mascara,2,27.26,54.52
+ORD_0869,Dress,9,65.57,590.13
+ORD_1072,Honey,7,3.42,23.94
+ORD_0731,Conditioner,3,38.22,97.46
+ORD_0734,Speaker,7,1049.85,7348.95
+ORD_0413,Clock,1,137.5,68.75
+Julia Jansen,Soup,,26.96,
+Nora de Vries,Towel,7,142.76,999.32
+ORD_0228,Tablet,4,1346.72,2693.44
+ORD_0722,USB Hub,2,107.53,215.06
+ORD_0583,Headphones,,750.23,
+ORD_0879,Webcam,5,1047.62,5238.10
+Olivia Smit,Smartphone,2,945.45,1890.90
+Noah Jansen,Tea,,3.37,
+ORD_0755,SSD Drive,7,819.93,5739.51
+Sem Peters,Bicycle Helmet,10,293.98,2939.80
+Mia de Vries,Rice,1,16.12,16.12
+ORD_0669,Nail Polish,10,43.42,434.20
+ORD_0543,Earbuds,10,1420.23,14202.30
+Mia Peeters,Nuts,2,29.61,88.83
+ORD_1181,Olive Oil,9,15.63,140.67
+ORD_0267,Storage Box,,27.43,
+ORD_0097,Lip Balm,6,41.42,248.52
+Lucas van Dijk,Cutting Board,9,37.79,340.11
+ORD_1128,Conditioner,8,38.22,305.76
+ORD_0480,Dried Fruit,7,20,140.00
+James Dekker,Sports Watch,7,35.57,248.99
+Oliver van Leeuwen,Olive Oil,10,15.63,156.30
+ORD_0988,Tablet,6,1346.72,8080.32
+James Peeters,Jump Rope,7,112.2,785.40
+Charlotte de Vries,Laptop,4,20,80.00
+ORD_0506,Earbuds,8,1420.23,11361.84
+Tim van Leeuwen,Resistance Band,5,267.11,1335.55
+ORD_0389,Coat,2,130.08,260.16
+Isabella Peeters,Speaker,4,1049.85,4199.40
+Charlotte Peters,Sports Watch,10,35.57,355.70
+ORD_0311,Resistance Band,3,267.11,801.33
+ORD_0975,Skipping Rope,,152.47,
+Isabella Bakker,Microphone,2,779.69,1793.29
+ORD_0564,Face Mask,,,
+Isabella Meijer,Sweater,2,132.17,264.34
+Noah Peeters,Cycling Gloves,10,204.17,2041.70
+Evelyn van den Berg,Body Lotion,8,18.63,149.04
+ORD_0853,Laundry Basket,4,119.13,476.52
+Liam Meijer,Toothpaste,,20,
+Nora de Boer,Conditioner,8,38.22,305.76
+Lucas Mulder,Towel,6,,
+ORD_0540,Instant Noodles,,29.39,
+ORD_0486,Sweater,1,132.17,132.17
+ORD_1129,Speaker,6,1049.85,6299.10
+Oliver Visser,Socks,2,68.84,137.68
+ORD_0984,Graphics Card,10,,
+Sem Hendriks,Clock,2,137.5,275.00
+ORD_0942,Keyboard,,20,
+ORD_0626,Lamp,10,129.35,1293.50
+ORD_1035,Sweater,8,132.17,1057.36
+ORD_1187,Soap Dispenser,5,71.41,357.05
+ORD_1177,Cardigan,7,131.63,921.41
+ORD_0006,Chocolate,8,13.22,105.76
+Ava Bakker,Face Cream,1,23.96,23.96
+ORD_1127,Deodorant,,,
+Daan van Dijk,Body Lotion,3,18.63,55.89
+ORD_0441,Mirror,5,34.64,173.20
+Tim van Leeuwen,Storage Box,6,27.43,164.58
+Sem Visser,Shower Gel,,31.86,
+James de Vries,Jam,1,7.71,3.85
+ORD_0546,Olive Oil,1,15.63,15.63
+Lucas Meijer,T-Shirt,4,20,80.00
+Ethan de Vries,Lamp,6,129.35,1164.15
+ORD_1181,Face Cream,1,23.96,27.55
+ORD_1170,Crackers,,,
+ORD_0550,Lamp,8,,
+ORD_0733,Honey,10,3.42,51.30
+Lisa Mulder,Skirt,3,136.95,410.85
+ORD_0331,Dumbbell,9,180.1,1620.90
+Ava Dekker,Honey,2,3.42,6.84
+ORD_0743,Gloves,5,14.13,70.65
+Tim Visser,Power Bank,4,266.91,1067.64
+Emma Dijkstra,Tea,9,3.37,30.33
+ORD_0329,USB Hub,,107.53,
+ORD_0694,Hoodie,1,,
+Daan van Dijk,Peanut Butter,8,,
+ORD_1119,Soup,6,26.96,161.76
+Olivia de Vries,Tablet,5,1346.72,6733.60
+Ava Peters,Razor,6,62.25,373.50
+ORD_0023,Serum,3,51.72,155.16
+ORD_0022,Charger,1,1142.39,1142.39
+ORD_0189,Yoga Mat,6,15.35,92.10
+Daan Dekker,Picture Frame,3,88.73,133.09
+ORD_1049,Swim Goggles,3,20,60.00
+Noah Smit,Foundation,1,41.65,41.65
+Finn Visser,Instant Noodles,4,29.39,117.56
+Ava de Groot,Sneakers,4,113.26,453.04
+ORD_1071,Sunscreen,7,40.27,281.89
+Harper de Vries,Instant Noodles,5,29.39,146.95
+ORD_0302,Dried Fruit,9,,
+Daan van Leeuwen,Dumbbell,7,180.1,1260.70
+ORD_0068,Deodorant,1,49.92,74.88
+Mia Bos,Nuts,7,29.61,207.27
+Ethan Smit,Jacket,9,15.78,142.02
+Liam Vos,Toothpaste,7,20,140.00
+Amelia Smit,Rug,1,81.5,81.50
+Lucas Vos,Coat,3,,
+ORD_0242,Bicycle Helmet,2,293.98,587.96
+Mason Vos,Sunscreen,8,,
+ORD_1164,Graphics Card,9,289.49,2605.41
+ORD_0095,Hoodie,7,,
+Oliver Vos,Towel,3,142.76,428.28
+ORD_0703,Coasters,3,113.24,339.72
+ORD_0469,Speaker,4,1049.85,4199.40
+ORD_1178,Webcam,1,1047.62,1047.62
+ORD_0941,Jump Rope,10,112.2,1122.00
+Emma Peeters,Sweater,9,,
+ORD_0205,Oats,,11.67,
+Benjamin van Leeuwen,Jeans,4,20,80.00
+Daan Mulder,Storage Box,5,27.43,137.15
+Liam Meijer,Resistance Band,5,,
+Noah de Vries,Laptop,4,20,80.00
+ORD_1033,Towel,2,142.76,285.52
+ORD_0253,Instant Noodles,10,29.39,293.90
+Olivia de Groot,Socks,6,68.84,413.04
+Isabella Meijer,Towel,9,142.76,1284.84
+ORD_0711,Olive Oil,5,15.63,78.15
+Tim de Groot,Dress,4,,
+ORD_1099,Soup,10,26.96,269.60
+ORD_0168,Shampoo,8,48.94,391.52
+Charlotte Dekker,Water Bottle,1,21.73,21.73
+Daan Bakker,Protein Bar,4,6.97,27.88
+Isabella Peeters,Mouse,10,,
+Sophia Peeters,Crackers,5,24.01,120.05
+Daan van Leeuwen,SSD Drive,6,819.93,4919.58
+ORD_0861,Skipping Rope,3,152.47,457.41
+ORD_0724,Body Lotion,7,18.63,130.41
+ORD_0084,Jeans,2,20,40.00
+Noah Bakker,Coffee,7,9.46,66.22
+ORD_0161,Resistance Band,8,267.11,2136.88
+ORD_0394,Honey,3,3.42,15.39
+ORD_0713,Honey,3,3.42,10.26
+Ethan Jansen,Foundation,3,41.65,62.47
+ORD_0192,Socks,7,68.84,481.88
+ORD_1053,Skipping Rope,10,152.47,762.35
+Liam Vos,Polo Shirt,1,138.95,138.95
+Benjamin van den Berg,Coat,3,130.08,390.24
+ORD_0057,Fitness Tracker,9,228.04,2052.36
+James de Vries,Belt,9,53.41,240.34
+ORD_0026,Microphone,3,779.69,2339.07
+Amelia de Groot,Shampoo,3,48.94,146.82
+ORD_0821,Coasters,8,113.24,770.03
+Olivia van Leeuwen,Nail Polish,,43.42,
+Julia Vos,Soup,8,26.96,215.68
+Nora de Groot,Biscuits,1,29.25,29.25
+ORD_0926,Conditioner,9,38.22,343.98
+ORD_1143,USB Hub,1,107.53,107.53
+Bram Dekker,Eye Cream,2,11.08,22.16
+Mason Mulder,Tennis Racket,5,254.89,1274.45
+Laura Dijkstra,Instant Noodles,,29.39,
+ORD_0355,T-Shirt,3,20,60.00
+Finn Dijkstra,Toner,3,20,60.00
+ORD_0826,Towel,5,142.76,1070.70
+Amelia Smit,Deodorant,3,49.92,149.76
+ORD_0514,Face Mask,8,,
+Noah Jansen,Towel,7,142.76,999.32
+Daan Bakker,Toner,7,20,140.00
+Benjamin Hendriks,Speaker,9,1049.85,9448.65
+Charlotte Peters,Pasta,9,13.78,124.02
+ORD_0699,Shower Gel,6,31.86,191.16
+ORD_0170,Shower Gel,,31.86,
+Mason Dekker,Clock,3,137.5,412.50
+Tim de Groot,Gamepad,7,1043.03,7301.21
+Sophia Jansen,Clock,7,137.5,481.25
+Amelia van den Berg,Cycling Gloves,3,204.17,612.51
+ORD_0916,Instant Noodles,1,29.39,29.39
+ORD_0855,Bicycle Helmet,10,293.98,2939.80
+ORD_0177,Water Bottle,9,21.73,166.23
+ORD_0320,Badminton Set,2,178.08,356.16
+Sara Jansen,Dumbbell,6,180.1,1080.60
+Lucas Mulder,Protein Bar,7,6.97,48.79
+ORD_0764,Storage Box,9,27.43,246.87
+Levi Bos,Resistance Band,5,267.11,1335.55
+Lucas Peters,Mirror,10,34.64,346.40
+ORD_0087,Gloves,,14.13,
+ORD_0661,Eye Cream,2,11.08,22.16
+ORD_0838,Toothbrush,5,77.28,386.40
+Laura de Vries,Nail Polish,4,43.42,260.52
+ORD_1130,Perfume,3,9.51,28.53
+ORD_0359,Toothbrush,1,77.28,77.28
+Amelia Smit,Sneakers,5,113.26,566.30
+Benjamin van Dijk,Instant Noodles,4,29.39,117.56
+Ava Bakker,Blazer,10,88.9,889.00
+Amelia Dekker,Gamepad,1,1043.03,1043.03
+ORD_0581,Blanket,3,37.47,112.41
+ORD_0954,Mirror,7,34.64,242.48
+Benjamin de Groot,Skirt,8,136.95,1095.60
+Mason van Dijk,Vase,,74.99,
+Mia Jansen,Lip Balm,5,41.42,207.10
+ORD_0719,Biscuits,6,29.25,175.50
+Charlotte Peeters,Foam Roller,2,77.79,155.58
+Benjamin Bakker,Serum,1,51.72,51.72
+ORD_0892,Eye Cream,3,11.08,33.24
+ORD_0194,Rug,2,81.5,163.00
+Laura van Dijk,Mascara,10,27.26,272.60
+ORD_0284,Smartwatch,4,576.28,2305.12
+ORD_0903,Oats,4,11.67,46.68
+Tim Visser,Tablet,9,,
+ORD_0157,Blazer,6,88.9,533.40
+ORD_0373,Dumbbell,9,180.1,1620.90
+ORD_0085,Towel,7,142.76,999.32
+ORD_0706,Peanut Butter,10,28.1,140.50
+ORD_0683,Headphones,9,750.23,6752.07
+ORD_0430,Polo Shirt,,,
+ORD_0575,Rug,9,81.5,733.50
+Finn de Groot,Lip Balm,9,,
+ORD_0912,Nuts,9,29.61,266.49
+Olivia de Vries,Shampoo,3,48.94,220.23
+ORD_1104,Mascara,4,27.26,109.04
+ORD_0112,Cereal,5,7.98,39.90
+ORD_0142,Olive Oil,,15.63,
+ORD_0259,Jump Rope,10,112.2,561.00
+Finn van Leeuwen,Laundry Basket,9,119.13,1072.17
+Oliver van Leeuwen,Chocolate,8,13.22,105.76
+ORD_0615,Clock,10,137.5,1375.00
+Sara de Groot,Router,5,173.62,868.10
+Benjamin Brouwer,Jam,6,7.71,46.26
+ORD_0850,Gym Bag,7,133.33,1073.31
+Oliver van Leeuwen,Gamepad,8,1043.03,8344.24
+ORD_1122,Mirror,7,34.64,242.48
+ORD_0053,Laptop,5,20,100.00
+Aiden van den Berg,Headphones,,750.23,
+ORD_0569,Smart TV,,563.86,
+Bram Peeters,Skirt,7,136.95,958.65
+ORD_0129,Cutting Board,7,37.79,264.53
+ORD_1008,Picture Frame,9,88.73,798.57
+ORD_0807,Sports Watch,5,35.57,177.85
+ORD_0006,Keyboard,3,20,60.00
+ORD_0778,Doormat,3,119.9,359.70
+ORD_0887,Plant Pot,1,118.04,118.04
+ORD_0463,Shampoo,6,48.94,293.64
+Amelia Bakker,Router,1,173.62,173.62
+Olivia Smit,Tennis Racket,8,254.89,2344.99
+ORD_0621,Vase,10,74.99,749.90
+Ava de Groot,Fitness Tracker,,228.04,
+Liam Vos,Swimwear,3,130.23,195.34
+Lucas de Boer,Basketball,6,20,120.00
+ORD_0474,Doormat,9,119.9,1079.10
+ORD_0400,Lamp,7,129.35,769.63
+ORD_0525,Vase,1,74.99,74.99
+Olivia Smit,Sneakers,3,113.26,339.78
+Julia Bos,Plant Pot,9,118.04,531.18
+Aiden Visser,Jeans,8,20,160.00
+ORD_0067,Toner,4,20,80.00
+Finn van Dijk,Resistance Band,6,267.11,1602.66
+ORD_0735,Charger,8,1142.39,9139.12
+ORD_1164,Cereal,5,,
+ORD_0308,Picture Frame,7,88.73,621.11
+ORD_0289,Cardigan,9,131.63,1184.67
+Mason Brouwer,Tablet,7,,
+Harper Mulder,Rug,,81.5,
+Benjamin Dijkstra,Blazer,3,88.9,266.70
+ORD_0329,Deodorant,4,49.92,199.68
+Finn de Groot,Crackers,7,,
+Aiden Hendriks,Granola,8,3.28,13.12
+Tim Visser,T-Shirt,2,20,40.00
+ORD_1174,Microphone,2,779.69,1559.38
+Finn Brouwer,Graphics Card,4,289.49,1157.96
+Aiden Meijer,Belt,6,53.41,320.46
+ORD_0489,Microphone,9,779.69,7017.21
+ORD_0304,Water Bottle,7,21.73,152.11
+ORD_0162,Smartphone,,945.45,
+Sophia Peters,Candle,1,127.47,127.47
+ORD_0394,Nuts,,29.61,
+ORD_0372,Microphone,4,779.69,3118.76
+Amelia de Vries,Running Shoes,10,19.47,194.70
+Isabella de Groot,Smart TV,,563.86,
+ORD_0399,Smart TV,4,563.86,2255.44
+Finn Jansen,Blanket,,37.47,
+Emma Bos,Power Bank,8,266.91,2135.28
+Bram Vos,Jam,4,,
+ORD_0325,Basketball,7,20,140.00
+James Brouwer,Smartphone,,945.45,
+ORD_0067,Scarf,1,142.73,142.73
+ORD_1003,Monitor,,548.49,
+Noah Jansen,Shorts,9,151.9,1367.10
+Bram van Leeuwen,Tablet,1,1346.72,1346.72
+ORD_1005,Honey,10,3.42,34.20
+ORD_1012,Biscuits,2,29.25,58.50
+Mia van Dijk,Mascara,10,27.26,272.60
+Amelia Bakker,Smartwatch,2,576.28,1152.56
+Sem Peters,Doormat,1,119.9,119.90
+Mia Bos,Basketball,2,20,40.00
+Levi Bos,Running Shoes,7,19.47,136.29
+ORD_1024,Swimwear,9,130.23,1172.07
+ORD_0122,Lamp,,129.35,
+Sara Bakker,Tea,2,3.37,6.74
+Lucas Jansen,Jam,4,7.71,30.84
+Bram van Leeuwen,Jacket,,15.78,
+Ava Vos,Microphone,,779.69,
+Levi Meijer,Mouse,1,923.37,923.37
+Julia de Vries,SSD Drive,1,819.93,819.93
+ORD_0742,Tennis Racket,3,254.89,764.67
+Benjamin Jansen,USB Hub,2,107.53,215.06
+ORD_0109,Microphone,6,779.69,4678.14
+ORD_0464,Gloves,8,14.13,113.04
+Liam Dekker,Webcam,3,1047.62,3142.86
+Julia Hendriks,Deodorant,1,49.92,49.92
+Aiden Meijer,Hoodie,8,158.66,1269.28
+Tim Visser,Lamp,10,129.35,1293.50
+ORD_0604,Cutting Board,6,37.79,226.74
+Evelyn Jansen,Boots,7,20,119.00
+ORD_0760,Kitchen Timer,9,72.94,656.46
+Charlotte de Vries,Basketball,2,20,40.00
+ORD_0899,Coat Hanger,5,87.64,438.20
+Amelia de Vries,Webcam,3,1047.62,3142.86
+ORD_1065,Dried Fruit,4,20,120.00
+Noah Peeters,Toothpaste,9,20,180.00
+Sophia de Groot,Coasters,6,,
+Isabella Jansen,Laptop,4,20,80.00
+ORD_0238,Perfume,6,9.51,85.59
+ORD_0700,Scarf,10,142.73,1427.30
+Sem Dekker,Mouse,3,923.37,2770.11
+ORD_1054,Jump Rope,2,112.2,224.40
+Mason Mulder,Honey,7,3.42,27.53
+ORD_0403,Sports Watch,7,35.57,248.99
+Ethan Brouwer,Candle,8,,
+Noah Bakker,Laundry Basket,5,119.13,297.82
+Sara Jansen,Shower Gel,5,,
+Isabella Vos,Instant Noodles,1,29.39,29.39
+Amelia Vos,Eye Cream,10,11.08,110.80
+ORD_0664,Dried Fruit,3,20,60.00
+Benjamin Peeters,Microphone,3,779.69,2339.07
+ORD_0240,T-Shirt,,20,
+Ava Meijer,Mouse,7,923.37,6463.59
+ORD_0459,Belt,5,53.41,267.05
+ORD_0461,Perfume,,9.51,
+Ava van Leeuwen,Gym Bag,3,133.33,399.99
+ORD_0949,Nuts,10,29.61,296.10
+ORD_0158,Smartphone,4,945.45,3781.80
+ORD_0626,Dress,4,65.57,131.14
+Noah Brouwer,Keyboard,9,,
+Daan de Groot,Power Bank,5,266.91,1334.55
+ORD_0606,Biscuits,6,29.25,175.50
+ORD_0760,Lip Balm,9,41.42,372.78
+Isabella de Vries,Rice,10,16.12,161.20
+ORD_1133,Vase,1,,
+Aiden Visser,Shampoo,5,,
+ORD_0846,Mirror,1,34.64,34.64
+Mia Smit,Face Cream,,23.96,
+Aiden Visser,Toothbrush,9,77.28,695.52
+Laura Hendriks,Swimwear,5,130.23,651.15
+ORD_0940,Monitor,,548.49,
+ORD_0986,Toothpaste,5,20,100.00
+Laura van Dijk,Shorts,3,151.9,455.70
+ORD_0047,Rug,4,81.5,326.00
+Amelia Smit,Cycling Gloves,,204.17,
+ORD_0440,Tea,7,3.37,23.59
+Lucas van Dijk,Laptop,10,20,200.00
+ORD_0551,Microphone,2,779.69,1559.38
+ORD_0477,Soup,1,26.96,26.96
+ORD_0553,Hat,8,165.24,1321.92
+Olivia Visser,Olive Oil,1,15.63,15.63
+Sara Jansen,Toner,3,20,60.00
+Levi de Vries,Face Cream,4,23.96,95.84
+Amelia de Vries,Vase,,74.99,
+Julia Dekker,Hat,2,165.24,330.48
+ORD_0415,Lamp,8,129.35,1034.80
+Mia de Vries,Toothbrush,2,77.28,154.56
+Tim van Dijk,Crackers,2,24.01,48.02
+Mia van Dijk,Coasters,7,113.24,792.68
+ORD_1105,Mug,8,,
+James Peeters,Eye Cream,1,11.08,11.08
+Lucas Bos,Belt,5,53.41,133.52
+Isabella de Groot,Running Shoes,7,19.47,68.14
+Ava de Groot,Smartphone,2,945.45,1890.90
+ORD_0864,Skipping Rope,7,152.47,1067.29
+Finn Visser,Plant Pot,9,118.04,1062.36
+Lisa Mulder,Mug,4,92.79,371.16
+Benjamin van den Berg,Swim Goggles,2,20,40.00
+ORD_0949,Picture Frame,5,88.73,443.65
+ORD_0210,Doormat,9,119.9,1079.10
+Benjamin Bakker,Toner,,20,
+ORD_0419,Blanket,4,37.47,149.88
+ORD_0523,Clock,7,137.5,962.50
+ORD_0740,Biscuits,6,29.25,175.50
+Finn Mulder,Resistance Band,7,267.11,1869.77
+Benjamin van Dijk,Rug,8,81.5,978.00
+ORD_1190,Body Lotion,9,18.63,167.67
+Noah Hendriks,Face Cream,10,23.96,239.60
+Laura Peeters,Clock,4,137.5,550.00
+ORD_0741,Knee Pads,6,37.22,223.32
+ORD_0033,Rice,10,16.12,161.20
+Ethan Brouwer,Microphone,,779.69,
+ORD_0327,Sweater,2,132.17,264.34
+Liam Bos,Kitchen Timer,4,72.94,291.76
+ORD_0987,Gym Bag,10,133.33,1333.30
+Ava de Boer,Soap Dispenser,4,71.41,285.64
+ORD_0028,Polo Shirt,3,138.95,416.85
+Ethan de Vries,Nuts,3,29.61,88.83
+Ava Bakker,Sunscreen,7,40.27,281.89
+Lucas Bakker,Plant Pot,8,118.04,944.32
+Olivia Visser,Towel,10,142.76,1427.60
+Mia Dekker,Vase,8,74.99,509.93
+Nora Mulder,Scarf,,142.73,
+ORD_0278,Crackers,6,24.01,144.06
+Emma van Leeuwen,Soup,9,26.96,242.64
+Lucas de Vries,Sneakers,7,113.26,792.82
+ORD_0160,Laptop,2,20,40.00
+Ethan de Vries,Belt,9,53.41,480.69
+James de Boer,Running Shoes,7,19.47,136.29
+Lisa van Leeuwen,Coat,10,130.08,1300.80
+Evelyn Mulder,Tomato Sauce,10,11.48,114.80
+ORD_0398,Bicycle Helmet,2,293.98,587.96
+Evelyn Dekker,Mascara,9,27.26,245.34
+ORD_0531,Candle,2,127.47,254.94
+Noah de Groot,Cushion,6,6.27,37.62
+ORD_1174,Mascara,9,27.26,245.34
+Lucas Dekker,Knee Pads,5,37.22,186.10
+Aiden Jansen,T-Shirt,9,20,180.00
+Laura Meijer,Cereal,9,7.98,71.82
+Olivia de Groot,Mascara,2,27.26,54.52
+Lucas Peeters,Football,3,122.47,367.41
+Emma Jansen,Deodorant,6,49.92,299.52
+Lucas Peters,Rug,6,81.5,489.00
+Bram Brouwer,Earbuds,2,1420.23,2840.46
+ORD_0055,Soup,4,26.96,107.84
+Liam de Boer,Sunscreen,6,40.27,241.62
+ORD_1044,Chocolate,3,13.22,39.66
+ORD_0190,Polo Shirt,5,138.95,694.75
+ORD_0333,Pasta,2,13.78,27.56
+ORD_0395,Jacket,,15.78,
+ORD_0057,Blanket,4,37.47,149.88
+Mia Smit,Biscuits,9,29.25,263.25
+ORD_0839,Doormat,4,119.9,479.60
+ORD_0732,Body Lotion,9,18.63,167.67
+ORD_0311,Gloves,5,14.13,70.65
+Lucas Jansen,Cardigan,7,131.63,921.41
+ORD_0452,Bicycle Helmet,1,293.98,293.98
+ORD_0576,Toner,10,,
+Emma Jansen,Clock,,137.5,
+ORD_0089,Gym Bag,5,133.33,999.98
+Sophia Bakker,Laptop,7,20,140.00
+ORD_0035,Soap Dispenser,6,,
+ORD_1052,Sweater,9,132.17,1189.53
+ORD_0143,Leggings,2,21.18,42.36
+ORD_0765,Hat,3,165.24,495.72
+ORD_0747,Rug,1,81.5,81.50
+ORD_0265,Badminton Set,8,,
+Harper Mulder,Smart TV,6,563.86,3383.16
+ORD_0929,Eye Cream,,,
+Nora de Boer,Router,6,173.62,1041.72
+ORD_0150,Face Cream,7,23.96,167.72
+Lisa van Leeuwen,Oats,1,11.67,11.67
+ORD_0358,Oats,1,,
+ORD_0810,Cardigan,1,131.63,131.63
+ORD_0394,Lamp,3,129.35,582.07
+ORD_1019,Graphics Card,4,289.49,1157.96
+Benjamin Peeters,Mirror,9,34.64,311.76
+ORD_0986,Badminton Set,4,178.08,712.32
+Amelia de Groot,Swim Goggles,5,20,100.00
+Levi de Vries,Hoodie,3,158.66,475.98
+Mason Mulder,Water Bottle,7,21.73,152.11
+ORD_0680,Cushion,7,6.27,43.89
+Laura Peeters,Cushion,2,6.27,12.54
+ORD_0508,Towel,4,142.76,571.04
+ORD_0326,Tomato Sauce,8,,
+Tim Visser,Eye Cream,4,11.08,44.32
+Ava de Groot,Picture Frame,10,88.73,887.30
+Oliver Smit,Keyboard,6,20,120.00
+ORD_0954,SSD Drive,4,819.93,3279.72
+Charlotte Vos,Shorts,9,151.9,1367.10
+Sem van Leeuwen,Sweater,8,132.17,1057.36
+ORD_0659,Gamepad,10,1043.03,10430.30
+ORD_0417,Scarf,,142.73,
+ORD_0051,Clock,3,137.5,412.50
+ORD_1150,Tea,1,3.37,3.37
+ORD_0408,Mascara,1,27.26,27.26
+Amelia Vos,Pasta,8,13.78,110.24
+ORD_0239,Swim Goggles,2,20,40.00
+ORD_0223,Skipping Rope,2,152.47,304.94
+Lucas Brouwer,Jam,,7.71,
+ORD_0024,Speaker,1,1049.85,1049.85
+ORD_1180,Lamp,4,129.35,517.40
+ORD_0540,Face Mask,2,52.96,105.92
+Harper van Leeuwen,Mouse,7,923.37,6463.59
+Daan Dekker,Gamepad,10,1043.03,10430.30
+ORD_1166,Keyboard,3,20,60.00
+ORD_0933,Olive Oil,5,15.63,78.15
+ORD_0233,Sports Watch,7,35.57,248.99
+ORD_0030,Running Shoes,5,,
+Charlotte Peters,Toothpaste,2,20,40.00
+ORD_0867,Mouse,6,923.37,5540.22
+ORD_0342,T-Shirt,1,20,20.00
+Emma Jansen,Serum,2,51.72,118.96
+ORD_1074,Dried Fruit,8,20,160.00
+Nora de Vries,Toothbrush,1,77.28,77.28
+Ethan Smit,Cutting Board,1,,
+ORD_0215,Hat,10,165.24,1900.26
+ORD_0156,Football,5,122.47,612.35
+Olivia van Leeuwen,Smartwatch,2,576.28,1152.56
+ORD_0285,Toothpaste,6,20,120.00
+Isabella van den Berg,Sweater,,132.17,
+ORD_0964,Hoodie,9,158.66,1427.94
+ORD_0765,Cutting Board,8,37.79,302.32
+Charlotte Hendriks,Socks,8,68.84,550.72
+ORD_0387,Laundry Basket,3,119.13,357.39
+Daan Bakker,Cereal,2,,
+ORD_0394,Dried Fruit,10,20,230.00
+ORD_0322,Belt,,53.41,
+ORD_1060,Sneakers,4,113.26,385.08
+ORD_0298,Belt,3,53.41,184.26
+Isabella Meijer,Jacket,3,15.78,40.24
+ORD_0667,Cereal,,7.98,
+Levi de Groot,Badminton Set,6,,
+Ethan Peters,Coffee,6,9.46,56.76
+Sara Vos,Sports Watch,6,35.57,213.42
+Charlotte de Vries,Keyboard,,20,
+Evelyn van Dijk,Face Cream,1,23.96,23.96
+Finn Jansen,Toothpaste,10,20,200.00
+ORD_0219,Cereal,4,7.98,31.92
+ORD_0175,Boots,2,20,40.00
+Lucas Bakker,Cycling Gloves,2,204.17,408.34
+Bram Jansen,Cardigan,8,131.63,1053.04
+ORD_0206,Dress,5,65.57,327.85
+Evelyn Bos,Basketball,8,20,160.00
+ORD_0908,Basketball,9,20,153.00
+ORD_0694,Gloves,10,14.13,141.30
+Ava Peeters,Mouse,7,,
+ORD_0049,Keyboard,8,20,160.00
+ORD_0174,Tomato Sauce,7,11.48,40.18
+ORD_0961,Coasters,3,,
+Laura Dijkstra,Soap Dispenser,9,71.41,642.69
+ORD_0129,Toothpaste,7,20,140.00
+Noah Vos,Deodorant,2,49.92,99.84
+ORD_0953,Basketball,4,20,80.00
+ORD_0237,Coasters,8,113.24,905.92
+Noah Dijkstra,Coasters,9,113.24,1019.16
+Noah de Vries,Nuts,5,29.61,148.05
+Liam Bakker,Laundry Basket,10,119.13,1191.30
+ORD_0600,Keyboard,8,20,160.00
+Mia Bos,Monitor,,,
+Harper Jansen,Webcam,1,1047.62,1047.62
+Sophia Bakker,Coat,1,130.08,130.08
+Sara Meijer,Lamp,7,129.35,905.45
+ORD_1119,Instant Noodles,5,29.39,146.95
+ORD_0369,Jam,4,7.71,46.26
+ORD_0880,Monitor,3,548.49,1645.47
+Levi Meijer,Jump Rope,,112.2,
+Liam de Groot,Smartphone,2,945.45,1890.90
+Benjamin van den Berg,Rice,4,16.12,64.48
+ORD_0057,Hair Oil,9,,
+ORD_0384,Knee Pads,7,,
+Lucas Smit,Toner,1,20,20.00
+Emma Peeters,Instant Noodles,4,29.39,117.56
+ORD_0817,Tea,,3.37,
+ORD_0814,Soap Dispenser,8,71.41,571.28
+Olivia de Groot,Smartphone,5,945.45,4727.25
+Finn Bos,Charger,1,1142.39,1142.39
+ORD_0643,Microphone,7,779.69,5457.83
+ORD_0380,Running Shoes,6,19.47,116.82
+ORD_0990,Bicycle Helmet,6,293.98,1763.88
+ORD_0290,Shower Gel,,31.86,
+ORD_0882,Jam,3,7.71,23.13
+ORD_0243,Dumbbell,4,180.1,720.40
+ORD_0124,Eye Cream,10,,
+Liam Bos,Clock,4,137.5,550.00
+ORD_0223,Lip Balm,1,,
+Levi Peters,Cardigan,2,131.63,302.75
+Laura de Vries,Knee Pads,10,37.22,372.20
+ORD_0599,Instant Noodles,9,,
+ORD_1148,Lip Balm,9,41.42,372.78
+ORD_0507,T-Shirt,8,20,160.00
+Bram Vos,Fitness Tracker,9,228.04,2052.36
+ORD_0135,Monitor,8,548.49,4387.92
+ORD_0724,T-Shirt,2,20,40.00
+Liam Peeters,Gloves,1,14.13,14.13
+Harper Bos,Clock,10,137.5,1168.75
+ORD_0855,Razor,9,62.25,560.25
+Lucas Bakker,Toner,3,20,60.00
+Julia Dekker,Microphone,6,779.69,4678.14
+Lisa van Leeuwen,Hoodie,1,158.66,158.66
+Levi de Vries,Mug,1,92.79,92.79
+ORD_0276,Storage Box,8,27.43,109.72
+ORD_1079,Running Shoes,7,19.47,136.29
+Tim de Groot,Laptop,6,20,120.00
+Benjamin Bakker,Doormat,6,119.9,719.40
+ORD_0461,Honey,3,3.42,10.26
+Isabella Dekker,Laundry Basket,10,119.13,1191.30
+ORD_1083,Swim Goggles,,20,
+Ethan Brouwer,Mascara,9,27.26,245.34
+Mason van Dijk,Chocolate,10,13.22,132.20
+ORD_0147,Rice,4,16.12,64.48
+ORD_0728,Conditioner,,38.22,
+ORD_0201,Face Cream,7,23.96,167.72
+ORD_0192,Sweater,1,132.17,132.17
+Isabella Bakker,Shampoo,7,48.94,342.58
+ORD_0627,Foundation,6,41.65,249.90
+Lucas Brouwer,Headphones,10,750.23,7502.30
+Emma Dekker,Toothbrush,3,77.28,231.84
+ORD_0118,Cycling Gloves,10,204.17,2041.70
+ORD_0090,Clock,5,137.5,687.50
+ORD_1162,Blanket,5,37.47,187.35
+Benjamin Bakker,Vase,10,74.99,749.90
+Nora de Groot,Hoodie,5,158.66,793.30
+Oliver Visser,Toothbrush,7,77.28,540.96
+Bram Vos,Scarf,10,142.73,1427.30
+ORD_0095,Fitness Tracker,1,228.04,228.04
+Finn Bos,Yoga Mat,,15.35,
+ORD_0647,Lamp,7,129.35,905.45
+Olivia Smit,Candle,,,
+Charlotte Peters,Cutting Board,6,37.79,226.74
+Laura Hendriks,Nuts,6,29.61,177.66
+Daan van Dijk,Granola,8,3.28,26.24
+ORD_0892,Jeans,10,,
+Charlotte Hendriks,Soup,10,26.96,269.60
+Evelyn Mulder,Knee Pads,9,37.22,334.98
+ORD_0758,Cushion,9,6.27,56.43
+ORD_0503,Hoodie,6,158.66,951.96
+ORD_0504,Leggings,,21.18,
+Evelyn van Leeuwen,Mouse,,923.37,
+ORD_0395,Oats,7,11.67,81.69
+Harper Meijer,Rug,9,81.5,733.50
+Daan van Leeuwen,Sunscreen,1,40.27,40.27
+Lucas de Vries,Lamp,9,129.35,989.53
+Sophia Vos,Protein Bar,6,6.97,48.09
+Isabella de Groot,Gamepad,7,1043.03,7301.21
+Daan de Vries,Instant Noodles,10,29.39,293.90
+ORD_0192,Shorts,,151.9,
+ORD_0372,Mirror,5,34.64,173.20
+ORD_0065,Laundry Basket,10,119.13,1191.30
+ORD_0964,Dried Fruit,2,20,40.00
+ORD_0651,USB Hub,5,107.53,537.65
+ORD_0596,Picture Frame,10,88.73,887.30
+ORD_0074,Running Shoes,4,,
+ORD_0317,Coasters,9,113.24,1019.16
+ORD_1028,Mirror,6,34.64,207.84
+Isabella Dekker,Blanket,,,
+Harper Mulder,Tomato Sauce,6,11.48,103.32
+ORD_0695,Jump Rope,4,112.2,516.12
+Sem Visser,Power Bank,9,266.91,2402.19
+ORD_0856,T-Shirt,1,,
+Bram Peeters,Laptop,5,20,150.00
+Bram Jansen,Sunscreen,2,40.27,80.54
+ORD_0358,Headphones,,750.23,
+ORD_0118,Coat Hanger,,87.64,
+ORD_0071,Foam Roller,10,77.79,777.90
+ORD_0445,Sunscreen,9,40.27,362.43
+Mia Bos,Mug,7,92.79,649.53
+ORD_0734,Skipping Rope,2,152.47,304.94
+ORD_0541,Deodorant,5,49.92,249.60
+ORD_0429,Protein Bar,8,6.97,55.76
+ORD_1058,Running Shoes,5,19.47,97.35
+ORD_0952,Keyboard,5,20,100.00
+Nora Brouwer,Tomato Sauce,4,11.48,45.92
+ORD_0850,Dumbbell,6,180.1,1080.60
+Liam de Groot,Rice,8,16.12,128.96
+ORD_0982,Monitor,4,548.49,2193.96
+Olivia Visser,Hair Oil,3,20,60.00
+Ethan Visser,Football,,122.47,
+ORD_0279,Laundry Basket,1,119.13,119.13
+ORD_0931,Eye Cream,,11.08,
+Lucas Visser,Face Mask,6,52.96,476.64
+ORD_0546,Chocolate,1,13.22,13.22
+Julia Dekker,Keyboard,7,20,70.00
+Daan van Leeuwen,Granola,7,3.28,22.96
+ORD_0711,Graphics Card,3,289.49,868.47
+ORD_1160,Jeans,5,20,100.00
+Aiden Brouwer,Granola,1,3.28,3.28
+Mason Bos,Smartphone,7,945.45,6618.15
+ORD_0626,Mirror,6,34.64,207.84
+ORD_0052,Crackers,8,24.01,192.08
+ORD_0997,Tennis Racket,7,,
+Sem de Boer,Chocolate,3,13.22,39.66
+Finn de Groot,Soap Dispenser,8,71.41,571.28
+Noah Peeters,Rice,2,16.12,32.24
+Lucas Dekker,Dress,9,65.57,590.13
+ORD_0001,Skirt,2,136.95,273.90
+Tim van Leeuwen,Jam,2,7.71,15.42
+James Peeters,Dried Fruit,2,,
+Lucas Visser,Sweater,7,132.17,925.19
+ORD_0766,Vase,7,,
+ORD_0342,Mascara,1,27.26,27.26
+ORD_0715,Body Lotion,6,18.63,111.78
+ORD_0590,Smartwatch,3,576.28,1728.84
+ORD_0164,Dried Fruit,2,20,40.00
+ORD_0137,Toothpaste,1,20,20.00
+ORD_0701,Dress,10,65.57,655.70
+ORD_0867,Laundry Basket,9,119.13,1072.17
+Liam de Boer,Gamepad,2,,
+ORD_0838,Foundation,4,41.65,166.60
+ORD_1155,Badminton Set,7,178.08,1246.56
+ORD_0780,Blanket,3,37.47,112.41
+Harper Smit,Coat,5,130.08,650.40
+ORD_1033,SSD Drive,10,819.93,8199.30
+ORD_0452,Crackers,10,24.01,240.10
+Ava Dekker,Vase,1,74.99,74.99
+ORD_0410,Gym Bag,9,133.33,1199.97
+ORD_1016,Hat,1,165.24,165.24
+ORD_0592,Face Mask,1,52.96,60.90
+ORD_0684,Polo Shirt,8,138.95,1111.60
+Tim Visser,Toothbrush,3,77.28,231.84
+ORD_0536,Blazer,7,,
+ORD_0154,Gym Bag,2,133.33,266.66
+Ava Bakker,Yoga Mat,3,15.35,46.05
+Bram de Vries,Storage Box,1,27.43,27.43
+Evelyn Jansen,Olive Oil,8,15.63,125.04
+ORD_1097,Leggings,6,21.18,127.08
+ORD_0085,Serum,4,51.72,206.88
+Mia van Leeuwen,Lamp,3,129.35,329.84
+ORD_1167,Router,3,173.62,781.29
+ORD_0561,Rice,3,16.12,48.36
+Benjamin Bakker,Blanket,,37.47,
+ORD_0655,Lip Balm,3,41.42,124.26
+Lucas Dijkstra,Oats,9,11.67,105.03
+ORD_0499,Deodorant,9,49.92,516.67
+ORD_0718,Router,10,173.62,868.10
+Isabella Meijer,Nuts,7,29.61,207.27
+Ethan Smit,Socks,6,68.84,413.04
+ORD_0974,Deodorant,7,49.92,401.86
+Charlotte Dekker,Knee Pads,7,37.22,260.54
+ORD_0750,Rice,9,16.12,145.08
+Amelia de Groot,Water Bottle,5,21.73,108.65
+Daan Smit,Cushion,10,6.27,62.70
+ORD_0686,Sunscreen,,40.27,
+ORD_0049,Fitness Tracker,3,228.04,684.12
+ORD_0958,Dried Fruit,4,20,80.00
+ORD_0708,Kitchen Timer,1,72.94,72.94
+Lucas Brouwer,Swim Goggles,1,20,20.00
+ORD_0207,Picture Frame,7,88.73,621.11
+Noah de Groot,Toner,8,20,160.00
+ORD_0661,Cereal,9,7.98,82.59
+ORD_0132,Yoga Mat,9,15.35,138.15
+ORD_1156,Boots,,20,
+ORD_1134,Resistance Band,3,267.11,801.33
+ORD_1121,Storage Box,1,27.43,13.71
+Sara Meijer,Tennis Racket,7,254.89,1784.23
+ORD_1149,Shorts,7,151.9,1063.30
+Isabella Jansen,Storage Box,7,27.43,192.01
+Evelyn van den Berg,Cereal,8,7.98,95.76
+Amelia Bakker,Instant Noodles,6,29.39,176.34
+Laura Meijer,Razor,3,62.25,186.75
+Sara Jansen,Smart TV,7,563.86,3947.02
+ORD_0889,Sunscreen,,40.27,
+ORD_0994,T-Shirt,3,20,60.00
+Aiden Peters,Shower Gel,6,31.86,191.16
+Mason de Groot,Laptop,7,20,161.00
+Sara de Vries,Charger,2,1142.39,2284.78
+ORD_0823,Crackers,9,24.01,216.09
+Emma Vos,Water Bottle,9,,
+Charlotte de Vries,Toner,4,20,80.00
+Sophia van den Berg,Swim Goggles,5,20,150.00
+ORD_0420,Tomato Sauce,6,11.48,68.88
+Isabella Bakker,USB Hub,2,107.53,215.06
+Noah de Vries,Body Lotion,9,18.63,167.67
+ORD_0268,Laundry Basket,4,119.13,476.52
+ORD_0165,Mascara,,27.26,
+Noah Brouwer,Router,7,173.62,1215.34
+Emma Visser,Bicycle Helmet,3,,
+Laura Dijkstra,Knee Pads,9,37.22,334.98
+ORD_1094,Cutting Board,,37.79,
+ORD_0684,Hat,3,165.24,743.58
+ORD_0212,Soup,2,26.96,53.92
+Noah Hendriks,Vase,1,74.99,74.99
+Charlotte Peters,Power Bank,6,266.91,1601.46
+ORD_0442,Football,9,122.47,1102.23
+Charlotte Peters,Hat,1,165.24,165.24
+Mason Vos,Jacket,2,15.78,31.56
+Mason van Dijk,Honey,4,3.42,13.68
+ORD_0744,Towel,3,142.76,428.28
+Tim van Dijk,Serum,10,51.72,517.20
+Emma Peeters,Socks,10,68.84,688.40
+ORD_0226,Olive Oil,1,15.63,7.82
+ORD_0497,Storage Box,,27.43,
+Tim de Vries,Protein Bar,6,6.97,41.82
+Mia van Leeuwen,Charger,6,1142.39,6854.34
+Liam Bakker,T-Shirt,3,20,60.00
+ORD_0975,Gym Bag,7,133.33,933.31
+ORD_0638,Swim Goggles,4,20,80.00
+ORD_1082,Blazer,5,88.9,444.50
+Oliver Smit,Peanut Butter,1,28.1,28.10
+ORD_0701,Microphone,10,779.69,7796.90
+ORD_0597,Smartphone,2,,
+Charlotte Hendriks,Sneakers,9,,
+ORD_0882,Coat,3,130.08,390.24
+ORD_0943,Face Mask,8,52.96,423.68
+ORD_0564,Dumbbell,3,180.1,540.30
+ORD_0905,Olive Oil,8,15.63,125.04
+Isabella Meijer,Dumbbell,6,180.1,1080.60
+ORD_0676,Eye Cream,3,11.08,33.24
+ORD_1010,Hat,2,165.24,380.05
+Harper Mulder,Hat,7,165.24,1156.68
+Amelia Dekker,Candle,2,127.47,254.94
+Mia de Vries,Kitchen Timer,6,72.94,437.64
+Julia Vos,Dried Fruit,1,20,20.00
+Lucas van Dijk,Sweater,6,132.17,793.02
+Olivia de Groot,Serum,8,51.72,413.76
+Lucas Peters,Plant Pot,,118.04,
+ORD_0760,Microphone,4,779.69,3118.76
+ORD_1118,Headphones,5,750.23,3751.15
+Charlotte Dekker,Mug,,92.79,
+ORD_0101,Lamp,7,129.35,905.45
+ORD_0136,Jump Rope,,112.2,
+ORD_0422,Granola,,3.28,
+ORD_0610,Shampoo,5,48.94,244.70
+ORD_0281,Shampoo,,,
+Julia Dekker,Face Mask,7,52.96,370.72
+ORD_0312,Olive Oil,,15.63,
+Charlotte Visser,Cycling Gloves,6,204.17,1225.02
+Lucas Peters,Shower Gel,3,31.86,95.58
+ORD_1063,Smartphone,2,945.45,1890.90
+ORD_0655,Blanket,3,37.47,112.41
+Levi Peters,Olive Oil,6,15.63,93.78
+ORD_1005,Cycling Gloves,1,204.17,204.17
+ORD_0529,Power Bank,1,266.91,266.91
+Ethan Dekker,Shampoo,2,48.94,97.88
+Olivia Vos,Smartphone,9,945.45,8509.05
+ORD_0309,Face Mask,5,52.96,264.80
+ORD_0566,Yoga Mat,8,15.35,122.80
+ORD_0886,Laundry Basket,9,119.13,1072.17
+Charlotte van Leeuwen,Mouse,10,,
+ORD_0294,Tea,3,3.37,10.11
+ORD_0982,Instant Noodles,2,29.39,58.78
+ORD_0817,Smartphone,5,,
+ORD_0153,Sports Watch,10,35.57,355.70
+ORD_0816,Towel,10,142.76,713.80
+Bram Jansen,Webcam,9,1047.62,9428.58
+ORD_0351,Swimwear,3,,
+Liam Bakker,Shampoo,3,48.94,146.82
+Harper van Leeuwen,SSD Drive,3,819.93,2459.79
+ORD_0054,Socks,,68.84,
+Mason van Leeuwen,Smart TV,8,563.86,3834.25
+Charlotte van Leeuwen,Jump Rope,4,112.2,448.80
+ORD_1086,Biscuits,5,29.25,146.25
+ORD_0346,Gloves,5,14.13,105.98
+ORD_0573,Candle,1,127.47,108.35
+ORD_0799,Polo Shirt,,138.95,
+ORD_1024,Chocolate,3,13.22,39.66
+ORD_1185,Charger,5,1142.39,5711.95
+ORD_0645,USB Hub,6,107.53,645.18
+ORD_0823,Skirt,10,136.95,1369.50
+ORD_0981,Mirror,4,34.64,138.56
+ORD_0325,Soup,8,26.96,215.68
+Ava Peters,Swim Goggles,3,20,60.00
+Aiden Mulder,Mascara,1,27.26,23.17
+ORD_0894,Dumbbell,,180.1,
+ORD_0747,Skipping Rope,10,152.47,1524.70
+James van Leeuwen,Cereal,,7.98,
+Ava de Groot,Basketball,,20,
+James Peeters,Bicycle Helmet,,293.98,
+Lisa Dekker,Keyboard,7,20,140.00
+ORD_0139,Resistance Band,2,,
+ORD_0508,Serum,1,51.72,59.48
+Julia van den Berg,Knee Pads,10,37.22,372.20
+ORD_0288,Oats,1,,
+ORD_0939,Candle,,127.47,
+ORD_0503,Cereal,7,7.98,55.86
+Laura Peeters,Face Cream,5,23.96,179.70
+ORD_0702,Honey,7,3.42,23.94
+Laura Meijer,Badminton Set,8,178.08,1424.64
+ORD_0773,Dumbbell,1,180.1,180.10
+ORD_0974,USB Hub,2,107.53,215.06
+ORD_0065,Olive Oil,,15.63,
+ORD_0147,Perfume,10,9.51,95.10
+ORD_0292,Yoga Mat,1,15.35,7.67
+Olivia Hendriks,Doormat,1,119.9,119.90
+ORD_0032,Lip Balm,1,41.42,41.42
+ORD_0485,Laundry Basket,8,119.13,953.04
+ORD_1014,Dress,3,65.57,196.71
+Liam Vos,Jacket,9,15.78,142.02
+ORD_0425,Mascara,5,27.26,136.30
+ORD_0272,Doormat,8,119.9,815.32
+ORD_0453,Knee Pads,9,37.22,334.98
+Olivia Meijer,Hat,7,165.24,1156.68
+Ethan Brouwer,Mirror,10,34.64,346.40
+Julia Dijkstra,Graphics Card,1,289.49,289.49
+Sara de Vries,Oats,8,11.67,93.36
+Bram Jansen,Picture Frame,1,88.73,88.73
+Lucas Visser,Shampoo,7,48.94,342.58
+ORD_0901,Cushion,8,6.27,50.16
+ORD_0655,Nuts,6,29.61,177.66
+Charlotte Visser,Router,3,173.62,520.86
+Julia Vos,Rice,2,16.12,32.24
+Lucas Dekker,Dumbbell,1,180.1,180.10
+ORD_0364,Yoga Mat,,15.35,
+Laura van Dijk,T-Shirt,7,20,140.00
+ORD_0105,Knee Pads,5,37.22,279.15
+ORD_0367,Serum,1,51.72,51.72
+Benjamin Dijkstra,Toothbrush,7,77.28,459.82
+Evelyn Peters,Mascara,3,27.26,81.78
+Oliver van Leeuwen,Charger,3,1142.39,3427.17
+ORD_1154,Shower Gel,6,31.86,191.16
+ORD_0344,Nail Polish,10,43.42,369.07
+ORD_0155,Cushion,10,6.27,62.70
+Tim van Leeuwen,Running Shoes,4,19.47,77.88
+Mia Bos,Crackers,1,24.01,24.01
+ORD_0258,Laptop,9,20,180.00
+ORD_0057,Dumbbell,8,180.1,1440.80
+ORD_1087,Coffee,1,9.46,9.46
+Benjamin Dijkstra,Biscuits,1,29.25,29.25
+ORD_0321,Hair Oil,5,20,100.00
+ORD_0744,Biscuits,7,29.25,204.75
+ORD_0562,Gamepad,2,1043.03,2086.06
+ORD_0373,Dress,9,65.57,590.13
+Sophia Bakker,Swim Goggles,9,20,180.00
+ORD_1067,Jeans,6,20,120.00
+ORD_1174,Gloves,4,14.13,56.52
+Laura Meijer,Face Cream,1,23.96,23.96
+ORD_1148,Storage Box,2,27.43,54.86
+Bram Peeters,Nuts,9,29.61,266.49
+ORD_0449,Jacket,7,15.78,110.46
+Julia Dekker,Sunscreen,6,40.27,241.62
+Mason van Dijk,Microphone,6,779.69,4678.14
+ORD_0842,Honey,,3.42,
+Finn Brouwer,Socks,3,68.84,206.52
+ORD_0703,Lip Balm,9,41.42,372.78
+ORD_0769,Socks,6,68.84,413.04
+Mason Dekker,Biscuits,4,29.25,117.00
+Charlotte van Leeuwen,Biscuits,6,29.25,175.50
+Benjamin Bos,Foundation,9,41.65,374.85
+ORD_0144,Belt,10,53.41,534.10
+Charlotte Vos,Shower Gel,3,31.86,95.58
+Daan Dekker,Boots,10,20,200.00
+Olivia Brouwer,Sweater,7,132.17,925.19
+ORD_0199,Cardigan,,131.63,
+Liam Meijer,Laundry Basket,,119.13,
+ORD_0534,Soap Dispenser,3,71.41,214.23
+Lucas van Dijk,Blanket,2,37.47,74.94
+Mia Jansen,Plant Pot,8,,
+ORD_1190,Jam,10,7.71,77.10
+Finn Meijer,Perfume,8,9.51,76.08
+Lucas Bakker,Kitchen Timer,5,72.94,364.70
+ORD_0914,Yoga Mat,6,15.35,92.10
+Levi Bos,Tomato Sauce,,11.48,
+ORD_1200,Storage Box,5,27.43,137.15
+Sophia Bakker,Body Lotion,4,18.63,74.52
+Isabella de Vries,Face Mask,,52.96,
+Ava Bakker,Hair Oil,7,20,140.00
+Noah Smit,Resistance Band,10,267.11,3071.77
+ORD_1199,Blanket,6,37.47,224.82
+Finn Brouwer,USB Hub,9,107.53,1112.94
+Liam Dekker,Toner,4,20,80.00
+Mason Bos,Soup,10,26.96,229.16
+Laura Hendriks,Toner,3,20,60.00
+Olivia de Vries,Lamp,7,129.35,905.45
+ORD_0358,Sweater,2,132.17,264.34
+Isabella Visser,Foundation,3,41.65,124.95
+Daan Peeters,Cutting Board,1,37.79,37.79
+ORD_1103,Sweater,1,132.17,132.17
+Harper Jansen,Sunscreen,5,40.27,201.35
+ORD_0076,Yoga Mat,4,15.35,61.40
+ORD_0277,Microphone,3,,
+ORD_1080,Coat,,130.08,
+ORD_0899,Charger,7,1142.39,7996.73
+Ava Bakker,Crackers,3,24.01,72.03
+Mia Bos,Doormat,3,119.9,359.70
+Emma Visser,Coasters,6,113.24,679.44
+Ava de Groot,Eye Cream,1,11.08,11.08
+ORD_0868,Perfume,1,9.51,10.94
+Isabella Dijkstra,Mascara,5,27.26,136.30
+Noah Vos,Running Shoes,7,,
+ORD_0708,Skipping Rope,9,152.47,1372.23
+ORD_0912,Dried Fruit,8,20,160.00
+Julia Meijer,Gym Bag,4,133.33,533.32
+ORD_0943,Speaker,3,,
+Lucas Vos,Scarf,2,142.73,285.46
+Noah Brouwer,Shower Gel,5,31.86,183.19
+Sem Hendriks,Body Lotion,1,,
+Mason van Dijk,Swimwear,10,130.23,1302.30
+Mia Bos,Monitor,9,548.49,4936.41
+Sara de Vries,Instant Noodles,1,29.39,29.39
+Aiden Peters,Conditioner,3,38.22,114.66
+ORD_0101,Serum,10,51.72,517.20
+James de Vries,Mug,10,92.79,927.90
+ORD_0633,Coat Hanger,3,87.64,262.92
+Mia van den Berg,Badminton Set,,178.08,
+Charlotte Vos,Body Lotion,8,18.63,149.04
+ORD_0224,Gloves,1,14.13,14.13
+ORD_0659,Hoodie,10,158.66,1586.60
+ORD_0381,Toothbrush,4,77.28,309.12
+ORD_1100,Headphones,5,750.23,3751.15
+ORD_0517,Shower Gel,7,31.86,223.02
+ORD_1101,Toner,1,20,20.00
+Emma van den Berg,Water Bottle,8,21.73,173.84
+Sem van den Berg,Hat,4,,
+Bram Dijkstra,Skipping Rope,9,152.47,1372.23
+ORD_0896,Webcam,7,1047.62,7333.34
+ORD_1055,Shorts,9,,
+Benjamin van den Berg,Crackers,8,24.01,192.08
+ORD_1140,Shorts,3,151.9,455.70
+ORD_0293,Picture Frame,3,88.73,266.19
+ORD_0598,Protein Bar,,6.97,
+ORD_0314,Picture Frame,6,88.73,532.38
+Julia Bos,Foundation,2,41.65,83.30
+ORD_0955,Pasta,1,13.78,13.78
+Bram Peeters,Shampoo,7,48.94,342.58
+ORD_0410,Dress,5,65.57,327.85
+ORD_1072,Protein Bar,5,6.97,34.85
+Ava Vos,Fitness Tracker,7,228.04,1596.28
+Noah Jansen,Chocolate,4,,
+Mason van den Berg,Vase,,74.99,
+ORD_0325,Gamepad,6,1043.03,6258.18
+ORD_0019,Router,,173.62,
+ORD_0095,Yoga Mat,10,15.35,153.50
+ORD_0518,Charger,5,,
+ORD_0972,Doormat,10,119.9,1798.50
+ORD_0711,Sunscreen,3,40.27,120.81
+Liam van den Berg,Toothbrush,7,77.28,540.96
+ORD_0263,Keyboard,6,20,120.00
+Benjamin van den Berg,Kitchen Timer,,72.94,
+Mia Visser,Olive Oil,6,15.63,93.78
+ORD_0332,Shampoo,5,48.94,244.70
+Lucas Brouwer,Jump Rope,4,112.2,448.80
+Laura Jansen,Nuts,3,29.61,102.15
+Olivia de Vries,Socks,7,68.84,481.88
+Nora de Groot,Smartwatch,2,576.28,1152.56
+ORD_0847,Chocolate,6,,
+Bram Dijkstra,Dried Fruit,8,20,160.00
+James Dijkstra,Mouse,,923.37,
+Isabella Meijer,Cereal,1,7.98,7.98
+Sophia Peeters,Sweater,8,132.17,1057.36
+ORD_0516,Scarf,6,142.73,856.38
+Bram de Vries,Vase,7,74.99,524.93
+Aiden Jansen,Socks,,68.84,
+Liam Meijer,Tomato Sauce,6,11.48,68.88
+Liam Mulder,Jump Rope,6,112.2,1009.80
+Harper Mulder,Shampoo,2,48.94,97.88
+Sem van Leeuwen,Smartwatch,3,576.28,1728.84
+Finn Dekker,Coat,3,130.08,390.24
+James de Boer,Speaker,10,1049.85,10498.50
+ORD_0597,Tea,3,3.37,10.11
+Emma Visser,Tomato Sauce,7,11.48,80.36
+Aiden Hendriks,Lip Balm,,41.42,
+ORD_0711,Tennis Racket,10,254.89,2548.90
+ORD_1095,Tablet,9,,
+James Peeters,Coasters,5,113.24,651.13
+ORD_0817,Mug,8,92.79,742.32
+James Dekker,Jam,4,7.71,30.84
+Levi de Vries,Shower Gel,7,31.86,223.02
+ORD_0956,Tennis Racket,8,254.89,2039.12
+Ava van Leeuwen,Water Bottle,1,21.73,21.73
+Lisa Dekker,Toner,8,20,136.00
+Noah Jansen,T-Shirt,5,20,100.00
+ORD_1199,Polo Shirt,,138.95,
+ORD_0764,Power Bank,,266.91,
+ORD_0189,Lamp,9,129.35,1164.15
+ORD_0743,Soup,4,26.96,107.84
+Julia Bos,Skirt,1,136.95,136.95
+ORD_0218,Smartphone,5,945.45,4018.16
+Evelyn Dijkstra,Kitchen Timer,5,72.94,364.70
+ORD_0686,Face Cream,7,23.96,83.86
+Harper Bos,Gym Bag,7,133.33,933.31
+Sara Meijer,Nuts,5,29.61,148.05
+Lisa Dekker,Hoodie,1,158.66,158.66
+ORD_0948,Eye Cream,10,11.08,110.80
+ORD_0246,Crackers,6,24.01,144.06
+ORD_0575,Perfume,10,9.51,47.55
+Noah de Vries,Hat,3,165.24,495.72
+Charlotte Hendriks,Plant Pot,7,118.04,826.28
+Finn de Groot,Speaker,4,1049.85,4199.40
+ORD_0819,Soup,1,26.96,26.96
+Aiden Mulder,Laptop,9,,
+ORD_0814,Kitchen Timer,10,72.94,729.40
+Levi Meijer,Monitor,8,548.49,4387.92
+ORD_1153,Smartwatch,10,576.28,2881.40
+Evelyn Jansen,Pasta,7,13.78,96.46
+Aiden Hendriks,Router,7,173.62,1215.34
+Isabella Peeters,Smartphone,10,945.45,9454.50
+ORD_0321,Laundry Basket,4,119.13,476.52
+ORD_0078,Smartwatch,8,576.28,4610.24
+Mason Bos,Toothbrush,10,77.28,656.88
+ORD_0799,Candle,4,127.47,509.88
+Ava Mulder,Picture Frame,8,88.73,709.84
+ORD_0746,Skipping Rope,,152.47,
+ORD_1158,Sneakers,6,113.26,679.56
+Mason Mulder,SSD Drive,9,819.93,7379.37
+Bram Peeters,Headphones,8,750.23,6001.84
+Lucas van Dijk,Face Mask,,52.96,
+ORD_0951,Smartwatch,3,576.28,1728.84
+Isabella Peeters,Coat Hanger,1,,
+ORD_0829,Keyboard,3,20,60.00
+Olivia Vos,Polo Shirt,7,138.95,972.65
+ORD_0463,Instant Noodles,7,29.39,236.59
+ORD_1053,Jacket,4,15.78,63.12
+Lucas de Groot,Peanut Butter,5,28.1,140.50
+ORD_0230,Cutting Board,1,37.79,37.79
+Noah Smit,Biscuits,9,,
+ORD_0664,Cardigan,4,131.63,526.52
+ORD_1052,Foam Roller,9,77.79,700.11
+Lucas Peeters,Smartphone,2,945.45,1890.90
+Ethan de Vries,Peanut Butter,9,28.1,252.90
+Mia de Boer,Toner,10,20,200.00
+ORD_0194,Dried Fruit,6,20,120.00
+ORD_1197,Coffee,5,9.46,23.65
+Charlotte van Leeuwen,Picture Frame,4,88.73,354.92
+ORD_0675,T-Shirt,8,20,160.00
+Mason Bos,Skipping Rope,5,152.47,762.35
+Oliver Dijkstra,Conditioner,3,,
+ORD_1006,Chocolate,7,13.22,92.54
+Harper Brouwer,Soap Dispenser,6,71.41,428.46
+Emma Visser,Hoodie,5,158.66,793.30
+ORD_0270,Router,4,173.62,694.48
+ORD_0502,Soup,8,26.96,215.68
+Daan Bakker,Boots,5,20,100.00
+Sophia de Groot,Jacket,9,15.78,142.02
+ORD_0176,Jump Rope,8,112.2,897.60
+ORD_0239,Football,2,122.47,244.94
+ORD_0961,Eye Cream,8,,
+ORD_0929,Webcam,2,1047.62,2095.24
+Noah Brouwer,Laptop,8,20,160.00
+ORD_0032,Jeans,5,20,100.00
+ORD_0048,Chocolate,10,13.22,132.20
+Sara Bakker,Hair Oil,5,20,150.00
+ORD_0955,Vase,7,74.99,524.93
+ORD_0884,Swim Goggles,6,20,102.00
+ORD_1200,Microphone,6,779.69,4678.14
+Bram Peeters,Instant Noodles,9,29.39,264.51
+Benjamin de Groot,Toothbrush,7,,
+Harper van den Berg,Fitness Tracker,7,228.04,798.14
+Liam de Boer,Headphones,1,750.23,375.12
+ORD_0387,Soup,5,,
+ORD_0250,Foam Roller,5,77.79,388.95
+Liam Meijer,Hair Oil,,20,
+Aiden Visser,Laundry Basket,5,119.13,595.65
+ORD_0788,Skipping Rope,1,152.47,152.47
+ORD_0462,Badminton Set,4,178.08,712.32
+ORD_0899,Basketball,3,20,60.00
+Evelyn Bos,Peanut Butter,4,28.1,112.40
+ORD_0024,Jeans,7,,
+ORD_0662,Smartwatch,5,576.28,2881.40
+ORD_0991,Boots,9,20,180.00
+ORD_0665,Soap Dispenser,8,71.41,571.28
+ORD_0878,Webcam,8,1047.62,8380.96
+Ava Peters,Microphone,4,779.69,3586.57
+ORD_0653,Tablet,1,1346.72,1346.72
+ORD_0804,Dumbbell,1,180.1,180.10
+ORD_0619,Honey,9,3.42,26.16
+Nora Dekker,Picture Frame,9,88.73,798.57
+Evelyn Jansen,Crackers,7,24.01,168.07
+Lucas Bakker,Fitness Tracker,8,228.04,1824.32
+ORD_0988,Coffee,10,9.46,94.60
+Benjamin van den Berg,Headphones,9,750.23,6752.07
+ORD_0835,Picture Frame,9,88.73,798.57
+Ava Brouwer,Gamepad,6,1043.03,6258.18
+ORD_0639,Tablet,1,1346.72,1346.72
+ORD_1040,Gym Bag,9,133.33,1199.97
+Tim Bos,Cushion,5,6.27,31.35
+Julia Dijkstra,Olive Oil,6,15.63,93.78
+ORD_1081,Water Bottle,,21.73,
+ORD_0242,Protein Bar,6,,
+James van Leeuwen,Speaker,9,1049.85,9448.65
+ORD_0012,Protein Bar,8,6.97,55.76
+Olivia Smit,Tea,2,,
+ORD_0947,Power Bank,5,266.91,1334.55
+Charlotte Peters,Razor,2,62.25,124.50
+ORD_0075,Soap Dispenser,6,71.41,492.73
+Tim van Leeuwen,Tablet,2,1346.72,2693.44
+ORD_0957,Jump Rope,8,112.2,897.60
+ORD_0554,Soup,3,26.96,80.88
+Laura Dijkstra,Tea,6,3.37,20.22
+ORD_0402,Lip Balm,,41.42,
+ORD_1026,Gym Bag,3,133.33,399.99
+ORD_0828,Resistance Band,8,267.11,2136.88
+Mason van Leeuwen,Yoga Mat,7,15.35,107.45
+Levi Meijer,Eye Cream,10,11.08,110.80
+ORD_0124,Lamp,1,129.35,129.35
+ORD_0465,Olive Oil,,15.63,
+Lucas de Boer,Keyboard,7,20,210.00
+Sophia van den Berg,Monitor,1,548.49,548.49
+ORD_0111,Crackers,1,24.01,24.01
+ORD_0050,Granola,7,3.28,22.96
+Aiden de Boer,Cardigan,5,131.63,329.07
+Sem Brouwer,Picture Frame,8,,
+Olivia de Vries,Router,3,173.62,520.86
+ORD_0104,Cycling Gloves,1,204.17,306.25
+ORD_1138,Oats,2,11.67,23.34
+ORD_0315,Cycling Gloves,8,204.17,1633.36
+Charlotte Peeters,Headphones,5,,
+ORD_0625,Laptop,5,20,100.00
+ORD_0735,Rice,9,16.12,145.08
+Lucas van Dijk,Toner,,20,
+Noah Jansen,Rice,2,16.12,32.24
+ORD_0628,Biscuits,6,29.25,175.50
+Emma Bos,Polo Shirt,3,138.95,416.85
+ORD_0757,Towel,7,142.76,999.32
+Mia de Vries,Headphones,7,750.23,5251.61
+ORD_1185,Soup,4,26.96,107.84
+ORD_0231,Skirt,2,136.95,273.90
+Benjamin de Boer,Rug,3,81.5,244.50
+Benjamin van Leeuwen,Oats,10,11.67,116.70
+Oliver de Boer,Face Mask,10,52.96,529.60
+ORD_0352,Cycling Gloves,3,204.17,612.51
+ORD_0375,Jacket,6,15.78,94.68
+ORD_0064,Jacket,10,15.78,157.80
+Mia van Dijk,Fitness Tracker,,228.04,
+ORD_0270,Protein Bar,4,6.97,27.88
+ORD_0203,Jam,7,7.71,62.07
+ORD_0477,Eye Cream,6,11.08,56.51
+Benjamin Dekker,Clock,1,,
+ORD_0405,Protein Bar,10,6.97,69.70
+ORD_0770,Dress,8,65.57,524.56
+ORD_0645,Webcam,10,1047.62,5238.10
+ORD_0976,Smartwatch,8,576.28,4610.24
+Sara Smit,Tea,2,3.37,6.74
+ORD_0885,Keyboard,4,20,80.00
+Finn de Groot,Foundation,1,41.65,41.65
+Aiden Visser,Soup,3,26.96,80.88
+ORD_0138,Boots,7,20,161.00
+Benjamin van den Berg,Clock,,137.5,
+Nora Bakker,Toner,5,,
+Charlotte Peters,Body Lotion,7,18.63,149.97
+ORD_0319,Tea,7,3.37,23.59
+James Peeters,Chocolate,1,13.22,13.22
+ORD_0594,Basketball,1,20,20.00
+Sem Bakker,Rice,4,16.12,54.81
+ORD_0111,Honey,7,3.42,23.94
+Ethan de Groot,Sports Watch,9,35.57,480.19
+ORD_0170,Cereal,,7.98,
+Mia Visser,Resistance Band,6,267.11,1602.66
+Mia de Vries,Foam Roller,10,77.79,777.90
+Julia de Vries,Tablet,1,1346.72,673.36
+Ava de Groot,Serum,1,51.72,51.72
+Bram van Leeuwen,Foam Roller,1,77.79,77.79
+ORD_0290,Towel,4,142.76,571.04
+Aiden Hendriks,Shorts,,151.9,
+ORD_0280,Coat Hanger,5,87.64,438.20
+ORD_0824,Jump Rope,8,112.2,897.60
+ORD_0045,SSD Drive,1,819.93,819.93
+Noah Jansen,Chocolate,4,13.22,52.88
+Ava Vos,Router,9,173.62,2343.87
+Mason van Dijk,Instant Noodles,9,29.39,264.51
+ORD_0543,Rug,4,81.5,326.00
+Sara Vos,Lamp,7,129.35,905.45
+Sophia Smit,Laptop,,20,
+ORD_0526,Webcam,2,1047.62,2095.24
+Noah Brouwer,Sneakers,3,113.26,339.78
+ORD_0281,Leggings,9,21.18,190.62
+Lisa Mulder,Conditioner,1,38.22,38.22
+ORD_0424,Cutting Board,3,37.79,113.37
+Harper de Vries,Doormat,6,119.9,719.40
+Noah de Groot,Mouse,5,923.37,4616.85
+Sara van den Berg,Lamp,2,129.35,258.70
+ORD_0628,Blanket,3,37.47,112.41
+Oliver van Leeuwen,Nail Polish,3,43.42,130.26
+ORD_0246,Tomato Sauce,5,11.48,57.40
+ORD_0823,Power Bank,7,266.91,1868.37
+ORD_0663,Headphones,9,750.23,5739.26
+Aiden Meijer,Cutting Board,7,37.79,132.26
+Lucas van Dijk,Tablet,7,1346.72,9427.04
+Sophia Jansen,Jeans,7,,
+Aiden Smit,Towel,6,142.76,856.56
+ORD_0991,Storage Box,4,,
+Evelyn Jansen,Graphics Card,5,289.49,1447.45
+ORD_0767,SSD Drive,9,819.93,7379.37
+Daan van Leeuwen,Sports Watch,,35.57,
+Finn Jansen,Biscuits,7,29.25,204.75
+Ethan de Vries,Football,7,122.47,857.29
+ORD_1118,Nuts,10,,
+Julia Hendriks,Monitor,3,548.49,1645.47
+Noah de Groot,Headphones,9,,
+ORD_0171,Mouse,6,,
