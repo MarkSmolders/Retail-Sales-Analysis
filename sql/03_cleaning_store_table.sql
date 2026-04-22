@@ -1,9 +1,10 @@
--- Purpose: Create clean store table with consistent city casing
--- Date:    21/04/2026
+-- Purpose: Create clean store table with consistent city casing and added primary key
+-- Date:    22/04/2026
 
 SELECT
-    store_name,
-    CASE
+	ROW_NUMBER() OVER (ORDER BY store_name) AS store_id,
+	store_name,
+	CASE
 		WHEN LOWER(city) = 'den haag' THEN 'Den Haag'
 		ELSE
 		CONCAT(
@@ -11,8 +12,18 @@ SELECT
 			LOWER(SUBSTRING(city, 2, LEN(city)))
 				) 
 				END AS city	,
-    address,
-    postal_code,
-    manager_name
+	address,
+	postal_code,
+	manager_name
 INTO dbo.store_clean
 FROM dbo.store_raw;
+
+ALTER TABLE dbo.store_clean
+ALTER COLUMN store_id INT NOT NULL;
+
+ALTER TABLE dbo.store_clean
+ADD CONSTRAINT PK_store PRIMARY KEY (store_id);
+
+
+SELECT *
+FROM dbo.store_clean;
