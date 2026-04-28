@@ -1,5 +1,10 @@
 -- Purpose: Cleaning the order table by standardising the date values to 'YYYY-MM-DD' format and standardising the status column.
 --
+-- Note: order_raw originally referenced customers by name instead of customer_id.
+--       Data was regenerated with proper customer_id foreign key references (1-600)
+--       matching the cleaned customer_clean table. This reflects how real order systems
+--       reference customers — by ID generated at registration, not by name.
+--
 -- Remaining steps to be handled in later scripts
 --	- Order_ID generated after all cleaning is handled
 --	- Customer_id foreign key added by joining to customer_clean on customer_name
@@ -11,7 +16,7 @@ DROP TABLE IF EXISTS dbo.order_clean
 
 -- Create clean order table with standardised status values
 SELECT
-    customer_name,
+    customer_id,
     order_date,
     store_name,
     CASE 

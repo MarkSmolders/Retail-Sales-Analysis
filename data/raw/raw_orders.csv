@@ -1,1201 +1,1201 @@
-﻿customer_name,order_date,store_name,status,total_amount
-Nora de Groot,01/10/2022,MarketStore,Completed,750.30
-Sara Meijer,05-05-2024,SouthStore,SHIPPED,104.10
-Isabella Jansen,23/11/2022,CityStore,Cancelled,455.29
-Lucas Meijer,13/07/2023,SouthStore,Completed,695.19
-Ava Bakker,2024-01-08,PlazaStore,cancelled,728.17
-Noah Brouwer,2024-09-05,PlazaStore,SHIPPED,18.28
-Noah Smit,11/10/2022,CenterStore,Shipped,315.03
-Noah de Groot,2024-10-17,EastStore,Cancelled,183.18
-Liam Meijer,24 February 2022,NorthStore,Cancelled,770.07
-Noah de Vries,2022-04-27,CenterStore,Shipped,198.55
-Charlotte Peters,09/11/2023,MarketStore,cancelled,222.12
-Mia van den Berg,09/12/2022,WestStore,shipped,445.87
-Laura van Leeuwen,09-06-2023,MarketStore,Shipped,517.61
-Ethan de Vries,02-10-2022,CityStore,COMPLETED,499.86
-Ava de Boer,2024-07-24,MainStore,Shipped,769.98
-Ethan Hendriks,17 December 2024,,COMPLETED,259.76
-Mia van Leeuwen,03-20-2023,PlazaStore,Completed,504.80
-Finn Brouwer,16 October 2024,WestStore,Cancelled,277.60
-Mason Bos,10-17-2023,CityStore,Completed,167.87
-Laura de Vries,2024-05-14,PlazaStore,Pending,557.72
-Daan Bakker,23/02/2023,CityStore,completed,605.31
-Julia Dijkstra,28 December 2022,CityStore,COMPLETED,485.94
-Lucas de Boer,05-02-2024,WestStore,completed,477.33
-Lucas Brouwer,2022-10-20,MarketStore,COMPLETED,394.60
-Levi de Groot,02-26-2022,CityStore,cancelled,86.64
-Lisa Brouwer,09-05-2022,WestStore,SHIPPED,547.78
-Isabella de Vries,2023-11-23,CenterStore,pending,372.38
-Nora Bos,11 September 2024,NorthStore,cancelled,86.22
-Noah Jansen,01-19-2022,HarborStore,Cancelled,782.55
-Finn Bos,06/04/2023,WestStore,Shipped,297.54
-Ava de Groot,11-16-2022,MainStore,pending,638.91
-Benjamin Brouwer,14 September 2022,CenterStore,shipped,477.68
-Sara Meijer,5 December 2024,CenterStore,Shipped,566.26
-Charlotte van Leeuwen,2024-01-18,CityStore,Pending,581.67
-Sophia Peeters,13 January 2023,HarborStore,SHIPPED,278.33
-Sem Visser,25 May 2023,NorthStore,Pending,116.38
-Sara Vos,20/07/2023,PlazaStore,cancelled,597.33
-Lisa Hendriks,21/10/2022,PlazaStore,Shipped,218.30
-Amelia Vos,2024-09-18,HarborStore,SHIPPED,555.20
-Benjamin van den Berg,19 September 2022,,cancelled,251.66
-James de Groot,2023-03-08,PlazaStore,Cancelled,707.63
-Evelyn van Dijk,01/01/2022,WestStore,Completed,749.57
-Daan Smit,8 September 2022,,Shipped,603.42
-Laura van Dijk,04/03/2022,CityStore,Shipped,453.45
-Lucas de Boer,03-19-2023,CityStore,Shipped,343.50
-Bram Vos,2023-06-10,MainStore,shipped,260.28
-Ethan Brouwer,25/02/2023,EastStore,pending,38.56
-Sem van Leeuwen,2022-05-28,,SHIPPED,172.38
-Lucas Brouwer,26 July 2024,NorthStore,COMPLETED,415.81
-Bram Peeters,11 January 2023,HarborStore,Pending,40.66
-Charlotte Vos,2024-10-09,WestStore,COMPLETED,738.67
-Noah de Vries,2022-01-25,HarborStore,COMPLETED,353.03
-Ava Bakker,11 September 2024,PlazaStore,completed,726.93
-Julia Meijer,10/12/2024,MarketStore,Completed,754.37
-Isabella van den Berg,7 August 2023,HarborStore,cancelled,40.19
-Isabella Peeters,10-20-2024,SouthStore,Pending,180.57
-Daan de Vries,3 December 2024,MarketStore,Completed,25.09
-Lucas Smit,06-02-2022,,SHIPPED,636.92
-Ethan Bos,03-06-2023,CenterStore,Pending,766.34
-Harper de Vries,02-02-2022,WestStore,Completed,598.85
-Mason van Dijk,2023-06-10,SouthStore,COMPLETED,475.17
-Finn van Leeuwen,2022-01-09,CenterStore,shipped,523.35
-Noah Smit,19/06/2022,PlazaStore,Cancelled,435.50
-Aiden Bakker,2024-10-09,NorthStore,Pending,86.98
-James Peeters,10-16-2023,MainStore,Shipped,274.56
-Oliver Visser,25/04/2023,SouthStore,Completed,255.22
-Sophia Vos,2024-04-20,MainStore,Shipped,758.83
-Sem de Boer,2024-06-02,EastStore,Completed,368.38
-Julia de Boer,2024-04-05,MarketStore,pending,455.88
-Nora de Groot,28 July 2023,CenterStore,shipped,175.15
-Aiden Visser,26 November 2024,WestStore,COMPLETED,778.34
-Lucas Vos,16 February 2022,EastStore,Pending,521.79
-Mia Visser,1 January 2022,CityStore,pending,558.00
-Ethan Brouwer,2024-11-17,CenterStore,cancelled,375.53
-Daan Smit,2024-06-09,HarborStore,completed,87.30
-Nora de Groot,21/06/2022,PlazaStore,completed,228.70
-Finn de Groot,17/10/2022,EastStore,SHIPPED,184.49
-Ethan Dekker,1 December 2022,,completed,117.84
-Sophia Peeters,22 June 2023,PlazaStore,Completed,606.20
-Bram Mulder,18 November 2023,MainStore,cancelled,390.58
-Benjamin Hendriks,19/09/2023,EastStore,SHIPPED,536.60
-Finn Brouwer,02/11/2024,SouthStore,Shipped,661.83
-Sara Smit,2023-09-17,,cancelled,708.85
-Charlotte van Leeuwen,2024-08-18,WestStore,Shipped,424.65
-Sem Dekker,22 June 2024,MarketStore,COMPLETED,223.38
-Lucas Visser,5 April 2022,WestStore,COMPLETED,242.23
-Amelia Smit,18 February 2022,NorthStore,SHIPPED,364.14
-Bram van Leeuwen,01-27-2022,WestStore,Completed,317.54
-Levi Bos,2024-12-26,CenterStore,Shipped,525.88
-Bram Vos,20/06/2024,WestStore,Pending,64.14
-Ava de Boer,12 December 2023,SouthStore,COMPLETED,209.86
-Sem Visser,16/02/2023,SouthStore,Completed,357.53
-Ava Peeters,20 October 2023,,cancelled,289.91
-Mia Jansen,2022-06-09,CenterStore,COMPLETED,720.82
-Daan van den Berg,03/09/2024,MainStore,pending,375.25
-Amelia Vos,05-19-2022,NorthStore,SHIPPED,115.84
-Mia Smit,06-20-2023,CityStore,cancelled,651.61
-Julia Meijer,22/04/2024,SouthStore,cancelled,47.51
-Mason Vos,2023-11-12,PlazaStore,COMPLETED,466.10
-Lucas de Vries,11/03/2024,EastStore,shipped,581.33
-Lucas van Dijk,6 February 2024,SouthStore,COMPLETED,732.04
-Emma Visser,2023-05-26,MainStore,COMPLETED,428.28
-Lucas Jansen,08/09/2023,MarketStore,shipped,567.18
-Levi Mulder,16 April 2024,EastStore,pending,705.16
-Olivia Smit,25 May 2024,EastStore,Shipped,268.94
-Noah de Groot,09-01-2022,NorthStore,Pending,190.91
-Sem van den Berg,23/05/2022,EastStore,Shipped,435.67
-Mason de Groot,11 April 2024,NorthStore,shipped,336.20
-Finn Meijer,2024-12-19,NorthStore,completed,664.92
-Lisa Visser,07/07/2024,,shipped,208.25
-Daan van Dijk,10-15-2024,CenterStore,shipped,128.33
-Emma Vos,3 June 2024,HarborStore,pending,650.79
-Charlotte Peeters,15 December 2023,HarborStore,Cancelled,775.56
-Lucas Vos,12-08-2024,HarborStore,Completed,275.70
-Mia Bos,12-28-2022,HarborStore,cancelled,667.09
-Aiden Visser,19 July 2023,HarborStore,pending,115.75
-Aiden Mulder,2024-11-18,HarborStore,SHIPPED,735.32
-Ava Bakker,2023-06-17,PlazaStore,completed,612.90
-Lucas van Dijk,2023-12-21,MainStore,Completed,591.62
-Charlotte Smit,28/05/2023,HarborStore,shipped,358.34
-Mia Jansen,10 January 2024,CenterStore,Completed,614.97
-Lisa de Boer,2023-04-18,HarborStore,Shipped,131.68
-Mia Smit,25/05/2024,NorthStore,Pending,660.34
-Lisa de Boer,2023-02-06,MainStore,COMPLETED,54.51
-Evelyn van Leeuwen,06-12-2024,EastStore,cancelled,215.83
-Benjamin van den Berg,2023-09-08,NorthStore,Cancelled,189.09
-Olivia Vos,15 January 2022,MarketStore,pending,381.50
-Charlotte de Vries,18/07/2022,CityStore,cancelled,330.22
-Finn Brouwer,4 April 2023,HarborStore,Completed,308.80
-Isabella Bakker,07/11/2022,PlazaStore,Completed,126.17
-Sara Vos,2024-10-28,CenterStore,completed,59.85
-Sem Peters,26/12/2024,,Pending,796.30
-Mia van den Berg,2022-11-27,WestStore,pending,491.75
-Olivia de Vries,2022-11-28,,Shipped,786.95
-Charlotte Vos,5 May 2024,,Cancelled,728.00
-Aiden Hendriks,2 July 2024,EastStore,cancelled,755.64
-Bram van Leeuwen,02-21-2022,HarborStore,SHIPPED,370.95
-Laura de Boer,2022-05-19,CityStore,cancelled,459.16
-Finn Dekker,16 February 2022,WestStore,Shipped,490.62
-Daan Dekker,03-02-2024,HarborStore,Pending,754.50
-Isabella Peeters,15 August 2022,CenterStore,Cancelled,768.08
-Nora Brouwer,03-12-2024,MarketStore,pending,151.23
-Ava de Groot,19/05/2022,EastStore,COMPLETED,334.99
-Sara de Vries,12/10/2023,MainStore,Cancelled,788.16
-Noah Jansen,23 July 2023,MarketStore,COMPLETED,348.21
-Julia Dijkstra,10 September 2023,,shipped,7.18
-Noah Jansen,2022-10-17,EastStore,Pending,68.70
-Lucas Peeters,2023-12-20,CenterStore,cancelled,201.99
-Sara Vos,03/01/2023,WestStore,completed,485.38
-Mia Dekker,2023-10-06,CenterStore,Shipped,434.43
-Mason Peeters,12-18-2022,SouthStore,COMPLETED,479.11
-James de Boer,20 November 2022,MainStore,Completed,283.57
-Ethan Smit,04-20-2023,NorthStore,pending,488.43
-James de Groot,27/06/2022,,Cancelled,659.50
-Liam Vos,06-09-2024,PlazaStore,cancelled,19.18
-Olivia Meijer,2023-03-01,HarborStore,Shipped,33.50
-Charlotte Hendriks,12-17-2024,PlazaStore,Shipped,238.36
-Evelyn van den Berg,20 July 2024,EastStore,cancelled,247.09
-Finn Jansen,11-15-2023,MainStore,completed,489.84
-Lucas Vos,07-27-2022,CenterStore,Shipped,593.11
-Aiden Peters,2023-12-03,SouthStore,pending,507.01
-Liam Meijer,01/06/2024,CityStore,Cancelled,612.81
-Julia van Dijk,06/06/2023,CityStore,Pending,29.23
-Sem van Leeuwen,14/04/2023,CenterStore,Cancelled,604.22
-Ava Peters,16 November 2024,EastStore,Pending,211.79
-Aiden Smit,4 May 2023,PlazaStore,Pending,556.23
-Benjamin van den Berg,7 February 2023,HarborStore,Completed,137.99
-Charlotte Hendriks,2024-01-22,EastStore,COMPLETED,250.86
-Nora de Boer,11-19-2024,NorthStore,Completed,685.07
-Ava Dekker,2024-04-16,HarborStore,SHIPPED,317.69
-Benjamin Brouwer,10-15-2024,MarketStore,SHIPPED,507.50
-Benjamin de Groot,11-02-2022,PlazaStore,Pending,504.34
-Nora de Boer,10-06-2023,SouthStore,pending,412.37
-Bram Peeters,19/10/2024,CenterStore,Pending,590.37
-Evelyn Dijkstra,13 September 2024,WestStore,Cancelled,19.10
-Finn van den Berg,05/06/2022,WestStore,Completed,180.60
-Charlotte Visser,03-08-2023,SouthStore,COMPLETED,307.53
-Lucas de Vries,10 January 2022,MainStore,Pending,585.35
-Liam Vos,22/09/2023,CityStore,pending,491.39
-Lisa van Dijk,07-10-2024,PlazaStore,Shipped,266.67
-Lucas van Dijk,2024-05-25,,cancelled,291.78
-Bram Mulder,21/11/2022,WestStore,cancelled,748.13
-Oliver van Leeuwen,08-19-2022,HarborStore,completed,620.47
-Mia de Boer,02-01-2024,MainStore,pending,601.28
-Benjamin van Dijk,2 May 2022,SouthStore,Cancelled,379.06
-Lucas Meijer,12-06-2023,CenterStore,cancelled,668.54
-Nora de Groot,18 August 2024,EastStore,pending,382.23
-Oliver de Boer,03/11/2023,,SHIPPED,197.96
-Nora Bos,2022-12-15,MainStore,SHIPPED,618.19
-Mia Jansen,2024-10-02,HarborStore,cancelled,546.14
-Levi de Groot,15/01/2024,,pending,449.68
-Noah Brouwer,8 May 2022,HarborStore,COMPLETED,518.62
-Daan van Leeuwen,7 July 2022,,Completed,475.40
-Olivia Smit,2022-07-22,HarborStore,cancelled,435.84
-Amelia Vos,21 February 2024,SouthStore,shipped,421.72
-Lucas Bakker,23 June 2024,SouthStore,Cancelled,47.32
-Sem Peters,04-09-2023,WestStore,Cancelled,92.70
-Oliver Vos,15/01/2022,MainStore,Completed,152.77
-Bram Vos,2023-10-19,NorthStore,shipped,122.33
-Emma van Leeuwen,06/02/2024,SouthStore,COMPLETED,702.86
-Sara Bos,05-17-2023,PlazaStore,shipped,154.28
-Bram Dekker,13/05/2023,SouthStore,Shipped,359.54
-Ava de Groot,17 May 2023,,Completed,553.32
-Olivia Visser,13/07/2024,MainStore,SHIPPED,659.09
-Lucas Dekker,2023-08-12,PlazaStore,Completed,271.43
-Mia Visser,09-15-2024,SouthStore,cancelled,167.53
-Lucas Dijkstra,27/01/2022,MarketStore,COMPLETED,512.21
-Aiden de Vries,19 November 2022,EastStore,Pending,536.67
-Tim Bos,07-14-2023,EastStore,Cancelled,340.65
-Lucas Bakker,06-24-2024,HarborStore,shipped,695.57
-Finn de Boer,10 March 2024,HarborStore,completed,207.39
-Daan Dekker,10-08-2023,HarborStore,Pending,222.30
-Olivia de Vries,10-17-2024,SouthStore,cancelled,349.82
-Liam Meijer,12/04/2024,PlazaStore,Shipped,678.67
-Bram Peters,11-11-2023,EastStore,Shipped,499.52
-Benjamin van den Berg,04-18-2022,CityStore,SHIPPED,592.24
-Ethan de Vries,03-19-2024,EastStore,Completed,54.54
-Tim van Leeuwen,2022-03-27,EastStore,COMPLETED,555.09
-Emma Dijkstra,08-11-2024,HarborStore,COMPLETED,121.39
-Tim van Leeuwen,2024-12-25,,cancelled,407.44
-Oliver Mulder,7 April 2023,MarketStore,SHIPPED,536.15
-Ethan Smit,02-02-2023,HarborStore,pending,487.17
-Sophia Smit,20 May 2024,MarketStore,Shipped,151.72
-Aiden Meijer,2022-10-14,CenterStore,Pending,57.64
-Daan van den Berg,06-25-2024,MarketStore,completed,373.66
-Laura Dijkstra,2024-01-18,EastStore,cancelled,630.56
-Emma Visser,04-18-2022,PlazaStore,COMPLETED,651.54
-Olivia Peeters,21/09/2023,CityStore,Completed,460.27
-Harper van Leeuwen,14 January 2024,PlazaStore,completed,676.81
-Liam Peeters,01-12-2022,SouthStore,pending,559.04
-Julia Hendriks,10 February 2024,SouthStore,pending,94.50
-Lucas Bakker,06-27-2023,EastStore,Shipped,481.11
-Oliver Brouwer,22 November 2024,MainStore,Pending,19.06
-Mason van Dijk,15 June 2023,CityStore,cancelled,502.24
-Olivia Meijer,10 April 2024,CenterStore,cancelled,434.18
-Evelyn Bos,2023-07-21,HarborStore,SHIPPED,581.62
-Isabella Visser,2023-05-16,CenterStore,Cancelled,539.25
-Daan Peeters,13 September 2024,PlazaStore,pending,65.22
-Finn Bos,2022-06-22,PlazaStore,COMPLETED,534.10
-Laura de Vries,13 February 2022,SouthStore,Completed,409.94
-Levi Mulder,17/06/2023,WestStore,Cancelled,11.23
-Noah de Vries,11/10/2024,PlazaStore,Pending,768.13
-Isabella Jansen,20/07/2022,CenterStore,Completed,704.50
-Oliver Dijkstra,07-05-2022,EastStore,Cancelled,502.47
-Lisa Visser,18/04/2024,,completed,92.82
-Bram van Leeuwen,5 September 2022,SouthStore,cancelled,77.75
-Finn de Groot,2022-03-21,NorthStore,cancelled,170.89
-Benjamin Bakker,05/09/2022,EastStore,COMPLETED,663.87
-Mia Dekker,06-09-2024,EastStore,Pending,537.35
-Lisa van Leeuwen,2022-11-13,MarketStore,COMPLETED,584.04
-Oliver Dijkstra,10 August 2023,SouthStore,SHIPPED,164.00
-Laura van Dijk,04/12/2023,MarketStore,cancelled,459.53
-Liam Bos,05-15-2023,HarborStore,cancelled,665.52
-Laura Hendriks,18 June 2024,PlazaStore,SHIPPED,547.18
-Nora Mulder,2022-03-02,CenterStore,shipped,305.87
-Charlotte Peters,16 July 2024,SouthStore,shipped,790.65
-Nora Brouwer,26/12/2022,PlazaStore,Completed,292.96
-Noah Smit,10-26-2024,HarborStore,shipped,195.79
-Isabella Dijkstra,17/10/2023,,completed,95.66
-Tim Visser,2023-07-08,CenterStore,Completed,147.94
-Aiden Visser,2022-01-19,CityStore,SHIPPED,571.30
-Isabella Bakker,10-04-2023,SouthStore,SHIPPED,575.42
-James van Leeuwen,2023-07-26,MarketStore,pending,168.60
-Olivia Vos,2022-07-07,MarketStore,pending,516.99
-Charlotte Hendriks,4 January 2024,,pending,780.07
-Olivia Vos,2023-05-01,PlazaStore,pending,298.56
-Benjamin Peters,2023-01-02,SouthStore,completed,55.06
-Harper van den Berg,07-05-2022,,completed,211.18
-Sem Hendriks,17/12/2024,CenterStore,Completed,47.26
-Mia van Dijk,21 September 2024,,COMPLETED,215.89
-Mason Brouwer,2022-09-23,CenterStore,pending,541.09
-Mia de Vries,02-02-2022,NorthStore,COMPLETED,600.56
-Laura Peeters,13 December 2023,NorthStore,SHIPPED,325.05
-Liam de Groot,2024-06-13,MarketStore,Cancelled,332.50
-Ava van Leeuwen,26 March 2023,WestStore,cancelled,482.61
-Harper van den Berg,02-06-2022,MarketStore,Shipped,597.59
-Lucas Vos,7 March 2023,MainStore,SHIPPED,674.02
-Oliver de Groot,2023-07-23,CityStore,cancelled,364.69
-Sara de Vries,05-07-2022,HarborStore,shipped,592.19
-Daan Hendriks,06-26-2022,CityStore,shipped,778.33
-James Peeters,25 July 2022,WestStore,Completed,43.55
-Nora Bos,08-14-2022,EastStore,Pending,681.31
-Liam de Boer,7 April 2022,PlazaStore,completed,309.91
-Evelyn Jansen,10-10-2022,WestStore,completed,656.43
-Amelia de Vries,12/05/2023,,Cancelled,592.76
-Finn Jansen,20/03/2023,,cancelled,209.61
-Isabella Vos,03-11-2023,SouthStore,COMPLETED,100.05
-Lucas Peters,2022-05-08,SouthStore,COMPLETED,481.83
-Mia van Dijk,2024-08-26,CityStore,Cancelled,787.32
-Levi Peters,13/04/2024,CityStore,SHIPPED,351.04
-Bram Peeters,2023-10-22,SouthStore,COMPLETED,420.43
-Oliver Smit,08/07/2022,PlazaStore,Pending,195.68
-Bram Jansen,11-06-2023,MarketStore,Pending,790.43
-Bram Dekker,2023-12-02,NorthStore,Pending,726.18
-Sara de Vries,2024-02-20,NorthStore,cancelled,647.50
-Ava Dekker,2022-11-10,WestStore,Completed,564.89
-Ethan Mulder,1 October 2024,EastStore,Pending,552.80
-Lucas Peters,2 April 2022,EastStore,Completed,631.83
-Oliver Visser,2024-02-03,SouthStore,Shipped,45.36
-Benjamin Bakker,11 June 2023,HarborStore,pending,739.71
-Aiden Smit,9 May 2024,SouthStore,COMPLETED,15.42
-Harper Meijer,2 May 2023,CityStore,Completed,752.54
-Benjamin van den Berg,05/01/2024,CenterStore,Pending,165.57
-Amelia Bakker,3 July 2024,MarketStore,COMPLETED,645.62
-Sophia Vos,02-25-2022,WestStore,SHIPPED,566.98
-Lucas Mulder,15/07/2022,CenterStore,SHIPPED,303.15
-Harper Bos,6 October 2022,WestStore,Pending,529.38
-Levi Peters,3 December 2023,CenterStore,pending,481.59
-Ava Bakker,17/02/2022,SouthStore,Shipped,545.05
-Bram Jansen,11-10-2022,CenterStore,completed,601.43
-Bram van Leeuwen,14 November 2022,CenterStore,SHIPPED,85.80
-Daan Dekker,27 August 2024,CenterStore,Completed,15.78
-Evelyn van Dijk,2024-02-01,WestStore,COMPLETED,209.85
-Levi Meijer,25/11/2024,PlazaStore,cancelled,476.05
-Oliver Mulder,20 January 2022,HarborStore,Cancelled,572.86
-Olivia Mulder,15/02/2022,EastStore,SHIPPED,197.98
-Benjamin van den Berg,2022-09-23,WestStore,COMPLETED,705.06
-James de Groot,09-04-2023,WestStore,Shipped,298.98
-Evelyn van Leeuwen,2022-09-18,NorthStore,Cancelled,362.23
-Lucas Visser,2024-11-20,PlazaStore,Cancelled,202.21
-Julia Meijer,06-11-2024,EastStore,Completed,377.05
-Lisa van Leeuwen,09-06-2023,MarketStore,Shipped,426.34
-Laura Meijer,01-10-2022,,COMPLETED,326.81
-Ethan Visser,12-25-2023,CityStore,completed,69.50
-Finn Dekker,06-28-2022,PlazaStore,completed,530.16
-Tim Visser,12-28-2023,WestStore,Completed,55.57
-Benjamin de Groot,2022-07-16,SouthStore,completed,540.09
-Aiden Visser,2023-07-10,CenterStore,cancelled,419.16
-Mia Peeters,2024-02-09,MarketStore,Completed,636.91
-Laura de Vries,22/01/2023,WestStore,Shipped,687.91
-Finn Mulder,2024-06-11,HarborStore,Pending,183.57
-Bram Peeters,10 August 2024,CityStore,pending,154.06
-Evelyn Peters,03-07-2022,WestStore,COMPLETED,10.06
-Benjamin Bakker,25 October 2022,EastStore,pending,127.95
-Liam van den Berg,16 April 2024,MainStore,completed,656.81
-Ethan Mulder,07-02-2023,MarketStore,Shipped,367.56
-Aiden Hendriks,06-13-2024,CityStore,pending,160.27
-Amelia Vos,2022-04-07,HarborStore,Completed,317.48
-Laura Dekker,2023-04-20,HarborStore,completed,504.79
-Liam van Dijk,19 October 2024,PlazaStore,Completed,740.31
-Liam de Boer,04-25-2023,WestStore,Cancelled,134.49
-Nora de Boer,3 January 2024,HarborStore,SHIPPED,416.79
-Sem Bakker,20 October 2022,MainStore,shipped,20.24
-Sophia de Groot,2022-11-27,MainStore,completed,213.16
-Mason Dekker,08-05-2024,MarketStore,Pending,249.70
-Mia Smit,03-22-2023,MainStore,Shipped,112.99
-Mason van Leeuwen,08-08-2022,MainStore,SHIPPED,501.38
-Benjamin Bos,2024-02-14,PlazaStore,Pending,551.31
-Benjamin Dijkstra,07-26-2022,MarketStore,completed,282.84
-Noah Bos,2024-03-18,EastStore,Shipped,563.55
-Sem Vos,10-20-2023,PlazaStore,Cancelled,327.51
-Isabella Peeters,19 August 2023,NorthStore,Pending,414.60
-Emma Jansen,2024-01-18,MarketStore,Cancelled,518.33
-Emma Mulder,06-05-2023,SouthStore,Pending,754.33
-Harper Mulder,05/12/2023,,shipped,563.32
-Nora Dekker,2022-05-12,SouthStore,Cancelled,569.06
-Nora de Boer,03-07-2023,,cancelled,92.30
-Olivia de Groot,24/01/2023,CityStore,COMPLETED,66.81
-Daan Bakker,10/12/2024,,Shipped,337.36
-Lisa Visser,13 September 2024,EastStore,completed,304.86
-Noah Hendriks,20/04/2022,NorthStore,completed,286.76
-Daan van Leeuwen,08-06-2024,SouthStore,COMPLETED,693.59
-Ethan Mulder,04/09/2024,WestStore,Cancelled,723.13
-Evelyn van den Berg,2022-01-15,SouthStore,cancelled,467.67
-Lucas Bakker,2022-10-06,MainStore,Shipped,755.20
-Ethan Smit,2024-01-19,HarborStore,COMPLETED,332.37
-Olivia Smit,5 June 2023,,COMPLETED,386.22
-Lucas van Dijk,06-25-2022,SouthStore,SHIPPED,546.61
-James Dijkstra,26/12/2023,CityStore,Cancelled,193.71
-Amelia Bakker,2024-11-01,SouthStore,Cancelled,542.48
-Mia van Dijk,2022-03-14,MainStore,shipped,76.55
-Lucas Bakker,22 September 2024,CityStore,COMPLETED,137.18
-Daan Dekker,6 December 2024,MainStore,pending,616.00
-Lisa Visser,2022-03-12,WestStore,completed,779.52
-Daan Bakker,08-17-2024,CenterStore,shipped,732.00
-Finn de Boer,2024-05-21,EastStore,pending,135.86
-Lucas de Vries,28 August 2023,WestStore,SHIPPED,243.89
-Evelyn Jansen,21/06/2024,PlazaStore,SHIPPED,795.47
-Lisa Jansen,18/12/2022,HarborStore,shipped,103.51
-Julia Dekker,12-23-2023,CityStore,Shipped,394.36
-Amelia Bakker,09/11/2023,MainStore,Pending,787.69
-Olivia Visser,14/03/2024,CenterStore,Shipped,66.94
-Mason van Dijk,17 December 2024,EastStore,Pending,781.73
-Lisa Dekker,23 May 2023,CenterStore,Cancelled,69.00
-Daan van Leeuwen,1 May 2024,PlazaStore,cancelled,679.52
-Daan van Leeuwen,2023-05-28,WestStore,cancelled,795.05
-Mia Visser,23 December 2023,MarketStore,cancelled,463.77
-Bram Brouwer,4 September 2022,EastStore,cancelled,485.67
-Oliver Dekker,2023-06-09,EastStore,COMPLETED,164.38
-Charlotte Vos,10-19-2023,WestStore,completed,656.66
-Mason Mulder,14 November 2024,PlazaStore,cancelled,588.46
-Evelyn van den Berg,03/06/2024,NorthStore,shipped,488.39
-Julia van Dijk,2023-05-28,HarborStore,cancelled,332.47
-Laura Meijer,14/07/2022,NorthStore,completed,318.58
-Tim de Groot,12/06/2024,CityStore,SHIPPED,456.54
-Isabella Meijer,2024-08-23,PlazaStore,Completed,305.70
-Emma Mulder,25/09/2024,WestStore,SHIPPED,757.86
-Sem Peters,15/01/2022,NorthStore,Shipped,576.50
-Sara Smit,24 October 2024,HarborStore,pending,287.98
-James de Vries,15 September 2024,,shipped,90.19
-Oliver van den Berg,04/07/2022,MainStore,Completed,669.80
-Ava Vos,01-02-2023,EastStore,Completed,98.90
-Emma Bos,10-19-2023,,shipped,308.99
-Lucas van Dijk,23/09/2022,HarborStore,SHIPPED,264.17
-Oliver van Leeuwen,2024-07-17,PlazaStore,shipped,176.92
-Aiden Brouwer,06-12-2024,WestStore,shipped,453.86
-Levi Peters,2022-07-18,PlazaStore,Completed,573.56
-Emma Jansen,04-09-2023,WestStore,Cancelled,673.18
-Ava Vos,28/12/2024,MainStore,Completed,351.65
-Mia Bos,21 December 2024,CenterStore,completed,560.10
-Levi de Groot,13/02/2023,HarborStore,cancelled,786.57
-Julia Bos,08-27-2022,PlazaStore,SHIPPED,434.84
-Levi Meijer,03-19-2024,,SHIPPED,730.59
-Noah Jansen,09/03/2023,SouthStore,Pending,507.25
-Mason van Leeuwen,09-09-2022,NorthStore,COMPLETED,181.64
-Amelia de Groot,09-03-2024,CityStore,completed,59.35
-Lucas Bos,27/10/2024,CityStore,pending,349.39
-Levi Jansen,02-24-2022,MarketStore,shipped,709.92
-Mia Visser,24 July 2024,WestStore,Pending,467.11
-Amelia Dekker,05-03-2023,NorthStore,COMPLETED,137.72
-Ava Vos,04-13-2024,MarketStore,COMPLETED,106.88
-Bram Peeters,5 June 2023,MainStore,pending,693.79
-Sem Brouwer,2023-09-21,WestStore,Shipped,383.60
-Benjamin de Boer,05-19-2022,CityStore,SHIPPED,200.32
-Lucas Vos,23 May 2022,CenterStore,COMPLETED,376.53
-Mason Mulder,2 October 2022,HarborStore,SHIPPED,531.75
-Finn Brouwer,12-05-2024,PlazaStore,completed,393.18
-Isabella de Groot,25 July 2023,MainStore,Shipped,633.31
-Bram Peeters,2022-01-21,MainStore,completed,363.51
-Sara Visser,2024-09-15,CenterStore,COMPLETED,342.13
-Benjamin Jansen,12 January 2022,MarketStore,cancelled,227.42
-Ethan Dekker,19/01/2024,EastStore,completed,82.09
-Olivia Peeters,2024-06-10,MainStore,COMPLETED,36.34
-Aiden Peters,11-16-2023,EastStore,cancelled,407.91
-Sara Jansen,11 November 2024,WestStore,cancelled,366.13
-Lucas de Vries,11-26-2024,MainStore,cancelled,238.99
-Aiden Hendriks,03-13-2024,PlazaStore,pending,419.22
-Sophia Peters,25 May 2023,MainStore,completed,707.12
-Ethan Smit,06/02/2022,,shipped,772.61
-Ethan Visser,20/08/2024,HarborStore,Pending,787.29
-Mason Vos,2024-11-06,SouthStore,cancelled,789.64
-Julia Dijkstra,1 February 2023,SouthStore,Cancelled,785.46
-Isabella Peeters,2022-06-24,MainStore,shipped,458.83
-Tim de Groot,08-27-2022,PlazaStore,Completed,394.25
-Ethan Mulder,11-04-2024,SouthStore,Completed,78.29
-Laura de Vries,10/12/2022,WestStore,Cancelled,94.76
-Finn de Groot,24/04/2022,PlazaStore,COMPLETED,634.56
-Olivia van Leeuwen,22/11/2022,CenterStore,pending,169.04
-Finn van Dijk,12-26-2023,PlazaStore,completed,59.73
-Benjamin van Leeuwen,02-01-2022,NorthStore,pending,671.88
-Benjamin van den Berg,11 August 2023,MainStore,Shipped,557.43
-Benjamin Bakker,22 April 2022,WestStore,shipped,449.67
-Liam Dekker,03-16-2022,SouthStore,shipped,123.58
-Mason van Leeuwen,11-16-2024,CityStore,completed,17.02
-Bram van Leeuwen,2023-03-09,SouthStore,shipped,766.19
-Lisa Dekker,08/11/2024,EastStore,Cancelled,504.59
-Sophia Bakker,11 December 2022,NorthStore,shipped,513.86
-Sara de Vries,2022-10-06,WestStore,COMPLETED,640.40
-Liam Dekker,24 July 2022,PlazaStore,completed,282.57
-Evelyn van den Berg,09-24-2023,SouthStore,SHIPPED,65.20
-Nora Dekker,10/12/2022,MainStore,Completed,520.55
-Ethan Peters,06-19-2024,,Completed,658.59
-Liam Bos,2024-08-06,CityStore,cancelled,261.76
-Oliver Smit,2024-12-13,HarborStore,Completed,371.93
-Finn Dijkstra,20/03/2022,EastStore,COMPLETED,443.18
-Daan van Leeuwen,6 December 2023,EastStore,shipped,759.01
-Julia van Leeuwen,17/04/2023,CenterStore,shipped,76.32
-Charlotte Hendriks,07-26-2024,MainStore,Cancelled,327.62
-Emma Peeters,2023-04-09,WestStore,shipped,544.99
-Ava van Leeuwen,2022-04-17,SouthStore,cancelled,397.16
-Lucas Bos,2023-08-19,MainStore,SHIPPED,637.03
-Evelyn Dekker,2 June 2022,CityStore,shipped,469.11
-Liam Smit,21/09/2024,PlazaStore,COMPLETED,277.83
-Oliver van Leeuwen,12/04/2024,SouthStore,Cancelled,197.83
-Aiden Hendriks,2023-08-18,MarketStore,Cancelled,116.27
-Lisa Mulder,04-15-2022,PlazaStore,Shipped,334.96
-Lucas Dijkstra,25 December 2023,SouthStore,pending,514.54
-Finn van Dijk,26 July 2022,CenterStore,shipped,201.28
-Laura de Vries,2023-08-21,MainStore,SHIPPED,502.38
-Emma van den Berg,3 March 2023,HarborStore,Pending,798.91
-Lucas Peeters,2022-12-02,CityStore,shipped,547.87
-Sem Bos,02-04-2024,HarborStore,completed,437.60
-Charlotte de Groot,2023-01-24,HarborStore,pending,557.88
-Levi Dijkstra,18 November 2023,MarketStore,Completed,88.84
-James van Leeuwen,08/09/2024,,cancelled,72.18
-Charlotte de Vries,4 October 2024,CityStore,Completed,679.76
-Isabella Jansen,2023-07-19,PlazaStore,Shipped,5.58
-Aiden de Vries,02-22-2024,EastStore,shipped,707.43
-Noah Vos,2022-02-05,CityStore,completed,397.49
-Ethan Dekker,2022-09-11,MarketStore,completed,359.72
-Ethan Smit,12-14-2024,EastStore,COMPLETED,556.23
-Julia Vos,7 January 2023,HarborStore,pending,91.56
-Levi de Vries,07-09-2024,EastStore,Pending,373.33
-Charlotte Smit,04-20-2024,SouthStore,shipped,111.05
-Laura van Dijk,02-26-2023,CityStore,Completed,523.25
-Ethan de Vries,7 April 2024,WestStore,shipped,715.99
-Levi Meijer,03-20-2022,NorthStore,Pending,174.72
-Laura Jansen,2023-06-18,CenterStore,Completed,778.95
-Finn Bos,03-20-2024,MarketStore,pending,629.95
-Tim van Leeuwen,09/09/2024,SouthStore,SHIPPED,175.79
-Liam Vos,01/01/2023,CenterStore,Completed,506.53
-Julia Dijkstra,02/01/2023,SouthStore,cancelled,100.64
-Benjamin van den Berg,11-13-2023,MainStore,shipped,789.62
-Laura Peeters,2024-04-16,WestStore,Cancelled,428.24
-Laura de Vries,2022-11-27,MainStore,completed,532.92
-Sem Hendriks,12-16-2024,PlazaStore,completed,101.11
-Ava de Boer,20 January 2023,MarketStore,Completed,172.07
-Isabella Jansen,2023-02-21,CityStore,Completed,141.88
-Bram Vos,04-05-2023,EastStore,Cancelled,393.65
-Charlotte van Leeuwen,10-01-2024,HarborStore,SHIPPED,80.90
-Harper Jansen,16/05/2023,SouthStore,shipped,129.54
-Noah de Vries,09/08/2024,,Pending,293.24
-Liam Dekker,05-13-2024,SouthStore,Pending,115.05
-Laura van Dijk,19 July 2022,MainStore,Pending,517.77
-Emma Visser,26 March 2023,WestStore,Completed,248.79
-Noah de Groot,2023-02-17,CenterStore,COMPLETED,491.20
-Emma Jansen,15 January 2023,HarborStore,pending,668.10
-Sem Dekker,12-15-2024,MainStore,Cancelled,263.81
-Noah Brouwer,14/09/2024,WestStore,shipped,693.44
-Nora Visser,8 March 2023,CenterStore,Pending,153.01
-Benjamin Hendriks,23 July 2023,MainStore,Completed,507.46
-Aiden Hendriks,28/04/2022,WestStore,Shipped,395.77
-Nora Bos,08-03-2024,WestStore,shipped,645.09
-Isabella Jansen,27 June 2023,EastStore,SHIPPED,67.37
-Benjamin Bakker,11-23-2024,CityStore,COMPLETED,666.17
-Laura Hendriks,13/09/2023,HarborStore,Pending,553.85
-Emma van Leeuwen,20/04/2023,NorthStore,Completed,258.56
-Charlotte Dekker,2024-01-21,PlazaStore,COMPLETED,388.40
-Ava Peeters,2024-07-11,NorthStore,Cancelled,737.35
-Benjamin Dekker,2024-06-14,HarborStore,Completed,176.29
-Lisa Dekker,7 May 2024,EastStore,completed,622.24
-Sem de Boer,05/07/2023,WestStore,Shipped,437.00
-Tim de Vries,26 February 2023,CenterStore,SHIPPED,298.18
-Aiden de Boer,08-02-2022,CenterStore,Completed,401.57
-Lisa van den Berg,18 April 2024,EastStore,cancelled,154.66
-Lisa de Boer,2024-08-07,CityStore,Cancelled,256.02
-Laura Dijkstra,2022-05-24,MainStore,COMPLETED,180.85
-Evelyn Peters,22/03/2024,SouthStore,Pending,675.41
-Noah Jansen,11 March 2023,CityStore,completed,6.10
-Aiden Jansen,27/03/2022,NorthStore,cancelled,70.58
-Emma de Groot,2022-09-14,WestStore,Pending,308.35
-Evelyn Jansen,2024-09-22,NorthStore,Completed,238.34
-Aiden van den Berg,14 March 2024,SouthStore,cancelled,379.25
-Amelia van den Berg,03-10-2023,PlazaStore,SHIPPED,648.98
-Oliver van Dijk,23/10/2023,NorthStore,completed,748.11
-Julia de Vries,2022-12-15,CityStore,Shipped,711.55
-Finn van den Berg,2024-06-01,MarketStore,shipped,298.97
-Mia Jansen,01-03-2022,SouthStore,pending,103.66
-Liam Dekker,4 May 2022,WestStore,Pending,321.24
-Sem Peters,28/09/2022,CityStore,shipped,286.03
-Amelia de Groot,03-09-2024,,completed,328.87
-Charlotte Visser,1 May 2023,SouthStore,Shipped,367.06
-Sara Meijer,9 April 2022,CenterStore,pending,407.45
-Evelyn Peters,2023-02-08,,Pending,656.58
-Nora de Groot,15/09/2024,PlazaStore,SHIPPED,544.60
-Lucas Peters,20/01/2023,,completed,702.57
-Sara Jansen,11-08-2022,,Shipped,590.81
-Tim van Leeuwen,2024-05-26,CenterStore,cancelled,407.82
-Harper de Vries,2023-09-01,,cancelled,618.48
-Emma Jansen,2022-05-26,PlazaStore,shipped,393.81
-Mason van Dijk,07-26-2024,CityStore,Shipped,243.70
-Charlotte van Leeuwen,13 May 2023,CenterStore,cancelled,156.84
-Evelyn van Leeuwen,12/01/2023,EastStore,Cancelled,565.02
-Mason van Dijk,24/01/2023,SouthStore,Cancelled,626.27
-Mason van Dijk,2 November 2023,WestStore,pending,246.14
-James Dekker,2022-11-17,PlazaStore,Shipped,98.41
-Amelia Dekker,26/02/2024,,cancelled,129.10
-Finn Dijkstra,16 February 2024,HarborStore,SHIPPED,596.58
-Harper van Leeuwen,2024-12-20,PlazaStore,Cancelled,173.27
-Daan Dekker,05-19-2023,WestStore,cancelled,193.16
-Evelyn Mulder,12-18-2024,,COMPLETED,395.42
-Ethan de Vries,06-08-2023,MarketStore,Shipped,705.42
-Sara de Vries,17 May 2022,MainStore,SHIPPED,605.64
-Charlotte Peters,28 July 2023,NorthStore,Shipped,603.55
-Mason Dekker,2022-01-26,HarborStore,pending,463.30
-Harper Mulder,06-02-2022,,SHIPPED,127.30
-Mia Smit,27 April 2024,SouthStore,shipped,33.34
-James Peeters,11/09/2023,,shipped,105.08
-Lisa Mulder,07-24-2022,PlazaStore,shipped,180.85
-Tim Bos,05-24-2024,NorthStore,Cancelled,627.18
-Amelia de Vries,04/11/2022,CenterStore,Pending,352.61
-Benjamin van Dijk,3 June 2022,CityStore,pending,251.95
-Emma Dekker,07/06/2023,WestStore,Pending,509.01
-Bram Dekker,11-14-2023,CenterStore,pending,683.44
-Laura Peeters,2022-03-02,MarketStore,Completed,148.75
-Harper Mulder,13/08/2022,WestStore,Shipped,234.44
-Finn Mulder,2023-11-22,CenterStore,cancelled,83.46
-Liam Mulder,19/05/2022,CenterStore,SHIPPED,781.08
-Isabella Vos,10 April 2024,HarborStore,Completed,552.74
-Lucas Brouwer,16/03/2023,SouthStore,pending,179.83
-Finn de Boer,2022-12-06,SouthStore,Pending,780.44
-Oliver van Leeuwen,2024-05-06,PlazaStore,shipped,231.96
-Noah Brouwer,26/09/2024,PlazaStore,completed,756.60
-Olivia de Vries,08-05-2023,SouthStore,Pending,98.44
-Lucas van Dijk,10 September 2023,CenterStore,SHIPPED,632.43
-Ava van Leeuwen,2022-04-05,WestStore,Completed,11.06
-Emma Dijkstra,7 July 2023,HarborStore,Completed,374.88
-Evelyn van den Berg,11 June 2023,WestStore,Cancelled,200.68
-Liam Dekker,7 November 2023,WestStore,Pending,188.68
-Harper van Leeuwen,10-03-2024,HarborStore,COMPLETED,24.25
-Lucas Smit,04/04/2022,HarborStore,Pending,334.97
-Julia van den Berg,05-28-2024,WestStore,COMPLETED,181.36
-Finn de Groot,21 January 2024,NorthStore,Completed,189.34
-Bram van Leeuwen,11/07/2022,WestStore,pending,204.11
-Benjamin van den Berg,17/12/2022,WestStore,completed,477.33
-Finn Mulder,2023-07-18,SouthStore,shipped,268.97
-Sophia Jansen,09/01/2022,CenterStore,Completed,138.00
-Benjamin Hendriks,2024-06-21,WestStore,COMPLETED,548.47
-Noah Jansen,24 July 2024,,pending,563.06
-Sophia Dijkstra,16/11/2022,CityStore,shipped,292.65
-Tim van Dijk,08-14-2023,SouthStore,completed,217.29
-Harper Smit,23/07/2022,CenterStore,completed,608.93
-Julia Dijkstra,20 November 2024,EastStore,Cancelled,703.83
-Aiden de Boer,10 June 2024,HarborStore,SHIPPED,178.80
-Sem van Leeuwen,16/10/2023,HarborStore,Completed,232.07
-Levi de Vries,22 February 2024,HarborStore,pending,237.76
-Ava de Groot,06-20-2024,CityStore,completed,202.15
-Noah de Groot,24/05/2023,WestStore,pending,239.15
-Harper Mulder,2023-04-24,NorthStore,shipped,617.43
-Bram van Leeuwen,12/01/2023,CenterStore,cancelled,514.79
-Ethan Hendriks,26 June 2023,MainStore,pending,122.27
-Isabella Dekker,25/03/2023,CenterStore,completed,17.04
-Liam Bakker,12 August 2023,PlazaStore,cancelled,164.58
-Laura de Vries,2022-04-17,MainStore,Completed,271.01
-Aiden Jansen,2024-09-15,MarketStore,SHIPPED,649.21
-Mia Bos,2022-05-19,CenterStore,Pending,517.56
-Lucas Meijer,05-11-2022,HarborStore,pending,364.29
-Liam Meijer,25/01/2023,WestStore,SHIPPED,464.35
-Mia van den Berg,12/04/2022,EastStore,COMPLETED,530.09
-Levi Peters,2022-06-03,,shipped,762.87
-Nora Brouwer,2023-02-23,PlazaStore,shipped,240.60
-Sophia Peeters,2022-03-23,EastStore,COMPLETED,276.77
-Ava Bakker,23/06/2023,NorthStore,shipped,174.07
-Ava Brouwer,23 May 2023,HarborStore,Pending,619.93
-Levi de Vries,2023-02-21,,Cancelled,554.64
-Amelia de Vries,2022-04-07,WestStore,cancelled,306.20
-Aiden Jansen,05-17-2023,MainStore,cancelled,204.51
-Julia Dekker,11-13-2024,SouthStore,cancelled,691.50
-Isabella Meijer,07-04-2024,SouthStore,Completed,136.24
-Nora de Groot,24/01/2023,EastStore,Cancelled,594.00
-Bram Peters,2024-02-22,WestStore,Pending,750.54
-James Peeters,2023-09-17,MainStore,Completed,707.70
-Bram van Leeuwen,11/04/2023,PlazaStore,pending,652.46
-Laura Meijer,28 September 2023,HarborStore,COMPLETED,399.59
-Amelia Vos,08-11-2023,WestStore,Cancelled,612.14
-James Dekker,03-13-2023,PlazaStore,pending,69.61
-Levi de Groot,19 March 2022,SouthStore,pending,429.08
-Tim Peters,06-21-2023,,Pending,497.24
-Isabella de Groot,17/09/2023,SouthStore,SHIPPED,46.63
-Lucas van Dijk,18 February 2024,CityStore,Completed,593.26
-Mason Hendriks,02-14-2023,,shipped,654.43
-Lucas van Dijk,04-27-2024,CityStore,completed,209.53
-Isabella Peeters,6 July 2023,WestStore,COMPLETED,541.11
-Julia Dekker,15 September 2022,EastStore,cancelled,115.16
-Charlotte van Leeuwen,13/02/2024,CenterStore,completed,501.99
-Sara de Vries,4 April 2024,MarketStore,Cancelled,646.77
-Tim Visser,28 November 2023,PlazaStore,COMPLETED,502.54
-Olivia de Vries,2024-10-04,MainStore,COMPLETED,622.77
-Sara Jansen,04-14-2022,MainStore,SHIPPED,373.45
-Ethan Visser,12/10/2024,SouthStore,SHIPPED,571.20
-Noah Peeters,07-26-2022,WestStore,Cancelled,151.96
-Lisa Visser,03/07/2022,WestStore,completed,756.70
-Levi de Vries,2024-07-20,,pending,581.66
-Finn de Groot,2024-09-04,CenterStore,shipped,16.00
-Sophia Bakker,2 December 2024,EastStore,shipped,291.37
-Liam de Boer,06-03-2024,EastStore,Pending,399.32
-Ethan Hendriks,2022-01-28,MarketStore,pending,330.39
-Lisa Dekker,24/08/2024,MainStore,shipped,108.14
-Oliver van Leeuwen,02-07-2024,MainStore,Pending,663.82
-Ethan de Vries,21/06/2022,WestStore,Cancelled,740.80
-Evelyn van Dijk,2023-03-08,WestStore,Completed,292.28
-Laura Meijer,04-10-2024,CenterStore,cancelled,37.74
-Isabella de Vries,09-25-2024,EastStore,cancelled,175.91
-Benjamin Dekker,01/11/2022,CityStore,SHIPPED,536.23
-Sara Jansen,2023-06-03,WestStore,Completed,302.90
-Laura Jansen,07/11/2024,PlazaStore,SHIPPED,12.33
-Ethan Peters,11-03-2024,MarketStore,cancelled,114.55
-Mason Bos,2022-11-21,SouthStore,Cancelled,524.37
-Liam de Boer,02-07-2022,PlazaStore,shipped,53.92
-Harper Jansen,19/05/2023,MarketStore,shipped,654.17
-Daan van Leeuwen,12-02-2022,SouthStore,COMPLETED,563.03
-Noah Bakker,11/04/2023,CityStore,COMPLETED,454.92
-Mia Jansen,01-13-2022,CityStore,shipped,565.36
-Finn Dekker,24/04/2023,EastStore,cancelled,59.26
-Mia de Vries,2022-08-08,CityStore,Completed,583.14
-Julia Meijer,2023-04-23,MarketStore,Pending,342.78
-Charlotte Peeters,26/11/2024,CenterStore,completed,29.56
-Benjamin Dijkstra,2024-06-12,PlazaStore,cancelled,726.07
-Mia van den Berg,13/03/2023,NorthStore,Shipped,24.47
-Harper Mulder,05-23-2024,PlazaStore,pending,242.23
-Laura Hendriks,10 December 2023,,Shipped,188.90
-Lisa Brouwer,07-07-2023,MainStore,COMPLETED,140.27
-Isabella van den Berg,04-18-2022,SouthStore,pending,105.85
-Lucas Bakker,2022-05-12,HarborStore,shipped,385.27
-Lucas Smit,03-21-2023,CityStore,cancelled,151.96
-Benjamin Dijkstra,05-09-2024,MarketStore,completed,294.90
-Sophia Dijkstra,24/10/2022,NorthStore,Completed,130.90
-Amelia Vos,27 October 2024,SouthStore,COMPLETED,162.90
-Tim van Leeuwen,08-11-2023,HarborStore,SHIPPED,704.92
-Julia Smit,06-04-2024,SouthStore,shipped,756.59
-Benjamin Peeters,28/03/2023,SouthStore,pending,166.53
-Sophia Vos,09-22-2022,,pending,79.23
-Amelia Dekker,01-01-2023,CenterStore,Cancelled,781.45
-Charlotte Dekker,2022-04-09,CenterStore,COMPLETED,728.20
-Charlotte Dekker,07-03-2022,SouthStore,COMPLETED,538.96
-Ava Brouwer,09/07/2024,MainStore,shipped,271.98
-Noah Vos,17 October 2022,CityStore,Pending,771.24
-Emma Bos,03-22-2023,,COMPLETED,386.04
-Benjamin Peters,2022-04-17,EastStore,COMPLETED,397.03
-Tim Visser,2022-01-09,PlazaStore,Completed,18.16
-Tim van Leeuwen,2022-03-27,MainStore,Shipped,553.07
-Charlotte Peeters,2024-02-02,MainStore,completed,398.42
-Ava de Groot,2024-05-26,MarketStore,Completed,538.97
-Finn Brouwer,26 April 2022,CenterStore,completed,62.85
-Tim Visser,2023-01-01,PlazaStore,Pending,638.09
-Nora Dekker,01-27-2023,SouthStore,shipped,54.03
-Benjamin van Dijk,22/06/2024,EastStore,Cancelled,693.98
-Olivia de Vries,27 April 2024,CenterStore,cancelled,201.42
-Sem Hendriks,02/09/2023,WestStore,cancelled,90.56
-Ava Mulder,05-22-2024,MarketStore,cancelled,374.12
-Julia Dijkstra,02-25-2022,CityStore,Pending,634.10
-Charlotte Hendriks,01/08/2022,PlazaStore,shipped,20.17
-Levi Bos,04-12-2022,MainStore,shipped,347.71
-Emma van Leeuwen,02-22-2024,WestStore,completed,71.03
-Julia de Vries,17 January 2022,MainStore,Completed,626.70
-Benjamin van Dijk,2024-01-11,NorthStore,COMPLETED,620.45
-Aiden Jansen,11/04/2022,CityStore,pending,306.68
-Lucas Dekker,08/11/2024,NorthStore,Pending,210.65
-Oliver van Leeuwen,12-19-2024,MainStore,Pending,558.11
-Sara Bakker,06-03-2022,NorthStore,Completed,659.85
-Sara de Groot,08-01-2023,NorthStore,cancelled,333.68
-James de Groot,2023-08-27,CityStore,Shipped,263.89
-Sem Hendriks,05-12-2022,CityStore,completed,489.39
-Oliver Vos,1 February 2023,CenterStore,Completed,309.27
-Lucas Bakker,23/05/2024,EastStore,COMPLETED,431.48
-Lucas Dekker,01-19-2023,MarketStore,SHIPPED,424.26
-Olivia de Groot,01-12-2022,CenterStore,SHIPPED,582.30
-Mia Mulder,16/05/2024,,pending,183.63
-Levi Meijer,06-16-2022,MarketStore,Shipped,612.42
-Lucas Peters,07-12-2024,MarketStore,Shipped,647.98
-Sophia Peters,14/11/2024,,SHIPPED,62.42
-Ava de Groot,05-13-2022,MainStore,pending,324.51
-Mia Bos,2023-02-09,SouthStore,SHIPPED,32.60
-Aiden Brouwer,2024-09-26,WestStore,pending,259.00
-Oliver de Boer,04/12/2022,HarborStore,COMPLETED,794.68
-Charlotte Peters,27/09/2024,MarketStore,Shipped,767.71
-Mia Bos,2023-12-28,MainStore,shipped,292.40
-Amelia Bakker,27/09/2023,EastStore,COMPLETED,273.56
-Levi van Leeuwen,2022-12-17,NorthStore,COMPLETED,387.99
-Charlotte de Boer,4 April 2024,MarketStore,cancelled,509.48
-James Brouwer,13 January 2024,HarborStore,COMPLETED,439.37
-Mia Jansen,19/03/2022,CenterStore,Completed,735.29
-Ethan Jansen,24 April 2023,MainStore,SHIPPED,720.62
-Amelia Mulder,09-08-2022,MainStore,shipped,190.38
-Lucas Peters,24/05/2022,WestStore,Cancelled,681.91
-Bram Dijkstra,10 December 2022,PlazaStore,Completed,188.33
-Tim van Dijk,2023-07-18,MainStore,Shipped,557.59
-Emma Mulder,07/04/2022,EastStore,Cancelled,352.99
-Isabella van den Berg,03-21-2023,NorthStore,Cancelled,134.39
-Sophia Dijkstra,08-27-2024,MainStore,Shipped,511.75
-Aiden Meijer,4 September 2022,MainStore,Completed,92.00
-Lisa Jansen,10-01-2024,CenterStore,SHIPPED,672.40
-Noah Peeters,08/07/2023,MarketStore,Cancelled,388.87
-Bram van Leeuwen,2022-12-13,EastStore,completed,229.59
-Aiden Brouwer,2024-03-07,MarketStore,Shipped,234.30
-Noah Mulder,5 February 2024,CityStore,completed,141.22
-Aiden Visser,05/10/2024,,COMPLETED,512.34
-Oliver Vos,9 May 2023,HarborStore,pending,609.86
-Daan Dekker,23 October 2024,CityStore,shipped,241.25
-Finn Mulder,05/05/2023,SouthStore,Completed,413.69
-Ethan de Groot,25/01/2023,PlazaStore,SHIPPED,743.70
-James Bos,2023-02-09,MainStore,pending,69.49
-Noah Hendriks,28 March 2022,NorthStore,completed,237.05
-Bram Vos,12-08-2022,SouthStore,Cancelled,107.90
-James de Boer,16/01/2023,CenterStore,COMPLETED,273.92
-James de Boer,26/02/2022,HarborStore,completed,317.18
-Sara Meijer,07-18-2023,PlazaStore,cancelled,133.35
-Bram de Vries,14/11/2024,HarborStore,SHIPPED,416.09
-Julia Hendriks,2023-09-10,MainStore,completed,762.85
-Aiden van den Berg,2024-04-13,MainStore,Cancelled,640.75
-Levi Dijkstra,08-15-2023,EastStore,shipped,580.39
-Ava Vos,12/01/2024,PlazaStore,COMPLETED,328.22
-Liam de Groot,11-14-2024,WestStore,Pending,57.61
-Daan Bakker,01-07-2023,MainStore,Completed,285.65
-Harper de Vries,12-12-2023,NorthStore,Cancelled,548.88
-Noah Brouwer,26 January 2022,,Pending,66.58
-Ava Bakker,3 May 2024,PlazaStore,Completed,486.07
-Emma Bos,25/01/2024,PlazaStore,Cancelled,433.65
-Evelyn Jansen,12 October 2022,HarborStore,shipped,780.41
-Noah Bakker,08-27-2022,WestStore,Completed,377.14
-Mia van Leeuwen,3 December 2023,EastStore,completed,59.08
-Amelia Dekker,05-04-2024,SouthStore,COMPLETED,112.69
-Lisa Hendriks,11 December 2024,MainStore,pending,21.46
-Noah Jansen,23/04/2023,NorthStore,pending,320.46
-Laura de Vries,2022-12-06,NorthStore,Completed,747.90
-Lucas van Dijk,15 September 2024,MarketStore,Cancelled,439.28
-Liam Bakker,13 July 2024,EastStore,completed,432.71
-Bram Peeters,2024-10-05,EastStore,Cancelled,195.00
-Sophia Peters,2022-05-23,WestStore,shipped,89.52
-Amelia Smit,06-11-2024,SouthStore,COMPLETED,198.11
-Harper Peters,07-27-2023,PlazaStore,Cancelled,641.43
-Amelia de Boer,10/06/2023,SouthStore,pending,630.25
-Liam Dekker,2022-04-05,WestStore,pending,504.63
-Emma Dekker,08-28-2022,MarketStore,cancelled,620.93
-Tim Meijer,11-12-2022,MainStore,Cancelled,691.17
-Nora Brouwer,01-09-2022,MarketStore,completed,588.40
-James de Vries,05-14-2024,NorthStore,Cancelled,692.19
-Charlotte de Vries,2024-11-22,CityStore,COMPLETED,188.96
-Oliver Smit,2023-11-21,NorthStore,SHIPPED,131.25
-Bram Jansen,10/04/2022,WestStore,Completed,41.06
-Sem Dekker,12-03-2022,MarketStore,Cancelled,550.04
-Mason Mulder,2022-12-05,CityStore,completed,717.41
-Mia Jansen,28/06/2022,PlazaStore,cancelled,138.99
-Aiden Smit,22/08/2022,MarketStore,COMPLETED,105.29
-Mia van den Berg,06-12-2023,,SHIPPED,180.41
-Daan Peeters,23 October 2022,EastStore,COMPLETED,681.65
-Levi Meijer,01-11-2022,MainStore,cancelled,361.71
-Emma Peters,24 March 2022,WestStore,shipped,686.92
-Daan van Leeuwen,25 August 2023,,SHIPPED,343.04
-Levi Mulder,03-02-2024,MarketStore,completed,456.43
-Sem Bakker,10-01-2023,MarketStore,Cancelled,19.07
-Daan Mulder,22 January 2023,SouthStore,COMPLETED,153.75
-Lisa Dekker,08-26-2024,NorthStore,Pending,546.06
-Sem van den Berg,18/02/2022,CenterStore,pending,321.77
-Amelia Bakker,08/09/2022,MarketStore,Cancelled,671.57
-Lucas Peeters,17/01/2022,MainStore,shipped,663.83
-Benjamin Dijkstra,07-04-2024,NorthStore,cancelled,92.05
-Ava Vos,2022-11-03,MarketStore,SHIPPED,265.96
-Liam van den Berg,02/01/2022,CityStore,shipped,523.79
-Noah Visser,11 January 2023,,shipped,693.52
-Sem Brouwer,14 February 2024,CenterStore,Pending,128.27
-Benjamin Brouwer,17/01/2023,SouthStore,Completed,181.83
-Evelyn Peters,2023-01-09,SouthStore,shipped,214.19
-Lucas de Groot,25/08/2023,MainStore,shipped,788.16
-Lucas Bos,05/01/2023,CenterStore,Shipped,324.02
-Aiden Meijer,8 August 2023,SouthStore,Shipped,62.45
-Charlotte Vos,2022-10-16,,cancelled,258.89
-Nora de Groot,21/09/2022,CityStore,Shipped,341.80
-Sem Peters,25 October 2023,MarketStore,Shipped,316.56
-Mia van den Berg,12-03-2022,NorthStore,cancelled,685.99
-Sem Peters,03-17-2024,SouthStore,cancelled,207.69
-Julia Bos,20 January 2024,NorthStore,Pending,662.71
-Isabella Jansen,2024-12-02,CityStore,Shipped,377.11
-Amelia de Boer,27/04/2024,MarketStore,cancelled,91.78
-Olivia Vos,17/09/2024,HarborStore,SHIPPED,201.54
-Lucas Brouwer,18 July 2022,MarketStore,Cancelled,643.96
-Sophia Vos,2022-07-20,WestStore,pending,359.87
-Ava Meijer,26/08/2023,MarketStore,Cancelled,302.27
-Bram Peeters,11-03-2022,NorthStore,Pending,332.69
-Lucas Mulder,04-11-2022,PlazaStore,Pending,278.42
-Nora de Vries,9 April 2024,SouthStore,cancelled,577.80
-Harper Brouwer,2022-09-11,PlazaStore,shipped,387.16
-Amelia Vos,2024-03-22,EastStore,cancelled,224.25
-Lucas van Dijk,14 January 2022,HarborStore,Cancelled,185.20
-Mason Brouwer,2022-11-15,CenterStore,SHIPPED,716.30
-James van Leeuwen,22 December 2024,SouthStore,pending,310.06
-Lisa Dekker,13/02/2024,WestStore,shipped,354.02
-Mason van den Berg,12/09/2023,HarborStore,cancelled,608.80
-Mia de Vries,08-20-2023,,Shipped,499.20
-Isabella van den Berg,25/06/2024,EastStore,completed,742.69
-Nora de Vries,04-02-2022,CityStore,shipped,678.18
-Daan Mulder,2024-07-09,CityStore,shipped,155.04
-Charlotte Visser,22/11/2024,,COMPLETED,436.67
-Sara Visser,20 February 2022,NorthStore,completed,58.10
-Lisa van Leeuwen,3 August 2023,EastStore,pending,455.88
-Oliver Dekker,06-23-2024,MarketStore,SHIPPED,518.31
-Julia de Vries,2022-04-16,EastStore,Completed,345.75
-Julia van den Berg,22/06/2023,NorthStore,cancelled,182.06
-Sophia Peters,24/11/2023,CenterStore,Pending,543.28
-Lucas Brouwer,23/01/2023,CenterStore,SHIPPED,405.25
-Aiden Hendriks,2022-09-01,EastStore,Cancelled,404.52
-Tim de Groot,07/12/2023,MainStore,Completed,196.36
-Charlotte Visser,10/04/2024,PlazaStore,COMPLETED,128.02
-Mason Mulder,23 December 2023,NorthStore,cancelled,272.69
-Sem van den Berg,18/09/2022,MainStore,SHIPPED,670.46
-Olivia Smit,18/05/2022,SouthStore,Cancelled,157.94
-James de Vries,20/09/2022,PlazaStore,pending,456.85
-Benjamin Bakker,08-01-2023,EastStore,Completed,791.85
-Sem Vos,25/02/2024,NorthStore,SHIPPED,129.05
-Laura de Vries,2024-08-04,CityStore,cancelled,156.33
-Charlotte Peters,13 March 2023,PlazaStore,Completed,681.70
-Olivia van Leeuwen,04-12-2024,HarborStore,Shipped,686.55
-Aiden Mulder,12 April 2023,CityStore,cancelled,493.60
-Nora de Vries,2024-08-24,EastStore,shipped,366.26
-Benjamin Bakker,2023-11-11,EastStore,shipped,335.34
-Bram Dijkstra,26 April 2022,CityStore,Cancelled,598.57
-Mia Bos,26/09/2024,HarborStore,Pending,233.94
-Finn Jansen,2024-06-16,HarborStore,SHIPPED,404.24
-Benjamin van den Berg,07/02/2024,MarketStore,cancelled,145.03
-Daan Dekker,6 March 2022,CityStore,COMPLETED,199.25
-Levi Jansen,15 January 2023,,Pending,216.66
-Noah Peeters,12/04/2024,MainStore,completed,338.60
-Sem Brouwer,2023-03-22,CenterStore,completed,751.79
-Sem Bakker,2022-01-24,MarketStore,Shipped,77.04
-Laura Hendriks,15/06/2024,MainStore,Cancelled,617.56
-Ava Brouwer,7 November 2024,EastStore,Pending,516.22
-Julia Vos,16 May 2022,,COMPLETED,780.89
-Sara de Groot,02-08-2024,HarborStore,Cancelled,642.32
-Liam de Groot,21/09/2024,SouthStore,COMPLETED,128.11
-Liam Dekker,25/12/2023,PlazaStore,Cancelled,692.53
-Mason Mulder,13/04/2023,,Completed,53.54
-Ava Hendriks,06/08/2022,PlazaStore,pending,356.00
-Amelia Bos,07-15-2024,HarborStore,COMPLETED,590.93
-James de Groot,2024-09-14,CityStore,shipped,569.05
-Bram Vos,11-27-2023,,SHIPPED,412.02
-Ava Dekker,2023-08-01,CenterStore,Completed,457.57
-Bram van Leeuwen,22 March 2023,PlazaStore,shipped,321.14
-Benjamin van Dijk,07-25-2024,NorthStore,Completed,597.84
-Levi Meijer,27/01/2024,SouthStore,Cancelled,254.77
-Harper Jansen,16 April 2024,CityStore,Completed,113.71
-Lucas Smit,27/12/2024,EastStore,cancelled,507.69
-Ava Peeters,07/11/2024,HarborStore,completed,494.23
-Sara Dekker,2024-02-12,NorthStore,Cancelled,479.69
-Sem van den Berg,7 January 2022,MainStore,COMPLETED,224.42
-Sara de Groot,15/01/2024,CityStore,Shipped,49.16
-Finn Dekker,5 December 2023,SouthStore,Pending,53.17
-Noah Jansen,25 March 2024,MainStore,completed,435.09
-Charlotte Vos,7 February 2024,CityStore,Completed,547.26
-Aiden Hendriks,7 December 2023,,COMPLETED,373.78
-Daan Dekker,01-18-2022,MarketStore,shipped,228.36
-Evelyn Jansen,2024-05-01,CityStore,COMPLETED,449.56
-Sophia Dijkstra,03-28-2024,CityStore,Pending,347.42
-Nora Hendriks,2023-12-23,CenterStore,Shipped,31.71
-Sem Dekker,11-26-2023,HarborStore,Cancelled,750.72
-Daan van Dijk,07-20-2024,MarketStore,COMPLETED,304.40
-Daan Bakker,2024-03-16,CityStore,completed,113.71
-Ava Vos,02-14-2023,,completed,632.06
-Tim Meijer,16 September 2024,CityStore,COMPLETED,32.67
-Lucas Bos,11/02/2022,MainStore,shipped,328.76
-Laura Dekker,2024-04-23,WestStore,cancelled,723.67
-Olivia Brouwer,26/04/2024,CenterStore,Cancelled,717.43
-Julia Jansen,2023-03-26,CenterStore,Completed,88.66
-Liam Mulder,15/01/2023,WestStore,Shipped,268.55
-Olivia Smit,04-18-2024,,Cancelled,292.69
-Charlotte van Leeuwen,07-06-2023,MarketStore,completed,586.94
-Aiden van den Berg,21/11/2022,,Pending,666.47
-Aiden Bakker,03-07-2023,NorthStore,Shipped,336.05
-Laura van Dijk,10/08/2022,CityStore,pending,414.90
-Evelyn Bos,04-18-2023,EastStore,cancelled,331.83
-Mia van den Berg,2023-04-10,CenterStore,COMPLETED,395.71
-Daan Dekker,19 March 2023,CityStore,Shipped,769.52
-Noah Jansen,2023-11-03,MainStore,SHIPPED,799.32
-Ava Brouwer,05-05-2024,EastStore,Pending,246.88
-Julia Dijkstra,21 October 2024,SouthStore,SHIPPED,604.05
-Oliver Visser,2023-08-10,MarketStore,cancelled,392.58
-Isabella Vos,1 August 2022,PlazaStore,Pending,382.14
-Finn Mulder,02-25-2022,PlazaStore,Pending,34.78
-Nora Visser,16 May 2023,HarborStore,cancelled,773.80
-Liam Vos,03/04/2022,,Completed,240.19
-Julia Dekker,07-24-2023,CityStore,Shipped,270.19
-Mia Bos,09-21-2023,PlazaStore,cancelled,680.88
-Amelia Peters,08-27-2022,CityStore,shipped,288.71
-Olivia de Vries,05-12-2022,CenterStore,Completed,792.93
-Evelyn Bos,04-06-2024,PlazaStore,Cancelled,185.34
-Olivia van Leeuwen,10 May 2023,MainStore,Cancelled,75.30
-Ethan de Vries,2024-10-05,EastStore,COMPLETED,735.16
-Finn Dekker,18/10/2023,MainStore,Pending,26.37
-Ava Peeters,09-26-2023,NorthStore,shipped,254.75
-Isabella Dijkstra,2024-03-26,CityStore,COMPLETED,205.79
-Evelyn Mulder,04-03-2024,WestStore,cancelled,566.74
-Laura Bos,19/11/2022,EastStore,Pending,105.46
-Amelia Vos,2022-11-06,SouthStore,Completed,226.08
-Sara van den Berg,11-28-2022,WestStore,cancelled,334.64
-Oliver van Leeuwen,2022-04-22,PlazaStore,Completed,766.93
-Daan Mulder,18/03/2023,SouthStore,cancelled,636.88
-James van Leeuwen,20/11/2024,PlazaStore,Cancelled,388.77
-Ava Bakker,09-05-2022,EastStore,Cancelled,603.48
-James Brouwer,3 April 2022,CityStore,SHIPPED,680.03
-Evelyn van den Berg,14/11/2022,EastStore,Completed,44.58
-Liam Dekker,17 November 2022,CityStore,shipped,560.30
-Sem van den Berg,18 November 2024,MainStore,cancelled,644.74
-Mason Bos,23/06/2023,HarborStore,completed,750.31
-Laura van Leeuwen,12-26-2024,MarketStore,COMPLETED,111.55
-Lucas van Dijk,2022-10-14,WestStore,Cancelled,763.15
-Lucas Brouwer,28/04/2024,EastStore,Completed,195.27
-Noah de Groot,11/03/2023,MainStore,shipped,386.19
-Mia de Vries,06-02-2022,EastStore,Cancelled,378.57
-Emma Smit,2022-04-01,,shipped,371.13
-Laura Dijkstra,2022-04-27,CenterStore,Pending,254.98
-Sem van Leeuwen,05-19-2024,HarborStore,COMPLETED,743.30
-Evelyn Bos,27/06/2024,EastStore,pending,138.72
-Sara Smit,10 December 2022,MainStore,pending,267.77
-Olivia van Leeuwen,16 July 2022,,COMPLETED,591.48
-Amelia van den Berg,11-21-2022,NorthStore,COMPLETED,605.45
-Liam Vos,10 October 2022,PlazaStore,shipped,632.71
-Sophia van den Berg,2022-10-17,WestStore,cancelled,263.74
-Ava Vos,07-16-2023,SouthStore,Completed,438.53
-Julia Dijkstra,15 May 2022,WestStore,Shipped,450.03
-Liam de Groot,25 April 2022,HarborStore,cancelled,595.05
-Levi de Groot,2024-06-15,MainStore,Pending,477.41
-James de Vries,19/09/2022,EastStore,Pending,56.22
-Tim de Vries,01/06/2024,WestStore,COMPLETED,774.58
-Finn Dekker,4 March 2023,HarborStore,Cancelled,377.21
-Julia van den Berg,06-18-2024,MainStore,COMPLETED,472.95
-Finn Dekker,2023-10-24,MainStore,completed,223.51
-Charlotte Hendriks,21/11/2022,SouthStore,Cancelled,309.93
-Harper Bos,20 March 2023,PlazaStore,Completed,122.91
-Liam Dekker,26 March 2022,,COMPLETED,371.35
-Finn Visser,17/11/2022,PlazaStore,shipped,160.12
-Harper Peters,09-21-2023,,SHIPPED,503.89
-Aiden Visser,10-11-2024,MainStore,pending,71.45
-Julia Smit,2023-12-09,,completed,84.68
-Benjamin van Leeuwen,2024-07-17,PlazaStore,completed,613.78
-Isabella Meijer,10-20-2024,EastStore,Cancelled,449.90
-Lucas Peters,15 January 2022,EastStore,Pending,186.38
-Oliver van Leeuwen,16/04/2024,HarborStore,COMPLETED,688.04
-Sophia Bakker,2022-05-10,SouthStore,pending,150.95
-Lucas Peters,2 October 2024,MainStore,pending,698.36
-Olivia Vos,16 April 2023,MainStore,cancelled,46.09
-Liam Bos,01-25-2023,EastStore,SHIPPED,414.23
-Benjamin van den Berg,04-20-2023,HarborStore,Completed,674.05
-Benjamin Bakker,23/06/2022,PlazaStore,completed,785.06
-Oliver van Leeuwen,2022-02-26,MarketStore,Cancelled,44.37
-Charlotte Peeters,09-02-2023,MarketStore,COMPLETED,444.97
-Emma Jansen,07-07-2023,,completed,702.37
-Ava de Groot,5 August 2022,,COMPLETED,264.43
-James Vos,06-24-2023,,Pending,454.94
-Sem Hendriks,16 July 2024,HarborStore,completed,706.73
-Laura de Vries,2023-10-17,CenterStore,COMPLETED,471.05
-Lisa Dekker,01/05/2024,WestStore,shipped,320.08
-Sara Bakker,2024-04-17,NorthStore,Shipped,753.90
-Oliver Mulder,20 May 2022,CenterStore,completed,229.30
-Charlotte Hendriks,11-14-2022,CenterStore,Cancelled,317.99
-Lucas Mulder,10 March 2022,PlazaStore,pending,412.86
-Daan Mulder,2022-05-01,MarketStore,Cancelled,568.43
-Sara Bos,08/08/2023,HarborStore,Cancelled,652.08
-Isabella de Vries,2022-11-05,EastStore,Cancelled,691.88
-James de Boer,10/05/2023,HarborStore,Completed,82.57
-Aiden Brouwer,2024-04-10,HarborStore,Cancelled,270.70
-Ava Peeters,24/04/2023,WestStore,Cancelled,529.32
-Lisa Dekker,17/10/2024,EastStore,Shipped,651.38
-Aiden van den Berg,04-24-2023,WestStore,SHIPPED,526.41
-Benjamin Bakker,23/04/2024,PlazaStore,Shipped,360.18
-Daan Bakker,22 March 2023,EastStore,shipped,272.98
-Ava Meijer,05-05-2024,CityStore,COMPLETED,224.13
-Julia Dekker,01/07/2022,PlazaStore,shipped,582.42
-Ethan Visser,23/11/2023,,SHIPPED,746.04
-Benjamin Peeters,26 May 2024,EastStore,Cancelled,41.88
-Olivia de Groot,2023-12-28,MainStore,pending,724.58
-Lucas Visser,01-25-2022,MainStore,SHIPPED,581.84
-Benjamin Bos,20 May 2024,SouthStore,Completed,108.80
-Harper Bos,20 December 2022,,pending,771.01
-Bram Peeters,13/01/2023,MainStore,completed,298.16
-Ava Vos,09/06/2022,MainStore,shipped,266.10
-Ava van Leeuwen,16/06/2023,WestStore,Cancelled,621.95
-Ava de Boer,12/06/2023,WestStore,completed,359.09
-Noah Jansen,19/10/2023,MainStore,completed,183.03
-Evelyn Peters,06-23-2023,MarketStore,pending,636.59
-Daan van Dijk,2024-02-11,NorthStore,COMPLETED,637.61
-Sara Meijer,27/01/2024,PlazaStore,Cancelled,511.18
-Noah Bakker,22 April 2022,HarborStore,Pending,690.77
-Ava Meijer,17/01/2022,PlazaStore,Completed,578.06
-Aiden de Vries,7 March 2023,NorthStore,pending,158.75
-Sophia van den Berg,09-04-2023,,SHIPPED,546.00
-Aiden Peters,27/05/2022,PlazaStore,cancelled,430.81
-Mia van Leeuwen,23/06/2024,PlazaStore,COMPLETED,507.63
-Isabella Dekker,14/02/2024,MainStore,Shipped,480.73
-Sem de Boer,10-01-2023,NorthStore,completed,358.33
-Isabella de Vries,11 November 2022,NorthStore,shipped,370.74
-Mia Jansen,07/05/2023,NorthStore,completed,16.67
-Noah de Groot,5 October 2022,WestStore,Shipped,356.00
-Mia de Vries,2024-11-19,PlazaStore,shipped,482.68
-Finn de Groot,17/12/2024,EastStore,Completed,186.44
-Lucas van Dijk,2022-09-25,EastStore,shipped,94.44
-Finn Dijkstra,01-27-2024,MainStore,Shipped,154.96
-Noah Jansen,27/12/2022,CenterStore,completed,371.96
-Liam Vos,02/04/2022,,shipped,659.89
-Liam de Boer,6 March 2024,CityStore,Shipped,509.79
-James Peeters,2024-09-17,SouthStore,shipped,650.83
-Nora de Groot,2024-06-10,HarborStore,SHIPPED,7.81
-Ethan de Vries,15/10/2024,PlazaStore,shipped,453.28
-Olivia Meijer,11 November 2022,MainStore,Completed,352.73
-Olivia Brouwer,07-03-2022,HarborStore,cancelled,679.32
-Oliver de Groot,06-01-2024,MainStore,SHIPPED,104.06
-Laura Peeters,12/02/2023,CityStore,COMPLETED,136.20
-Charlotte van Leeuwen,2023-07-14,WestStore,Completed,146.32
-Isabella Dekker,13 June 2022,MainStore,SHIPPED,263.91
-Emma Smit,20 July 2023,WestStore,pending,267.21
-Evelyn Peters,2024-06-23,EastStore,Shipped,386.00
-Liam Vos,2024-09-18,WestStore,pending,418.96
-Mason van Leeuwen,2024-08-23,MainStore,Pending,100.03
-James Vos,2023-01-18,SouthStore,completed,668.00
-Evelyn Mulder,7 July 2022,EastStore,Pending,195.57
-Mason van den Berg,15 January 2023,,Shipped,336.85
-Julia Vos,2024-10-25,,pending,126.32
-Sem Dekker,02/08/2022,WestStore,Shipped,366.15
-Julia Smit,2023-07-23,WestStore,Completed,772.45
-Levi Meijer,2023-10-16,NorthStore,cancelled,12.43
-Mia Jansen,2 December 2023,PlazaStore,Completed,722.74
-Lucas Bakker,12-18-2024,NorthStore,pending,353.86
-Charlotte Visser,10-19-2022,MainStore,SHIPPED,179.41
-Lucas Brouwer,12/08/2024,MainStore,Shipped,259.37
-Isabella Meijer,27 March 2022,,Pending,660.80
-Sem Peters,02-15-2024,EastStore,pending,756.92
-Finn Bos,02-18-2024,MainStore,Cancelled,227.28
-Isabella Bakker,2022-07-01,SouthStore,SHIPPED,151.07
-Lucas Smit,2024-04-11,,completed,528.40
-Amelia Peters,10/10/2023,,SHIPPED,673.65
-Sem Bakker,18/03/2023,CityStore,COMPLETED,429.31
-Harper de Vries,08-25-2022,,COMPLETED,513.24
-Daan de Groot,25/11/2022,MainStore,SHIPPED,794.54
-Tim Visser,2022-08-12,NorthStore,SHIPPED,747.19
-Amelia Bos,2024-05-21,EastStore,SHIPPED,786.77
-Tim Visser,07-07-2023,HarborStore,Completed,167.43
-Isabella Meijer,26 June 2024,EastStore,shipped,270.93
-Oliver van Leeuwen,16/05/2024,WestStore,completed,135.22
-Finn Mulder,13/03/2023,SouthStore,Shipped,733.81
-Ava Peters,26/01/2023,CityStore,COMPLETED,185.84
-Finn de Groot,08-26-2022,,SHIPPED,377.47
-Sem Dekker,2023-08-22,HarborStore,Cancelled,580.05
-Sophia Peeters,05-15-2023,,shipped,235.76
-James Peeters,25 February 2023,HarborStore,Cancelled,91.30
-Amelia de Groot,06-02-2022,SouthStore,Cancelled,433.17
-Laura Dekker,07-28-2024,MarketStore,Cancelled,218.47
-Noah Jansen,26/03/2023,SouthStore,shipped,316.01
-Benjamin Peters,25 July 2023,WestStore,COMPLETED,22.03
-Daan Peeters,2 January 2023,MainStore,SHIPPED,73.57
-Oliver Smit,2022-10-14,MarketStore,pending,20.29
-Aiden Meijer,15/07/2024,HarborStore,SHIPPED,66.48
-Ava Dekker,07/11/2024,SouthStore,Pending,496.12
-Laura van Dijk,14/06/2024,NorthStore,Completed,129.22
-Amelia van den Berg,12 December 2024,CityStore,Completed,425.51
-Mason Peeters,03-14-2022,MainStore,Completed,758.24
-Aiden van Leeuwen,02-28-2024,CenterStore,Cancelled,701.50
-Lucas Peters,17 March 2023,CenterStore,shipped,354.44
-Benjamin de Boer,08/07/2024,CityStore,Shipped,551.23
-Liam Meijer,02-05-2024,MarketStore,Completed,468.35
-Julia de Vries,01-08-2024,WestStore,cancelled,182.12
-Aiden Visser,12/03/2023,CenterStore,cancelled,626.25
-Ethan Smit,06-09-2022,MainStore,completed,82.28
-Lucas Jansen,10 February 2024,MainStore,Shipped,444.22
-Olivia Visser,9 June 2023,PlazaStore,COMPLETED,353.48
-Nora Bakker,27/05/2022,CenterStore,Completed,148.37
-Sem van Leeuwen,2022-05-21,,completed,233.19
-Mia Mulder,06-25-2022,MainStore,cancelled,93.10
-Mia de Vries,10-15-2022,,SHIPPED,484.59
-Benjamin Bakker,2022-07-16,MainStore,Pending,588.36
-Mia de Boer,2023-03-08,MarketStore,cancelled,228.47
-Benjamin van Dijk,05-20-2023,MarketStore,Pending,571.90
-Levi Meijer,28 August 2023,CityStore,Shipped,114.80
-Harper Mulder,21/04/2022,CenterStore,Shipped,598.01
-Lisa Bos,2024-08-28,MainStore,SHIPPED,177.86
-Ethan Visser,6 June 2022,MainStore,Completed,327.47
-Benjamin Bos,9 December 2024,CenterStore,shipped,592.98
-Lisa Visser,2024-07-23,EastStore,cancelled,129.60
-Laura Meijer,16 April 2022,SouthStore,completed,771.09
-Laura de Vries,18/03/2023,WestStore,COMPLETED,649.44
-Laura Bos,02-23-2023,WestStore,cancelled,791.15
-Sara de Groot,2023-11-15,CenterStore,SHIPPED,215.68
-Sara Smit,13 August 2022,MainStore,Pending,507.74
-Lucas Peters,07-14-2023,HarborStore,Shipped,68.43
-Mia Bos,04/12/2024,CityStore,Shipped,240.42
-Harper van den Berg,18 April 2024,CityStore,Shipped,693.18
-Benjamin Bakker,24/07/2024,CityStore,Cancelled,75.55
-Noah de Vries,19 November 2023,,cancelled,23.19
-Mason de Groot,10-02-2022,PlazaStore,Completed,214.98
-Liam Dekker,23/12/2024,EastStore,Cancelled,98.58
-Amelia Bakker,2024-09-20,HarborStore,shipped,401.43
-Harper Smit,23 July 2022,CityStore,shipped,731.92
-Finn Visser,18 May 2023,NorthStore,completed,160.66
-James de Boer,08-19-2022,WestStore,cancelled,628.90
-Amelia Bos,01-26-2022,EastStore,cancelled,590.50
-Benjamin van den Berg,2022-12-10,EastStore,pending,388.59
-Daan Dekker,11-04-2022,MainStore,cancelled,549.15
-Noah de Vries,5 July 2024,CenterStore,Shipped,733.54
-Ava Meijer,2024-07-20,CenterStore,Cancelled,87.32
-Levi Bos,12-02-2022,PlazaStore,Pending,734.57
-Laura Dijkstra,1 October 2022,CityStore,shipped,741.87
-Amelia de Vries,2024-05-09,WestStore,pending,215.91
-Olivia Visser,2022-04-22,MarketStore,Pending,619.54
-Mia Peters,2024-09-28,EastStore,Shipped,386.66
-Noah Mulder,2024-01-28,MarketStore,pending,200.24
-Aiden Visser,15/05/2024,NorthStore,Shipped,413.17
-Daan de Groot,21/09/2024,CenterStore,COMPLETED,666.35
-Liam Peeters,02-06-2023,PlazaStore,Shipped,356.38
-Levi Mulder,08-21-2023,CenterStore,completed,585.34
-Lucas de Vries,25 October 2022,NorthStore,Pending,174.47
-Harper Smit,10 December 2024,MainStore,shipped,153.29
-Charlotte Visser,28/09/2023,CenterStore,Pending,789.68
-Bram van Leeuwen,2023-03-14,WestStore,cancelled,322.88
-Daan van Leeuwen,2022-10-26,MainStore,SHIPPED,355.28
-Sara van den Berg,09/07/2022,CenterStore,shipped,674.27
-Emma van Leeuwen,08-17-2024,CenterStore,cancelled,670.48
-Finn van den Berg,2023-12-22,EastStore,Completed,465.51
-Isabella Dijkstra,2022-07-04,CityStore,Cancelled,165.67
-Sem Dijkstra,09-06-2022,PlazaStore,COMPLETED,796.41
-James Brouwer,10 August 2024,NorthStore,Cancelled,708.99
-Liam de Boer,2024-12-08,HarborStore,Cancelled,648.89
-Harper van Leeuwen,17/03/2022,MainStore,Pending,299.57
-Laura Dijkstra,12-05-2024,CenterStore,SHIPPED,555.36
-Liam de Groot,15 October 2022,SouthStore,Shipped,444.89
-Mason Mulder,2024-08-27,HarborStore,Completed,752.49
-Olivia Hendriks,2023-08-18,CenterStore,completed,218.53
-Noah Dijkstra,18 June 2024,,cancelled,554.98
-Finn Jansen,2024-04-15,WestStore,completed,340.26
-Noah van Leeuwen,15 February 2024,MainStore,SHIPPED,540.53
-Amelia de Groot,27/10/2023,WestStore,SHIPPED,735.02
-Lucas Bakker,2024-07-04,MarketStore,completed,485.28
-Charlotte Peters,10-17-2024,CenterStore,cancelled,185.91
-Emma Peeters,16 September 2022,,completed,794.86
+﻿customer_id,order_date,store_name,status,total_amount
+56,2023-08-13,HarborStore,Pending,328.05
+553,09-09-2023,EastStore,completed,431.57
+259,05-21-2024,,SHIPPED,252.74
+584,07/12/2024,NorthStore,cancelled,262.14
+213,18/10/2024,MainStore,Pending,89.05
+75,2022-07-20,SouthStore,shipped,161.94
+293,05-03-2024,CityStore,COMPLETED,164.97
+379,10-05-2023,SouthStore,Completed,698.19
+109,20/10/2024,CenterStore,Completed,670.23
+459,8 August 2023,MainStore,Pending,15.47
+290,18 January 2023,CenterStore,Pending,364.15
+321,28/06/2024,,Pending,386.04
+359,05-22-2024,WestStore,COMPLETED,516.09
+15,07-01-2022,WestStore,pending,237.73
+25,2024-02-24,,Completed,437.61
+449,27/01/2024,,completed,240.75
+51,2024-12-25,MarketStore,COMPLETED,284.74
+233,6 March 2022,CenterStore,COMPLETED,34.33
+581,07-18-2023,MarketStore,Shipped,366.88
+272,22/05/2023,MarketStore,COMPLETED,398.67
+476,2024-11-13,WestStore,Shipped,296.03
+115,2024-07-22,CenterStore,COMPLETED,710.82
+391,01-15-2024,CityStore,shipped,219.77
+138,07-21-2022,,COMPLETED,668.58
+468,01-13-2022,MainStore,Pending,459.86
+330,2023-05-15,SouthStore,completed,214.32
+115,21 December 2022,NorthStore,shipped,201.15
+64,25 May 2023,EastStore,cancelled,466.69
+284,22 September 2024,HarborStore,Completed,363.21
+76,12-01-2024,PlazaStore,SHIPPED,212.85
+193,21 May 2022,EastStore,cancelled,723.85
+160,10/12/2024,MarketStore,completed,581.83
+298,06-19-2023,,Pending,675.71
+411,26 May 2022,MainStore,SHIPPED,576.75
+69,2022-01-13,PlazaStore,pending,334.45
+547,01/07/2024,MarketStore,shipped,589.69
+313,04-06-2024,CityStore,SHIPPED,752.40
+74,28/01/2023,MarketStore,cancelled,246.08
+278,5 February 2023,WestStore,COMPLETED,740.84
+490,22 April 2022,EastStore,Completed,570.78
+466,28 November 2023,CityStore,cancelled,731.41
+174,05-23-2024,CenterStore,COMPLETED,519.38
+161,8 March 2024,WestStore,shipped,447.84
+201,7 March 2022,CenterStore,SHIPPED,453.93
+192,2024-05-06,HarborStore,Shipped,684.09
+413,18/12/2022,PlazaStore,Pending,793.14
+235,16 February 2022,CityStore,Shipped,569.57
+12,5 January 2024,SouthStore,shipped,46.67
+152,14/10/2022,,Cancelled,110.26
+160,05-13-2023,,COMPLETED,259.63
+544,2023-08-18,NorthStore,shipped,737.71
+8,28/09/2023,CityStore,SHIPPED,596.40
+482,26/03/2023,EastStore,cancelled,707.69
+16,2023-11-10,PlazaStore,Completed,289.06
+535,04/04/2024,NorthStore,pending,699.72
+443,01-11-2023,EastStore,Completed,510.99
+63,09-18-2023,EastStore,Shipped,142.31
+21,2023-04-15,HarborStore,Shipped,250.82
+598,4 November 2022,MainStore,Completed,81.02
+156,21 May 2022,MainStore,cancelled,654.08
+103,19/11/2023,MainStore,Completed,678.29
+101,21 November 2022,MarketStore,SHIPPED,163.31
+477,27 September 2023,MainStore,Completed,98.32
+285,20 February 2024,CityStore,completed,452.02
+529,2023-02-14,NorthStore,pending,520.16
+115,12-15-2023,WestStore,shipped,103.42
+293,10/10/2022,MarketStore,Pending,11.42
+171,28/08/2023,WestStore,Cancelled,320.42
+99,10-21-2022,CityStore,Completed,724.63
+516,06-01-2024,,cancelled,31.56
+344,11-10-2023,,shipped,668.32
+175,27 November 2023,SouthStore,Pending,416.27
+298,2024-03-24,SouthStore,SHIPPED,81.22
+123,22 June 2022,NorthStore,pending,645.23
+434,27 July 2023,HarborStore,SHIPPED,428.89
+153,04-21-2023,MainStore,Cancelled,464.54
+426,08-17-2022,MarketStore,completed,140.00
+327,2024-12-24,CityStore,Completed,390.77
+428,2023-03-17,PlazaStore,Completed,782.82
+463,2024-09-28,SouthStore,pending,91.85
+553,2023-10-13,EastStore,SHIPPED,758.03
+484,15/05/2024,WestStore,completed,325.40
+460,22/02/2022,PlazaStore,shipped,679.20
+201,5 March 2024,WestStore,pending,757.62
+318,2022-03-14,HarborStore,Pending,466.51
+105,15 June 2022,MainStore,Shipped,210.37
+73,20/12/2023,PlazaStore,Pending,551.11
+313,26/07/2022,HarborStore,Completed,779.15
+524,2024-12-07,EastStore,pending,773.73
+301,02/02/2024,MainStore,SHIPPED,497.96
+2,01-05-2024,CenterStore,Pending,475.35
+26,09-22-2024,MarketStore,completed,662.28
+481,6 May 2022,,COMPLETED,370.18
+152,2024-03-06,NorthStore,SHIPPED,319.92
+40,17/03/2024,SouthStore,Completed,242.91
+548,24/01/2022,,Shipped,61.94
+406,15 March 2022,NorthStore,SHIPPED,494.88
+517,02-11-2022,SouthStore,Cancelled,213.28
+496,8 January 2023,EastStore,Shipped,416.98
+551,26 July 2024,WestStore,Pending,655.14
+123,2022-08-13,WestStore,Shipped,330.39
+275,07/08/2022,CityStore,Pending,739.42
+75,23/08/2024,PlazaStore,Shipped,158.75
+580,06/05/2024,CenterStore,Cancelled,364.09
+342,26 September 2023,CenterStore,COMPLETED,639.84
+341,08/11/2024,NorthStore,cancelled,172.39
+270,20 October 2023,,SHIPPED,311.68
+176,17/01/2022,,Pending,412.95
+81,01-19-2022,WestStore,Shipped,260.61
+168,2024-02-15,PlazaStore,Pending,455.19
+590,09-08-2022,MainStore,SHIPPED,427.44
+137,28 June 2023,CityStore,shipped,474.82
+215,11-03-2023,HarborStore,completed,752.55
+335,2024-03-18,PlazaStore,completed,756.04
+551,2023-01-24,EastStore,Shipped,666.26
+73,04-24-2024,MainStore,completed,52.20
+5,08/05/2022,MarketStore,shipped,310.62
+132,4 April 2023,MarketStore,completed,89.72
+464,01-24-2024,,cancelled,483.95
+550,16 July 2023,MarketStore,SHIPPED,433.17
+226,16 November 2022,SouthStore,SHIPPED,468.54
+161,2024-11-09,HarborStore,Shipped,268.09
+42,24/07/2022,NorthStore,SHIPPED,460.53
+385,2024-11-12,SouthStore,Pending,785.27
+33,2022-04-04,NorthStore,Shipped,578.56
+46,15/08/2024,NorthStore,shipped,239.00
+197,25 December 2024,SouthStore,shipped,712.49
+507,11-27-2024,SouthStore,Cancelled,514.92
+186,06/03/2022,,Pending,225.68
+133,2022-06-14,EastStore,SHIPPED,257.43
+536,5 October 2023,SouthStore,completed,567.36
+218,22/07/2023,SouthStore,completed,194.67
+274,12-20-2024,WestStore,SHIPPED,435.26
+569,04-17-2024,HarborStore,shipped,784.03
+138,2022-12-27,NorthStore,SHIPPED,230.43
+359,03/08/2023,WestStore,Cancelled,246.01
+468,16/12/2023,MarketStore,SHIPPED,33.85
+402,21/08/2022,NorthStore,Completed,572.13
+359,2024-05-21,MarketStore,Shipped,620.41
+14,24 December 2024,SouthStore,Completed,708.23
+241,04/05/2023,EastStore,Cancelled,379.18
+305,28/05/2023,SouthStore,pending,766.02
+581,03/03/2023,NorthStore,completed,757.29
+270,04-14-2023,MarketStore,shipped,373.92
+267,16/09/2024,MarketStore,completed,682.27
+150,20 January 2023,MarketStore,completed,570.74
+494,6 November 2024,PlazaStore,Shipped,405.78
+495,22 October 2023,MainStore,COMPLETED,671.50
+425,15/11/2022,CityStore,cancelled,365.72
+546,6 May 2023,NorthStore,cancelled,31.35
+42,07/12/2023,SouthStore,Completed,795.23
+132,22 November 2023,PlazaStore,pending,756.71
+396,11-07-2023,NorthStore,completed,399.28
+165,2024-06-23,NorthStore,Shipped,652.23
+583,4 April 2024,,cancelled,5.80
+534,2023-07-27,MarketStore,Cancelled,711.28
+67,1 November 2022,NorthStore,Pending,671.27
+533,20/09/2024,,Shipped,168.11
+342,07/12/2022,PlazaStore,Completed,324.00
+559,2 August 2024,MarketStore,Completed,181.86
+436,10-21-2023,MarketStore,Pending,65.81
+472,07/04/2023,EastStore,Shipped,281.22
+210,09-10-2023,SouthStore,SHIPPED,257.38
+239,15 June 2024,WestStore,pending,182.67
+256,03-15-2024,PlazaStore,shipped,170.15
+151,17/10/2022,SouthStore,Pending,616.84
+32,05-08-2024,CenterStore,SHIPPED,457.90
+50,28 October 2023,SouthStore,Completed,624.14
+590,01-21-2023,SouthStore,Pending,334.05
+518,14/09/2023,PlazaStore,Completed,113.66
+16,2022-12-13,MarketStore,Pending,478.21
+114,09-17-2023,NorthStore,Completed,143.80
+451,26/10/2023,CenterStore,pending,138.72
+288,27/05/2022,PlazaStore,Pending,692.41
+38,2024-01-22,HarborStore,Completed,117.92
+509,2022-05-08,MainStore,SHIPPED,489.32
+576,14 February 2024,PlazaStore,Shipped,63.67
+292,2024-01-20,HarborStore,COMPLETED,762.17
+576,16/06/2022,CenterStore,pending,128.52
+511,2022-08-21,NorthStore,COMPLETED,742.22
+205,9 March 2022,WestStore,Cancelled,203.10
+189,06-08-2022,CityStore,cancelled,716.20
+248,9 June 2024,MarketStore,Completed,71.07
+70,2023-02-06,EastStore,COMPLETED,123.13
+298,19/02/2022,CityStore,cancelled,781.85
+85,12/07/2022,HarborStore,Pending,690.63
+192,13/08/2023,SouthStore,completed,354.97
+50,07-05-2022,CityStore,SHIPPED,366.35
+226,02-06-2022,PlazaStore,pending,141.58
+252,10-24-2022,MarketStore,Pending,460.68
+296,2023-11-11,WestStore,Cancelled,224.38
+107,2024-06-26,CityStore,Cancelled,718.13
+168,7 July 2022,EastStore,Completed,511.37
+276,2022-05-04,NorthStore,pending,178.50
+267,10-21-2023,EastStore,COMPLETED,677.80
+120,25 September 2022,WestStore,Pending,215.77
+539,2022-08-07,HarborStore,Pending,405.99
+557,12-18-2024,HarborStore,completed,755.59
+522,12/10/2024,CenterStore,shipped,695.05
+486,11-13-2024,HarborStore,COMPLETED,379.05
+532,13/01/2024,CityStore,cancelled,178.78
+201,03/02/2022,,Shipped,50.93
+176,2024-11-14,PlazaStore,shipped,748.38
+522,02-04-2024,CenterStore,Cancelled,611.97
+485,01/09/2023,MainStore,COMPLETED,442.91
+275,06-18-2023,HarborStore,shipped,219.30
+185,2022-09-27,CenterStore,cancelled,18.37
+489,07-20-2022,CenterStore,completed,14.41
+239,2023-08-28,MainStore,cancelled,379.68
+340,09/12/2022,EastStore,Shipped,144.47
+443,2023-02-08,CityStore,shipped,242.11
+523,04/12/2024,WestStore,Pending,553.41
+370,12-18-2024,,SHIPPED,386.86
+26,02-08-2023,CenterStore,completed,212.17
+1,2023-06-09,WestStore,Shipped,243.41
+490,5 August 2023,NorthStore,completed,757.26
+103,2024-02-01,MarketStore,Cancelled,773.22
+571,2023-02-13,WestStore,cancelled,568.25
+335,02/05/2024,CityStore,COMPLETED,486.07
+122,21 July 2024,HarborStore,cancelled,526.30
+128,2023-07-18,EastStore,Pending,177.72
+161,06-07-2023,MainStore,Cancelled,768.42
+143,09/12/2023,MainStore,Completed,252.85
+376,2023-07-23,EastStore,pending,671.52
+11,3 January 2023,SouthStore,pending,250.91
+9,16/05/2023,WestStore,completed,624.28
+386,2 April 2022,MarketStore,COMPLETED,762.39
+316,2024-05-20,,Cancelled,258.26
+83,11-16-2022,MarketStore,COMPLETED,721.52
+176,17 May 2023,CenterStore,SHIPPED,39.22
+179,20/03/2023,CityStore,shipped,738.95
+13,09-13-2024,PlazaStore,pending,757.73
+144,01-19-2024,PlazaStore,Pending,412.38
+180,03-21-2022,HarborStore,Completed,593.18
+367,08/12/2024,,Shipped,607.45
+203,2022-05-28,,cancelled,61.62
+531,07-13-2024,,Cancelled,718.20
+125,2022-06-10,CenterStore,cancelled,21.98
+458,07-01-2023,CenterStore,COMPLETED,723.64
+518,01-09-2022,NorthStore,Shipped,253.26
+245,03-22-2024,EastStore,COMPLETED,301.45
+492,03-16-2024,WestStore,Pending,578.27
+451,11/09/2024,PlazaStore,cancelled,486.14
+486,2023-07-13,MainStore,Completed,556.52
+61,2 January 2022,WestStore,SHIPPED,97.43
+10,2022-06-16,NorthStore,completed,322.95
+578,15/12/2022,,Shipped,283.60
+562,07-19-2024,SouthStore,Completed,600.20
+548,25 August 2022,CityStore,COMPLETED,441.92
+289,22 March 2024,MainStore,SHIPPED,291.85
+407,2024-01-12,MarketStore,Completed,139.71
+482,04-09-2023,CityStore,pending,377.16
+292,21/01/2022,HarborStore,SHIPPED,463.85
+240,17/06/2024,PlazaStore,shipped,537.57
+186,07-12-2022,MarketStore,Cancelled,727.53
+373,21/03/2022,EastStore,pending,205.89
+199,2022-01-20,NorthStore,COMPLETED,225.12
+331,08-26-2024,HarborStore,Cancelled,658.66
+152,11-18-2024,NorthStore,COMPLETED,605.97
+243,20 September 2023,PlazaStore,completed,52.66
+457,18/03/2022,PlazaStore,completed,332.91
+579,2022-12-16,PlazaStore,pending,680.66
+142,2023-09-01,SouthStore,COMPLETED,693.67
+431,10-20-2023,MainStore,SHIPPED,158.00
+94,11-15-2023,CenterStore,Shipped,722.21
+571,7 August 2023,NorthStore,Pending,232.06
+471,2022-12-10,EastStore,pending,265.49
+591,2022-01-11,CenterStore,shipped,63.66
+39,21 May 2024,MarketStore,pending,587.56
+476,19/11/2024,HarborStore,cancelled,686.18
+356,2023-04-03,MarketStore,completed,790.08
+407,2022-04-02,EastStore,Shipped,299.48
+348,4 April 2024,MainStore,Completed,533.28
+404,19/05/2024,EastStore,Cancelled,731.00
+455,1 August 2023,MainStore,Shipped,59.59
+241,28/04/2023,CityStore,Shipped,722.31
+125,1 April 2023,CityStore,Shipped,780.48
+426,2022-12-22,SouthStore,SHIPPED,535.33
+564,05/06/2024,MainStore,Completed,135.42
+350,01-05-2022,MainStore,COMPLETED,559.34
+385,06-11-2022,HarborStore,completed,653.35
+71,4 December 2024,MarketStore,Cancelled,741.73
+579,2024-10-26,PlazaStore,Completed,302.26
+25,27 October 2024,SouthStore,pending,280.02
+6,23/04/2024,CityStore,cancelled,215.93
+103,03-22-2023,PlazaStore,cancelled,651.60
+580,2022-09-10,,completed,737.50
+132,8 December 2024,WestStore,SHIPPED,641.25
+25,2022-03-03,SouthStore,pending,408.83
+54,04-20-2023,WestStore,Pending,707.62
+121,09-15-2024,HarborStore,SHIPPED,16.66
+354,03-05-2023,NorthStore,completed,192.54
+346,12-28-2022,SouthStore,COMPLETED,661.39
+219,13/07/2024,,Completed,601.07
+205,10/10/2022,NorthStore,pending,339.13
+6,09-17-2023,MainStore,completed,385.42
+152,2024-08-16,NorthStore,completed,517.52
+380,03/10/2024,NorthStore,COMPLETED,183.56
+499,07-08-2024,PlazaStore,Pending,251.97
+236,17/04/2024,MarketStore,pending,139.00
+588,16/11/2022,,Cancelled,228.18
+50,08-04-2023,EastStore,SHIPPED,221.12
+585,26/09/2022,HarborStore,pending,159.42
+462,2022-03-08,PlazaStore,SHIPPED,545.59
+135,16 June 2022,CenterStore,pending,30.82
+100,2022-06-23,PlazaStore,pending,236.24
+443,12 May 2024,EastStore,Pending,662.69
+356,04-22-2024,NorthStore,Completed,579.13
+329,01-06-2023,EastStore,shipped,482.00
+197,05-10-2024,PlazaStore,COMPLETED,740.83
+306,5 May 2023,NorthStore,completed,81.54
+176,2023-02-16,NorthStore,Completed,573.16
+542,06-06-2022,CityStore,cancelled,172.12
+485,05-19-2022,,Completed,462.88
+71,12-09-2024,MainStore,completed,434.72
+66,01/07/2024,NorthStore,COMPLETED,70.20
+421,05-22-2022,CityStore,SHIPPED,144.76
+410,2024-06-03,NorthStore,Pending,664.13
+246,24/02/2022,PlazaStore,Pending,144.18
+128,2023-01-20,WestStore,completed,305.71
+562,07/01/2022,MarketStore,COMPLETED,445.99
+285,2023-12-23,EastStore,shipped,219.57
+461,09/11/2024,CityStore,shipped,753.71
+440,2023-06-15,PlazaStore,COMPLETED,369.34
+343,2023-01-05,SouthStore,Pending,666.05
+181,2024-07-21,PlazaStore,Cancelled,407.69
+181,11-16-2023,MainStore,Pending,690.19
+164,11-03-2023,EastStore,COMPLETED,257.37
+448,21/02/2022,NorthStore,shipped,610.72
+35,2024-01-19,HarborStore,Completed,355.86
+81,07-02-2024,MainStore,Pending,352.37
+161,09-11-2024,WestStore,SHIPPED,233.80
+327,27 October 2024,HarborStore,Cancelled,367.13
+19,2023-02-16,HarborStore,pending,450.91
+445,23/02/2024,PlazaStore,Completed,591.26
+335,18 March 2022,NorthStore,shipped,710.76
+290,22 March 2024,CenterStore,cancelled,560.32
+487,2024-10-09,SouthStore,cancelled,649.91
+296,2022-10-16,WestStore,Completed,204.30
+286,24 July 2022,MainStore,pending,232.53
+599,05/05/2023,PlazaStore,cancelled,261.60
+163,02-15-2022,MainStore,SHIPPED,603.07
+590,02/08/2022,NorthStore,Shipped,416.39
+556,12/08/2024,PlazaStore,COMPLETED,203.49
+517,2024-10-15,PlazaStore,SHIPPED,441.24
+381,12 September 2022,,Cancelled,632.35
+437,24/03/2022,WestStore,COMPLETED,751.31
+469,27 December 2022,MainStore,COMPLETED,434.41
+80,26 December 2024,WestStore,Cancelled,694.71
+422,2022-09-20,EastStore,pending,296.57
+478,09-05-2022,MarketStore,COMPLETED,59.95
+77,20 September 2024,PlazaStore,Shipped,79.98
+423,13 March 2024,WestStore,Shipped,703.12
+28,2022-06-26,NorthStore,shipped,34.63
+284,07-05-2024,SouthStore,pending,437.16
+467,10 October 2023,MainStore,shipped,729.19
+463,07-17-2024,CityStore,Shipped,741.71
+6,12 July 2023,PlazaStore,completed,728.37
+253,2023-06-05,EastStore,Shipped,717.36
+255,07-19-2022,MarketStore,Pending,515.56
+27,16/07/2024,MainStore,COMPLETED,241.38
+117,22 April 2022,,Cancelled,275.39
+388,02-13-2024,,COMPLETED,128.23
+181,2024-09-20,MainStore,completed,407.99
+64,18/02/2023,WestStore,completed,260.43
+415,2024-01-14,MainStore,Pending,473.02
+340,2022-01-06,CenterStore,cancelled,475.00
+419,09/09/2024,,Shipped,411.95
+559,2022-04-27,MarketStore,Cancelled,668.95
+104,12-17-2024,NorthStore,pending,146.20
+419,10-23-2024,NorthStore,completed,297.15
+395,2023-01-11,CityStore,Pending,512.90
+68,16 May 2023,MainStore,completed,423.51
+562,14 July 2022,SouthStore,cancelled,605.67
+202,21/05/2023,MainStore,Shipped,51.84
+326,08-16-2022,MainStore,SHIPPED,742.32
+597,2 March 2023,CenterStore,Cancelled,67.36
+327,22 May 2024,CenterStore,COMPLETED,255.14
+380,02-13-2022,MarketStore,completed,333.52
+8,02-15-2024,SouthStore,completed,725.63
+75,23 January 2022,CityStore,pending,467.31
+364,05/10/2022,CityStore,completed,605.27
+294,13/10/2024,NorthStore,completed,211.84
+428,27/04/2023,NorthStore,Cancelled,486.40
+491,2022-05-14,MarketStore,SHIPPED,739.89
+89,2023-12-12,HarborStore,cancelled,152.13
+438,04/08/2022,CenterStore,pending,580.29
+487,2023-02-06,WestStore,Cancelled,53.01
+431,01-14-2023,HarborStore,shipped,188.37
+560,02-22-2022,EastStore,pending,452.83
+542,12-07-2022,CityStore,Shipped,432.26
+307,05-19-2024,CenterStore,COMPLETED,627.88
+326,01-16-2024,,Shipped,156.74
+339,01-07-2023,MarketStore,pending,436.52
+298,22 August 2023,PlazaStore,Pending,766.02
+373,1 August 2023,SouthStore,Shipped,564.62
+384,4 May 2024,,SHIPPED,771.10
+502,2024-10-06,CityStore,Pending,91.18
+276,2023-06-13,SouthStore,Pending,442.63
+544,06-14-2022,HarborStore,Shipped,333.29
+355,2023-08-16,WestStore,SHIPPED,30.78
+319,12-19-2022,PlazaStore,COMPLETED,747.29
+266,20/11/2024,WestStore,cancelled,585.53
+368,2022-09-20,MarketStore,Cancelled,659.53
+582,11 April 2022,MarketStore,Shipped,352.91
+172,23/03/2024,PlazaStore,Completed,446.74
+560,11/04/2022,WestStore,completed,87.22
+488,26 December 2024,,Completed,240.03
+247,13 May 2022,EastStore,Completed,734.06
+269,01/07/2023,SouthStore,shipped,306.68
+383,10 December 2024,MainStore,shipped,189.22
+512,07-22-2024,EastStore,Pending,661.43
+519,14/05/2023,PlazaStore,SHIPPED,647.48
+316,28/08/2024,EastStore,Cancelled,644.17
+359,12 June 2023,MarketStore,pending,583.97
+411,18/06/2023,HarborStore,SHIPPED,186.47
+318,2022-01-07,,pending,502.13
+67,9 October 2024,MarketStore,Pending,433.34
+240,16/12/2022,HarborStore,pending,357.63
+40,22/03/2023,MainStore,SHIPPED,202.79
+110,21 March 2024,,completed,30.77
+187,18 March 2022,SouthStore,shipped,513.20
+450,03/06/2024,NorthStore,SHIPPED,104.19
+237,10-16-2024,PlazaStore,Cancelled,435.39
+222,07/10/2023,CenterStore,completed,236.92
+434,12-18-2023,MarketStore,Pending,309.69
+389,5 May 2022,MainStore,cancelled,154.21
+159,04/07/2024,HarborStore,Pending,330.43
+213,05-24-2024,SouthStore,SHIPPED,366.87
+189,02/08/2022,WestStore,completed,209.21
+277,10-23-2023,MarketStore,pending,460.29
+70,20/07/2024,PlazaStore,COMPLETED,500.07
+525,8 May 2022,CenterStore,Pending,517.31
+240,06-16-2022,HarborStore,Cancelled,625.91
+371,1 July 2024,MarketStore,cancelled,597.41
+398,6 December 2024,MainStore,Completed,488.60
+96,28/02/2023,HarborStore,Completed,532.17
+528,20 July 2023,NorthStore,Cancelled,770.44
+320,08/09/2022,,Shipped,733.26
+155,18/01/2022,PlazaStore,cancelled,213.62
+470,2023-03-07,WestStore,SHIPPED,633.01
+534,17/08/2022,SouthStore,SHIPPED,480.18
+402,04/05/2022,CityStore,Shipped,317.21
+36,24/03/2023,CenterStore,SHIPPED,754.88
+511,9 August 2022,NorthStore,cancelled,347.10
+59,17 April 2023,CenterStore,cancelled,328.15
+173,10-28-2022,NorthStore,shipped,646.64
+398,10-11-2024,SouthStore,Cancelled,799.70
+445,25/02/2022,MainStore,cancelled,729.93
+341,02-03-2022,PlazaStore,Pending,374.69
+553,21 June 2023,SouthStore,cancelled,397.72
+445,04/12/2022,MainStore,cancelled,297.10
+307,05-05-2022,EastStore,Completed,728.59
+332,18/10/2024,CityStore,Completed,515.72
+290,23 February 2023,CenterStore,Pending,509.61
+433,2023-10-27,CenterStore,shipped,230.68
+24,28/03/2022,NorthStore,Shipped,265.54
+410,2022-12-04,WestStore,shipped,231.43
+577,2022-03-22,EastStore,cancelled,445.89
+255,16 February 2024,SouthStore,pending,564.31
+308,19 July 2022,NorthStore,COMPLETED,356.27
+502,2024-12-23,NorthStore,cancelled,157.57
+84,11-24-2024,CityStore,pending,203.13
+332,01-04-2023,HarborStore,Cancelled,667.27
+394,2023-02-15,WestStore,shipped,462.75
+505,09/08/2024,NorthStore,COMPLETED,266.67
+130,20/06/2024,MainStore,cancelled,348.81
+372,26 April 2024,EastStore,SHIPPED,252.77
+143,02/08/2022,CenterStore,SHIPPED,276.02
+36,14/12/2023,WestStore,Cancelled,256.06
+163,03/10/2023,WestStore,pending,764.42
+268,11-08-2023,SouthStore,Completed,54.41
+239,07-14-2022,PlazaStore,pending,114.97
+491,23 June 2022,EastStore,cancelled,782.72
+447,09-28-2024,CityStore,COMPLETED,514.55
+529,6 June 2024,NorthStore,cancelled,547.88
+470,17 May 2024,PlazaStore,Pending,7.88
+282,02-11-2024,PlazaStore,Pending,745.66
+381,11-27-2024,MainStore,cancelled,758.47
+241,05-19-2023,WestStore,Completed,625.77
+375,4 August 2023,CenterStore,Cancelled,617.07
+291,04-04-2022,HarborStore,pending,89.74
+512,19 July 2024,CenterStore,SHIPPED,618.08
+291,15/05/2024,CityStore,Cancelled,348.26
+220,05-16-2024,,cancelled,579.29
+572,10-28-2022,MarketStore,completed,492.18
+358,2024-03-23,SouthStore,Shipped,736.06
+549,03/12/2024,MainStore,SHIPPED,709.30
+18,27 September 2024,MainStore,Cancelled,433.39
+252,12/10/2024,MarketStore,pending,719.01
+520,07/12/2023,CityStore,cancelled,525.58
+379,19 June 2023,HarborStore,Cancelled,215.81
+525,27 February 2023,CityStore,Shipped,611.42
+37,2 March 2023,SouthStore,pending,749.80
+593,17 February 2022,WestStore,Completed,23.90
+369,21 June 2022,HarborStore,cancelled,42.51
+181,04-22-2022,SouthStore,Pending,632.47
+425,2023-03-11,CenterStore,COMPLETED,31.33
+108,24 October 2024,CityStore,COMPLETED,291.53
+508,2022-03-27,MainStore,shipped,579.52
+26,20/02/2022,EastStore,SHIPPED,176.67
+129,26 December 2024,MainStore,SHIPPED,245.36
+129,26 July 2022,MarketStore,COMPLETED,17.13
+129,2022-05-17,WestStore,shipped,6.86
+315,24 June 2022,MarketStore,COMPLETED,604.71
+109,2022-12-09,MarketStore,SHIPPED,661.47
+115,2023-10-01,CenterStore,Cancelled,313.85
+276,03-02-2024,NorthStore,shipped,664.77
+54,15 May 2024,PlazaStore,Completed,283.83
+494,10-05-2024,WestStore,Pending,253.79
+170,08/07/2022,WestStore,shipped,674.01
+73,2024-10-22,EastStore,pending,716.94
+82,2023-05-12,EastStore,SHIPPED,445.02
+356,15/10/2023,MainStore,Completed,360.20
+492,2022-05-28,PlazaStore,Shipped,732.09
+433,01-26-2022,CenterStore,shipped,328.93
+554,17/12/2024,SouthStore,pending,271.78
+210,2024-11-09,PlazaStore,Completed,48.98
+307,23/12/2023,SouthStore,Cancelled,651.22
+419,10-15-2022,PlazaStore,pending,719.91
+444,07-22-2022,EastStore,Pending,374.57
+117,28 May 2024,MainStore,Pending,292.90
+589,03/09/2024,CenterStore,pending,133.88
+598,2024-08-18,SouthStore,cancelled,533.94
+38,05/02/2022,HarborStore,cancelled,744.52
+1,2024-12-11,PlazaStore,cancelled,620.24
+303,05-04-2023,WestStore,COMPLETED,774.73
+107,10-06-2024,EastStore,Shipped,202.47
+107,01-06-2022,CenterStore,cancelled,386.69
+570,04-14-2023,NorthStore,shipped,274.68
+263,06-10-2023,CenterStore,Shipped,360.24
+43,27 March 2023,CenterStore,SHIPPED,424.67
+89,10/07/2022,CityStore,Pending,309.11
+584,05-02-2024,CenterStore,Shipped,699.94
+438,10-09-2022,MainStore,COMPLETED,496.31
+505,16 December 2023,CenterStore,SHIPPED,598.10
+186,01-19-2024,PlazaStore,Cancelled,469.87
+100,2023-04-04,SouthStore,COMPLETED,510.54
+389,9 January 2024,,Cancelled,141.73
+520,07-20-2022,EastStore,Cancelled,308.68
+184,15 August 2024,WestStore,Shipped,715.87
+563,19 October 2022,MarketStore,Shipped,41.78
+54,12-09-2023,,shipped,470.60
+268,24/02/2022,MarketStore,completed,13.03
+363,2024-03-02,PlazaStore,Cancelled,622.40
+312,11 April 2024,PlazaStore,COMPLETED,43.85
+490,14 March 2023,PlazaStore,COMPLETED,547.57
+397,10/05/2022,NorthStore,Shipped,671.49
+43,09-22-2024,SouthStore,Cancelled,570.85
+107,25 September 2022,MarketStore,Completed,425.54
+58,28 May 2023,PlazaStore,shipped,53.27
+313,14/01/2023,MainStore,COMPLETED,256.90
+378,16 September 2022,CenterStore,shipped,175.47
+464,2022-12-28,CityStore,cancelled,355.55
+84,19 December 2022,NorthStore,Pending,797.08
+398,13/06/2023,SouthStore,Completed,58.14
+132,2 November 2023,PlazaStore,SHIPPED,123.29
+163,08-14-2022,WestStore,cancelled,377.92
+107,01/05/2023,HarborStore,completed,308.22
+457,19/10/2023,WestStore,shipped,451.88
+450,05-25-2023,CityStore,completed,320.14
+312,2024-07-01,WestStore,Shipped,28.89
+465,2022-06-12,NorthStore,pending,304.14
+86,28 May 2023,NorthStore,completed,704.66
+185,28 June 2022,HarborStore,pending,725.01
+479,27/02/2024,SouthStore,COMPLETED,153.52
+447,2024-01-16,EastStore,COMPLETED,463.59
+355,28/01/2024,SouthStore,Shipped,205.95
+50,6 April 2023,CityStore,Completed,718.02
+63,12 January 2023,PlazaStore,SHIPPED,533.07
+334,10-19-2024,PlazaStore,shipped,692.16
+257,2 April 2022,EastStore,COMPLETED,169.94
+172,20/02/2022,MainStore,cancelled,519.88
+39,2024-09-22,WestStore,cancelled,592.78
+45,20/02/2022,,pending,397.51
+545,01/06/2023,,completed,796.36
+457,26/03/2022,NorthStore,pending,297.91
+375,12 October 2022,SouthStore,cancelled,29.87
+397,06/04/2022,CenterStore,Pending,232.01
+114,17 February 2024,MarketStore,SHIPPED,115.47
+239,18/09/2023,MarketStore,Completed,581.31
+479,24 February 2024,HarborStore,completed,355.58
+169,2023-12-08,HarborStore,completed,174.39
+399,17 July 2023,MainStore,pending,592.49
+583,10 May 2023,PlazaStore,Cancelled,206.09
+20,01-27-2022,EastStore,Pending,202.99
+516,2022-06-04,NorthStore,Pending,391.16
+318,01/08/2023,CenterStore,COMPLETED,705.96
+54,12-13-2023,CityStore,Cancelled,133.77
+541,8 June 2023,WestStore,SHIPPED,63.23
+372,04-11-2024,MarketStore,completed,313.51
+92,3 January 2023,CenterStore,Pending,540.34
+358,20/01/2023,CityStore,Pending,411.69
+190,23 October 2023,,Completed,69.74
+98,28/08/2022,NorthStore,COMPLETED,281.83
+275,2024-10-15,,Shipped,69.74
+346,12-26-2022,EastStore,SHIPPED,72.15
+254,19 December 2023,MarketStore,SHIPPED,265.13
+579,10/10/2024,CityStore,COMPLETED,721.85
+595,2023-11-25,MainStore,Completed,441.01
+599,20 March 2024,SouthStore,completed,753.31
+77,19 February 2023,HarborStore,SHIPPED,784.34
+293,10-22-2022,MarketStore,pending,39.51
+553,08/06/2024,MainStore,SHIPPED,52.62
+148,08/10/2024,SouthStore,cancelled,248.34
+126,01-24-2023,NorthStore,completed,566.51
+19,02-12-2022,MainStore,Completed,177.26
+272,2023-10-13,MarketStore,completed,452.36
+206,12-04-2022,MarketStore,COMPLETED,747.01
+471,04-12-2023,NorthStore,Completed,64.00
+586,25/07/2022,MarketStore,Cancelled,227.73
+390,11 December 2023,EastStore,cancelled,204.47
+278,17/11/2023,PlazaStore,Shipped,572.94
+134,02-23-2024,MarketStore,cancelled,464.78
+353,2023-07-08,NorthStore,Cancelled,772.47
+564,8 May 2023,PlazaStore,SHIPPED,221.89
+71,7 June 2022,WestStore,Shipped,225.47
+530,2022-08-02,NorthStore,Cancelled,728.09
+239,05-28-2022,PlazaStore,pending,108.55
+341,11-12-2024,EastStore,pending,355.97
+73,2024-03-17,EastStore,Completed,480.29
+536,27 February 2023,CityStore,completed,736.78
+237,2 October 2024,SouthStore,shipped,630.24
+302,2022-01-06,,COMPLETED,87.38
+577,2022-04-17,HarborStore,cancelled,723.81
+46,11/11/2022,CenterStore,Cancelled,704.57
+84,12-03-2022,NorthStore,Shipped,722.57
+454,2022-09-11,CityStore,cancelled,95.42
+522,21 October 2023,EastStore,COMPLETED,304.17
+32,7 December 2022,PlazaStore,pending,330.70
+377,2022-07-22,PlazaStore,Shipped,671.52
+140,03-27-2024,WestStore,cancelled,86.09
+486,25 April 2023,,cancelled,779.49
+431,06-28-2024,HarborStore,COMPLETED,511.99
+396,12 January 2024,SouthStore,pending,58.33
+412,27 July 2022,CityStore,Cancelled,376.42
+5,02-13-2024,CenterStore,Pending,213.93
+557,05-09-2024,CenterStore,cancelled,335.50
+535,10-11-2022,MarketStore,Cancelled,155.52
+592,05-02-2023,MainStore,cancelled,679.09
+577,15/04/2022,MarketStore,Shipped,420.08
+588,2024-01-14,MarketStore,Pending,284.26
+1,27/07/2023,MarketStore,completed,664.86
+483,07-01-2024,,completed,555.47
+504,2024-07-09,MarketStore,Completed,104.90
+381,09-14-2024,EastStore,shipped,78.96
+167,2022-07-05,CityStore,COMPLETED,96.39
+177,10-24-2024,EastStore,completed,62.35
+345,16/11/2023,PlazaStore,Shipped,690.71
+488,25/08/2024,EastStore,Completed,437.40
+301,12/11/2023,NorthStore,cancelled,630.61
+510,11-12-2024,PlazaStore,COMPLETED,213.09
+231,14 June 2024,PlazaStore,completed,446.01
+500,2023-08-23,NorthStore,pending,482.36
+87,14 June 2023,MainStore,Completed,615.97
+82,2022-03-04,MainStore,COMPLETED,632.97
+569,06-04-2023,NorthStore,Cancelled,725.15
+150,16 September 2023,PlazaStore,Completed,759.29
+327,16/01/2022,WestStore,pending,484.94
+113,08-18-2022,WestStore,Pending,52.09
+70,16/01/2023,MarketStore,pending,242.97
+540,13/12/2022,NorthStore,Pending,726.86
+564,01-19-2023,PlazaStore,completed,604.52
+560,2024-05-26,,Cancelled,485.32
+331,12/04/2023,CityStore,completed,654.91
+512,06-13-2022,WestStore,Shipped,448.52
+279,09/05/2023,CityStore,Cancelled,715.68
+150,20/01/2023,CenterStore,shipped,41.13
+581,05/10/2024,CenterStore,Pending,61.81
+425,2024-11-05,SouthStore,SHIPPED,391.56
+177,12-11-2022,,Shipped,451.93
+532,7 March 2022,EastStore,shipped,280.39
+130,25 February 2023,CenterStore,SHIPPED,120.00
+155,2022-09-03,MainStore,Completed,492.62
+430,2023-03-20,MarketStore,Cancelled,379.84
+74,2024-08-01,PlazaStore,pending,667.18
+83,09-24-2023,EastStore,pending,62.29
+570,2023-01-15,WestStore,pending,189.50
+275,12/01/2024,,pending,368.68
+80,2024-05-15,SouthStore,Completed,598.72
+436,08/10/2022,SouthStore,Shipped,759.00
+217,05-12-2022,MainStore,SHIPPED,38.48
+19,01/03/2023,CityStore,cancelled,722.51
+417,2022-05-03,,shipped,552.65
+250,07-28-2023,,pending,685.78
+222,03/05/2023,HarborStore,pending,545.32
+368,12 November 2023,NorthStore,Shipped,596.12
+372,17/10/2023,MainStore,shipped,289.68
+272,23/01/2024,MainStore,cancelled,221.89
+286,06-21-2022,SouthStore,shipped,531.61
+144,05-17-2024,MarketStore,SHIPPED,339.51
+364,07-26-2024,PlazaStore,SHIPPED,272.02
+596,23 July 2024,PlazaStore,shipped,258.79
+199,2023-07-22,PlazaStore,Pending,268.24
+116,28/03/2022,MarketStore,SHIPPED,43.82
+194,2024-01-28,WestStore,Completed,484.53
+493,04-17-2022,NorthStore,Shipped,238.40
+201,17/04/2023,,completed,482.67
+423,19/10/2023,EastStore,Shipped,138.32
+118,10/12/2022,NorthStore,Shipped,119.82
+134,01/02/2023,CenterStore,pending,250.78
+565,07-19-2022,HarborStore,Pending,17.73
+274,2 September 2023,CityStore,shipped,522.46
+272,13/09/2023,CityStore,shipped,581.09
+201,09-12-2022,NorthStore,COMPLETED,218.55
+39,05/02/2024,SouthStore,Shipped,610.55
+551,07/01/2023,CenterStore,COMPLETED,635.56
+127,2023-08-04,EastStore,pending,110.60
+1,2024-06-26,NorthStore,cancelled,74.92
+428,12 August 2023,PlazaStore,Cancelled,755.30
+517,2022-07-08,SouthStore,SHIPPED,674.62
+4,17/07/2022,WestStore,Completed,772.91
+547,05-12-2023,CityStore,completed,247.74
+45,8 April 2024,HarborStore,completed,639.46
+456,8 August 2024,MainStore,COMPLETED,672.28
+91,16/10/2023,MainStore,SHIPPED,302.59
+147,27/09/2023,CityStore,COMPLETED,353.95
+517,07/09/2022,MarketStore,completed,264.27
+148,01/01/2023,MarketStore,Shipped,714.52
+347,19/06/2022,CenterStore,pending,240.81
+577,10-16-2022,,shipped,716.88
+334,2023-06-13,WestStore,COMPLETED,293.77
+464,17 November 2022,NorthStore,Cancelled,771.08
+293,24/08/2024,HarborStore,shipped,651.92
+384,2022-03-21,,SHIPPED,31.14
+589,2023-01-01,CenterStore,pending,392.05
+316,22 June 2022,HarborStore,Shipped,317.12
+564,1 January 2024,PlazaStore,Shipped,550.86
+354,2024-10-07,MarketStore,COMPLETED,581.68
+281,9 January 2023,,COMPLETED,202.98
+144,13 April 2023,NorthStore,Completed,274.49
+419,2022-01-25,PlazaStore,Shipped,746.97
+211,2024-02-01,CityStore,Completed,567.57
+76,27/07/2023,,Shipped,42.57
+23,08-15-2022,HarborStore,Pending,784.46
+147,2022-09-13,MainStore,pending,96.29
+80,09-04-2023,,Completed,199.97
+280,23/07/2023,EastStore,Completed,714.17
+202,15 February 2022,,completed,183.35
+422,27 March 2023,CenterStore,Cancelled,92.70
+155,06-17-2023,SouthStore,COMPLETED,513.02
+66,06/10/2023,NorthStore,cancelled,762.93
+600,01-22-2023,MainStore,Pending,664.87
+398,01/07/2024,MarketStore,Shipped,387.61
+386,12-09-2023,MainStore,shipped,12.05
+199,2022-04-04,SouthStore,Shipped,651.13
+358,23 August 2022,CenterStore,pending,46.24
+465,02-05-2024,PlazaStore,cancelled,485.33
+556,10-28-2024,PlazaStore,Cancelled,539.15
+115,2022-12-01,HarborStore,pending,193.93
+213,07-28-2024,CityStore,completed,795.57
+257,16/05/2022,MarketStore,Completed,86.33
+338,11 August 2024,NorthStore,pending,179.37
+160,2024-08-16,MainStore,COMPLETED,264.75
+295,23/06/2022,WestStore,shipped,291.47
+548,2024-10-15,MarketStore,SHIPPED,121.56
+508,07-15-2023,CenterStore,Shipped,134.55
+480,6 July 2024,MainStore,Completed,111.15
+195,04-11-2024,CityStore,SHIPPED,148.39
+61,24 July 2023,MainStore,COMPLETED,524.46
+252,05-11-2024,WestStore,SHIPPED,337.95
+326,05-01-2023,CityStore,Shipped,664.56
+60,01-16-2024,PlazaStore,completed,233.00
+144,2024-06-01,SouthStore,COMPLETED,471.78
+109,12-01-2022,EastStore,cancelled,386.67
+404,2022-11-01,EastStore,completed,736.54
+115,22 June 2022,HarborStore,COMPLETED,471.59
+463,03-04-2023,HarborStore,completed,445.39
+530,02-27-2024,PlazaStore,SHIPPED,199.20
+73,19/11/2024,EastStore,completed,181.77
+562,2023-10-03,PlazaStore,shipped,146.83
+97,3 January 2023,CityStore,pending,477.44
+589,07-24-2023,SouthStore,Pending,626.24
+71,10-01-2023,MainStore,Shipped,265.70
+50,17/11/2024,SouthStore,SHIPPED,322.42
+244,12-27-2023,CenterStore,completed,257.25
+447,2023-06-13,EastStore,Shipped,46.71
+146,17 April 2024,,pending,310.99
+260,7 May 2024,MarketStore,Pending,35.87
+451,2022-11-13,NorthStore,completed,162.41
+452,14/10/2024,HarborStore,Completed,294.33
+29,06-20-2022,,Cancelled,651.07
+215,07/02/2022,NorthStore,Shipped,616.85
+241,2024-06-18,HarborStore,Pending,285.57
+418,07-19-2024,CityStore,cancelled,757.78
+404,2024-09-10,MarketStore,SHIPPED,664.39
+37,11-15-2022,PlazaStore,shipped,355.78
+43,28/02/2023,,SHIPPED,450.89
+94,2023-05-02,,Shipped,278.24
+334,21 December 2023,EastStore,Pending,423.63
+432,12-01-2022,SouthStore,Cancelled,384.00
+269,02-04-2023,CityStore,completed,28.04
+263,2023-01-25,MainStore,Pending,146.91
+385,11-01-2023,NorthStore,pending,172.75
+294,08-01-2023,CenterStore,pending,355.02
+8,05/12/2024,NorthStore,SHIPPED,515.99
+546,11-14-2022,CenterStore,completed,778.54
+516,11 March 2024,SouthStore,Pending,507.72
+130,08-24-2022,CenterStore,shipped,760.32
+446,05-22-2023,MainStore,SHIPPED,258.58
+233,18/11/2024,MainStore,Cancelled,645.08
+152,12-12-2022,MainStore,Shipped,32.72
+241,23 December 2022,EastStore,SHIPPED,201.07
+214,18 October 2022,SouthStore,shipped,470.78
+110,12-24-2023,MarketStore,shipped,477.52
+67,10-16-2022,EastStore,COMPLETED,617.98
+274,19/01/2022,SouthStore,completed,709.51
+551,11/01/2023,,SHIPPED,695.67
+569,6 June 2022,EastStore,cancelled,480.16
+159,2022-04-20,MainStore,Shipped,662.15
+474,17 December 2023,MarketStore,completed,296.07
+220,10-26-2024,WestStore,completed,306.09
+524,2023-05-17,MainStore,COMPLETED,467.26
+280,27/07/2024,,shipped,280.61
+554,08-09-2023,CityStore,completed,550.53
+67,2023-09-15,SouthStore,completed,94.23
+140,01-11-2023,HarborStore,Cancelled,20.64
+227,08-12-2024,MarketStore,cancelled,30.74
+193,2023-12-21,CityStore,cancelled,354.47
+147,11-08-2024,CityStore,completed,393.90
+558,24 April 2022,EastStore,Pending,263.75
+136,2022-11-20,CityStore,SHIPPED,37.68
+75,19/07/2024,HarborStore,SHIPPED,43.54
+315,10-14-2024,,SHIPPED,256.80
+269,7 December 2022,SouthStore,Shipped,764.04
+566,14 March 2024,CityStore,shipped,320.24
+52,08/11/2024,CenterStore,completed,796.57
+86,2024-09-10,CenterStore,cancelled,349.78
+199,15 February 2024,MainStore,COMPLETED,40.05
+457,10-10-2023,HarborStore,Completed,265.88
+397,17/04/2024,MarketStore,COMPLETED,696.89
+168,27 July 2022,PlazaStore,Cancelled,115.22
+224,4 November 2024,PlazaStore,SHIPPED,129.21
+438,27/09/2024,MainStore,Cancelled,125.31
+64,20 November 2024,MarketStore,completed,614.90
+295,22 June 2024,EastStore,Pending,331.94
+54,2023-07-05,SouthStore,completed,748.48
+38,2023-06-22,MainStore,Pending,211.86
+113,18 September 2024,EastStore,Completed,202.05
+242,21 July 2023,CityStore,pending,344.26
+150,24 September 2024,,pending,623.96
+216,03-09-2024,WestStore,SHIPPED,733.25
+11,04/01/2024,MainStore,Shipped,495.73
+448,21/04/2024,EastStore,pending,758.22
+19,14/01/2024,CenterStore,SHIPPED,170.76
+517,20/02/2022,NorthStore,COMPLETED,790.67
+522,26 October 2024,PlazaStore,Pending,360.44
+33,19/02/2023,CityStore,pending,102.15
+290,07-18-2023,CityStore,Completed,237.33
+149,09-24-2024,WestStore,COMPLETED,239.87
+587,28/11/2022,MarketStore,completed,477.52
+491,12-27-2022,MainStore,Completed,658.01
+235,6 February 2022,MarketStore,Cancelled,306.55
+272,07-17-2023,SouthStore,SHIPPED,344.76
+11,15/01/2023,WestStore,Cancelled,672.87
+390,2022-10-21,CenterStore,SHIPPED,250.80
+307,04/12/2022,NorthStore,Shipped,151.69
+560,06-14-2024,CenterStore,shipped,293.53
+33,06/01/2023,SouthStore,Shipped,562.15
+527,2024-08-21,MainStore,pending,410.74
+134,2022-02-28,EastStore,Completed,663.27
+233,09/07/2024,HarborStore,Pending,61.96
+577,05/09/2024,WestStore,cancelled,278.60
+52,04/08/2024,NorthStore,Shipped,394.76
+541,2024-02-05,MarketStore,COMPLETED,38.47
+189,2023-03-10,MainStore,cancelled,671.50
+248,02-15-2023,HarborStore,Pending,12.99
+318,11-06-2024,WestStore,cancelled,503.45
+76,03-20-2023,,Shipped,453.96
+242,14 January 2023,,Shipped,164.66
+564,14/04/2024,PlazaStore,shipped,325.33
+170,07-25-2023,WestStore,pending,705.63
+178,27/09/2024,MarketStore,completed,464.06
+128,10 October 2022,NorthStore,COMPLETED,347.71
+40,01-08-2022,MainStore,completed,639.20
+289,23 December 2023,MainStore,SHIPPED,203.50
+530,08-24-2024,EastStore,completed,286.18
+176,08-12-2023,CenterStore,pending,417.76
+128,2023-12-22,SouthStore,completed,176.74
+467,04-28-2023,HarborStore,shipped,744.06
+524,28 January 2024,,completed,165.64
+119,28/03/2024,NorthStore,SHIPPED,248.90
+214,2023-05-20,EastStore,COMPLETED,673.72
+559,2023-07-19,NorthStore,Cancelled,484.05
+90,22/06/2023,NorthStore,Cancelled,168.95
+566,22 October 2023,,Completed,453.51
+363,7 July 2022,NorthStore,COMPLETED,369.99
+303,10 July 2023,CenterStore,Completed,570.37
+436,12-20-2022,CityStore,Shipped,735.13
+343,25/09/2022,SouthStore,Pending,252.08
+531,14/05/2024,EastStore,Shipped,170.72
+299,18/10/2024,MarketStore,cancelled,615.28
+47,16/12/2024,MainStore,pending,59.65
+404,2023-12-02,MainStore,SHIPPED,362.41
+566,02-23-2024,SouthStore,SHIPPED,644.79
+435,2024-09-01,PlazaStore,Cancelled,540.42
+272,6 November 2023,EastStore,Completed,300.71
+439,22 January 2023,WestStore,pending,529.05
+126,11-24-2024,,Pending,208.22
+456,03/12/2023,NorthStore,completed,110.58
+49,2022-12-07,EastStore,Cancelled,592.68
+34,2024-12-19,EastStore,shipped,110.27
+166,2024-07-15,CenterStore,Shipped,8.75
+586,03-28-2022,CenterStore,pending,398.35
+260,06/02/2023,EastStore,Cancelled,437.92
+244,18/10/2023,HarborStore,Completed,444.91
+264,10-20-2023,MarketStore,Cancelled,490.57
+347,11-02-2024,WestStore,completed,499.29
+18,04/04/2024,SouthStore,COMPLETED,210.91
+220,07/12/2024,EastStore,SHIPPED,58.71
+153,06-24-2024,CityStore,cancelled,18.97
+559,15/07/2022,MainStore,Completed,415.66
+403,17/12/2022,PlazaStore,COMPLETED,789.05
+252,6 May 2022,,SHIPPED,529.61
+572,2023-11-12,CenterStore,cancelled,350.72
+421,11-15-2024,MainStore,pending,30.34
+150,2022-10-06,CenterStore,COMPLETED,66.66
+185,2023-11-23,SouthStore,shipped,137.74
+329,25/11/2024,CenterStore,Completed,468.71
+23,11 August 2022,MarketStore,Completed,170.15
+405,18/10/2023,EastStore,COMPLETED,285.51
+554,2023-07-11,EastStore,Completed,472.91
+178,21 December 2024,,shipped,371.12
+242,2023-05-24,PlazaStore,pending,219.77
+243,12-11-2022,SouthStore,completed,544.56
+90,10/03/2024,NorthStore,SHIPPED,156.11
+422,2024-06-26,EastStore,shipped,780.06
+27,28/05/2022,MainStore,completed,511.35
+50,2023-10-06,MainStore,SHIPPED,345.04
+532,10-23-2022,CityStore,Shipped,162.33
+371,27/12/2022,HarborStore,pending,746.30
+208,27 October 2024,CenterStore,completed,419.22
+136,2023-10-06,WestStore,cancelled,759.88
+300,9 May 2023,,SHIPPED,605.25
+336,09-04-2024,WestStore,pending,713.14
+530,18 September 2024,NorthStore,Shipped,116.08
+512,2022-08-03,EastStore,completed,576.43
+496,12-16-2024,MarketStore,Cancelled,39.24
+130,08-17-2024,PlazaStore,Cancelled,513.12
+245,2022-02-28,,pending,440.54
+295,9 November 2023,EastStore,Pending,784.56
+373,08-23-2022,PlazaStore,Cancelled,599.53
+566,2022-07-17,WestStore,completed,693.91
+403,2024-03-17,PlazaStore,completed,216.51
+573,20/11/2022,EastStore,Shipped,687.41
+64,2022-03-24,MainStore,Cancelled,592.22
+31,09-23-2024,MarketStore,shipped,319.39
+280,2022-11-21,SouthStore,SHIPPED,744.72
+254,2022-11-20,SouthStore,shipped,557.41
+290,11/12/2022,CenterStore,Shipped,132.13
+328,2022-01-01,,Cancelled,641.67
+53,04-18-2023,NorthStore,COMPLETED,692.23
+259,13 October 2022,EastStore,COMPLETED,50.20
+450,2023-01-22,,shipped,372.32
+95,06-19-2023,MarketStore,Shipped,762.87
+261,8 August 2022,WestStore,cancelled,701.78
+548,11-06-2023,CenterStore,completed,328.49
+375,2023-04-15,MainStore,COMPLETED,172.40
+39,2023-05-20,NorthStore,Cancelled,429.34
+239,10-26-2022,PlazaStore,Pending,441.40
+324,17/02/2024,MainStore,Shipped,176.72
+279,24 November 2022,NorthStore,Cancelled,65.81
+168,09-24-2024,SouthStore,COMPLETED,487.95
+120,13 July 2022,PlazaStore,Cancelled,124.70
+63,08-06-2024,WestStore,Pending,722.65
+369,02-24-2023,NorthStore,cancelled,358.52
+464,23/03/2024,CityStore,Shipped,708.67
+152,03-12-2022,EastStore,Completed,426.67
+474,8 January 2024,CityStore,Shipped,641.78
+89,03-02-2023,WestStore,completed,608.60
+557,03-21-2024,NorthStore,SHIPPED,772.28
+380,01-22-2024,EastStore,Completed,311.52
+94,1 December 2023,MarketStore,COMPLETED,790.31
+84,04-10-2022,,Shipped,570.80
+120,19 December 2023,CenterStore,Pending,763.27
+389,23/12/2024,PlazaStore,COMPLETED,174.31
+56,15/09/2022,HarborStore,pending,288.49
+434,21 October 2023,MarketStore,cancelled,253.56
+364,14 January 2024,MarketStore,shipped,164.76
+110,2022-04-12,HarborStore,shipped,323.76
+188,12-24-2023,EastStore,cancelled,95.24
+392,2022-06-11,,pending,57.70
+7,06-07-2024,WestStore,shipped,765.39
+453,15 April 2023,EastStore,Shipped,673.79
+273,16 July 2024,MainStore,pending,316.41
+291,2024-02-16,MarketStore,COMPLETED,777.70
+184,2023-03-01,,cancelled,185.98
+38,5 May 2023,SouthStore,shipped,616.14
+292,19/11/2024,PlazaStore,Shipped,46.46
+474,03-10-2023,PlazaStore,Shipped,66.54
+321,15 November 2023,SouthStore,pending,738.68
+237,2022-04-26,WestStore,Completed,225.03
+147,2023-12-26,CityStore,Pending,779.55
+524,09-05-2022,MainStore,SHIPPED,265.61
+264,1 June 2024,NorthStore,Shipped,99.06
+523,26/04/2024,MainStore,Cancelled,665.16
+99,27/06/2022,HarborStore,SHIPPED,602.77
+306,2022-01-04,,Shipped,747.89
+551,2024-04-16,PlazaStore,Shipped,275.81
+388,18/06/2023,MainStore,completed,398.02
+307,04-01-2024,SouthStore,Completed,371.79
+396,07-14-2022,CenterStore,SHIPPED,282.20
+304,20/02/2022,SouthStore,COMPLETED,524.09
+10,10-16-2023,MainStore,cancelled,216.36
+581,2022-04-16,NorthStore,cancelled,486.98
+484,13/03/2024,HarborStore,pending,271.06
+19,28 March 2023,NorthStore,Completed,364.95
+432,2023-08-15,NorthStore,completed,708.38
+229,25 February 2023,HarborStore,pending,592.82
+453,2022-04-26,,Completed,19.75
+160,2023-06-03,SouthStore,shipped,122.65
+218,05/02/2024,EastStore,completed,499.89
+325,11 August 2023,WestStore,cancelled,71.19
+29,23/12/2024,SouthStore,Pending,134.55
+305,23/03/2024,MainStore,Cancelled,223.07
+418,16 January 2022,PlazaStore,Shipped,223.97
+378,14 July 2022,NorthStore,Completed,662.29
+502,20 March 2022,NorthStore,Shipped,244.61
+324,07/09/2022,,Shipped,616.87
+302,14 July 2024,SouthStore,cancelled,743.75
+491,2024-02-06,NorthStore,Completed,520.26
+510,2022-03-06,NorthStore,Pending,599.47
+11,05-05-2022,MarketStore,SHIPPED,524.31
+217,10-16-2023,EastStore,Shipped,663.60
+588,2024-07-02,HarborStore,Shipped,689.64
+420,2022-05-25,WestStore,SHIPPED,483.36
+83,26 August 2023,MainStore,Shipped,44.27
+561,01-19-2022,HarborStore,Pending,357.56
+502,2023-05-28,,Completed,785.35
+198,15/07/2024,PlazaStore,shipped,797.96
+281,08-16-2022,MarketStore,Shipped,563.89
+401,23 January 2024,WestStore,shipped,767.79
+443,9 May 2023,EastStore,pending,410.40
+448,2024-09-16,SouthStore,Completed,789.11
+156,8 March 2022,WestStore,Completed,476.61
+172,12-18-2023,CityStore,Shipped,770.88
+414,2024-06-07,CenterStore,cancelled,29.74
+258,28 April 2022,WestStore,Cancelled,331.66
+67,09-21-2022,MainStore,pending,396.02
+236,23/03/2024,SouthStore,Completed,185.06
+266,12-20-2024,MarketStore,Pending,378.84
+441,23/02/2024,MainStore,SHIPPED,56.82
+15,4 January 2024,PlazaStore,cancelled,36.82
+310,12-16-2024,MainStore,shipped,682.10
+335,2024-01-20,HarborStore,completed,776.59
+158,2024-06-15,NorthStore,Shipped,539.81
+469,2023-06-07,CenterStore,completed,415.19
+346,2022-09-24,WestStore,Cancelled,194.18
+141,2022-10-21,MainStore,pending,256.11
+255,2023-03-02,,COMPLETED,634.98
+122,04-23-2022,CenterStore,COMPLETED,766.24
+118,09/11/2023,,Shipped,606.16
+519,02-13-2022,,pending,427.78
+339,12-15-2024,EastStore,cancelled,62.02
+42,5 September 2022,MainStore,shipped,297.85
+193,10-21-2024,CityStore,completed,702.67
+59,09-18-2022,PlazaStore,Cancelled,528.54
+369,15 January 2024,CenterStore,Completed,172.08
+590,04/08/2023,NorthStore,Completed,223.54
+176,27/09/2024,PlazaStore,shipped,713.43
+299,02/03/2022,NorthStore,cancelled,523.19
+143,09-13-2023,WestStore,Pending,665.16
+276,2023-08-07,EastStore,COMPLETED,438.25
+13,05-04-2023,MainStore,COMPLETED,208.55
+392,08/06/2024,CenterStore,Shipped,76.72
+480,23 April 2024,MainStore,pending,403.41
+193,2024-03-28,MainStore,completed,690.32
+374,02-12-2023,SouthStore,COMPLETED,65.22
+479,2024-11-10,NorthStore,Pending,686.39
+598,6 February 2024,EastStore,shipped,104.28
+586,04-22-2022,CenterStore,shipped,293.28
+287,25/06/2024,MarketStore,SHIPPED,459.30
+554,05-23-2023,MarketStore,shipped,409.24
+158,19 November 2023,MarketStore,Shipped,482.97
+301,03-16-2022,HarborStore,Cancelled,68.32
+25,02-09-2023,CenterStore,shipped,504.82
+591,01/09/2022,SouthStore,COMPLETED,108.08
+167,18 May 2024,CityStore,Cancelled,182.71
+513,6 July 2022,MarketStore,cancelled,550.46
+423,04-21-2023,CenterStore,pending,21.50
+56,01-10-2023,EastStore,Shipped,444.31
+123,05-13-2024,CenterStore,cancelled,27.69
+516,11-18-2024,MarketStore,Pending,352.41
+129,2024-09-21,HarborStore,pending,425.20
+234,05-18-2023,PlazaStore,shipped,110.95
+402,23 August 2023,HarborStore,COMPLETED,235.04
+473,12/02/2024,HarborStore,Shipped,484.35
+536,27 April 2023,CenterStore,cancelled,617.50
+437,24/03/2022,HarborStore,pending,43.12
+371,24 January 2022,HarborStore,COMPLETED,523.45
+463,08/06/2023,MainStore,Cancelled,339.50
+417,2023-06-15,PlazaStore,completed,84.17
+542,2023-07-28,CityStore,completed,228.50
+234,8 October 2023,WestStore,SHIPPED,414.00
+426,17 April 2023,HarborStore,Cancelled,486.58
+119,02-26-2023,NorthStore,cancelled,250.94
+128,2024-02-25,CenterStore,COMPLETED,136.45
+379,2023-08-14,MarketStore,SHIPPED,258.58
+273,06-13-2023,CenterStore,completed,264.23
+315,2024-12-21,PlazaStore,SHIPPED,95.20
+174,2024-06-22,HarborStore,Completed,134.85
+524,2023-06-04,WestStore,Cancelled,744.82
+172,7 February 2023,MarketStore,Pending,597.53
+289,2022-08-12,SouthStore,pending,669.06
+503,2022-10-18,NorthStore,SHIPPED,757.25
+290,2024-02-16,NorthStore,Shipped,457.60
+397,28/04/2024,NorthStore,Shipped,97.39
+195,2023-10-12,EastStore,Completed,39.03
+486,11/10/2023,MainStore,Completed,422.12
+78,01-28-2024,SouthStore,Pending,626.34
+557,08/01/2022,EastStore,Cancelled,125.38
+284,2023-02-05,MainStore,completed,713.06
+493,2 September 2022,MainStore,Completed,146.06
+145,28 March 2022,WestStore,pending,128.64
+378,2022-02-15,NorthStore,shipped,481.70
+423,09-17-2023,WestStore,shipped,21.94
+395,03-03-2022,CityStore,pending,386.28
+504,2022-08-06,WestStore,pending,214.91
+173,02-02-2023,SouthStore,COMPLETED,30.06
+598,17 November 2023,WestStore,completed,461.41
+561,05-03-2023,EastStore,shipped,398.76
+404,07/09/2022,CityStore,Shipped,512.46
+415,2022-10-14,MarketStore,Cancelled,231.27
+357,2022-07-27,CenterStore,Pending,494.11
+332,04/03/2022,MainStore,SHIPPED,340.23
+62,2 August 2023,SouthStore,Pending,109.76
+294,24 October 2024,WestStore,Shipped,691.30
+84,12-15-2023,CityStore,SHIPPED,637.18
+209,09/04/2024,NorthStore,completed,115.52
+330,2022-02-02,NorthStore,cancelled,122.66
+243,04/10/2022,EastStore,COMPLETED,749.96
+70,2022-04-07,HarborStore,completed,115.79
+196,14/04/2022,EastStore,completed,106.16
+421,2024-07-19,PlazaStore,COMPLETED,74.18
+367,2022-11-25,MainStore,COMPLETED,555.65
+84,23/05/2024,PlazaStore,shipped,282.90
+357,12-21-2022,MainStore,COMPLETED,578.87
+312,03/12/2024,PlazaStore,Pending,259.20
+139,03-04-2024,HarborStore,shipped,171.96
+63,2024-08-06,EastStore,completed,651.75
+336,03/08/2022,WestStore,completed,351.80
+498,04/07/2022,,pending,292.89
+527,24 March 2022,MarketStore,SHIPPED,255.43
+79,2022-12-21,PlazaStore,Completed,766.89
+574,20/06/2024,EastStore,COMPLETED,374.07
+281,2023-11-23,CenterStore,cancelled,686.79
+509,2024-07-27,SouthStore,shipped,448.02
+555,25 November 2023,PlazaStore,Cancelled,117.88
+339,3 September 2024,,Shipped,550.84
+184,2024-12-18,,Completed,797.12
+359,09-18-2023,CenterStore,Completed,174.87
+147,13/01/2023,MarketStore,pending,793.91
+106,05-23-2022,WestStore,pending,88.90
+170,11/05/2022,PlazaStore,Cancelled,492.43
+579,28 July 2022,,Completed,759.10
+76,12-11-2024,HarborStore,pending,240.01
+341,06-05-2022,MarketStore,Shipped,311.38
+76,2024-02-23,,Completed,292.02
+378,23/12/2022,MarketStore,completed,252.87
+491,02-21-2024,MainStore,COMPLETED,496.94
+251,12/09/2024,MarketStore,completed,166.73
+217,09/06/2022,NorthStore,Cancelled,463.66
+292,2024-08-11,WestStore,Cancelled,234.31
+324,2 September 2022,NorthStore,Completed,574.21
+492,07-03-2022,MainStore,cancelled,486.25
+465,2023-06-21,SouthStore,shipped,622.80
+544,2023-09-05,CityStore,completed,115.74
+377,2022-12-16,NorthStore,Cancelled,503.38
+422,07-09-2023,MarketStore,Pending,580.22
+470,2023-01-04,SouthStore,SHIPPED,197.00
+311,2024-05-07,CityStore,COMPLETED,472.97
+455,2022-03-19,WestStore,cancelled,51.53
+108,02-13-2024,MainStore,pending,339.82
+256,15/07/2022,CityStore,Completed,218.17
+348,07-06-2024,SouthStore,Completed,176.43
+431,02-27-2022,CenterStore,SHIPPED,481.90
+232,08-25-2023,EastStore,shipped,524.17
+537,2022-07-11,MainStore,shipped,465.84
+449,21/02/2022,CenterStore,Cancelled,744.92
+85,11-18-2023,SouthStore,completed,90.76
+311,18 January 2022,PlazaStore,SHIPPED,668.10
+426,06/10/2022,CenterStore,pending,264.64
+537,07-14-2023,CityStore,completed,41.74
+433,14 May 2024,HarborStore,Cancelled,216.24
+174,12-09-2024,CenterStore,pending,524.74
+565,10 May 2024,SouthStore,cancelled,306.59
+344,10 September 2023,HarborStore,COMPLETED,167.68
+280,27/02/2022,MarketStore,cancelled,106.55
+523,18 December 2024,SouthStore,pending,407.65
+372,2023-12-12,,cancelled,277.77
+300,2022-06-16,NorthStore,Cancelled,553.21
+63,06-05-2023,SouthStore,COMPLETED,41.81
+421,21/09/2024,HarborStore,cancelled,182.65
+498,11 January 2023,SouthStore,shipped,517.33
+451,07-13-2024,CenterStore,Shipped,487.77
+246,2024-10-14,NorthStore,Cancelled,62.06
+536,22 June 2023,WestStore,shipped,677.24
+512,09-21-2023,MarketStore,Pending,147.56
+144,2022-06-07,HarborStore,pending,230.26
+7,26 March 2023,WestStore,completed,676.00
