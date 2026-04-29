@@ -43,3 +43,11 @@ SELECT ROW_NUMBER() OVER (ORDER BY product_name) AS product_id,
 	stock_quantity
 INTO dbo.product_clean
 FROM table_creation;
+
+-- Sets the product_id column to NOT NULL for the foreign key constraint
+ALTER TABLE dbo.product_clean
+ALTER COLUMN product_id INT NOT NULL;
+
+-- Added primary key constraint to product_id column
+ALTER TABLE dbo.product_clean
+ADD CONSTRAINT PK_product_id PRIMARY KEY (product_id);
