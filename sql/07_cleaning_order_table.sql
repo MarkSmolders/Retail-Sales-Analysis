@@ -89,5 +89,5 @@ WHERE order_date LIKE '__-__-____';
 
 -- Setting missing store_names to unknown
 UPDATE dbo.order_clean
-SET store_name = 'Unkown'
+SET store_name = 'Unknown'
 WHERE store_name IS NULL;
