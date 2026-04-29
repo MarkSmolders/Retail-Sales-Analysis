@@ -29,7 +29,7 @@ SELECT
 		WHEN LOWER(status) = 'pending' THEN 'Pending'
 		WHEN LOWER(status) = 'cancelled' THEN 'Cancelled'
 		ELSE status 
-	END AS status 
+	END AS status,
 		total_amount
 INTO dbo.order_clean
 FROM dbo.order_raw;
