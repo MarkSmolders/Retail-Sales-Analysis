@@ -4,6 +4,8 @@
 -- Notes: order_raw was regenerated with proper customer_id references (1-600) matching
 --        customer_clean, reflecting how real order systems reference customers by ID.
 --        Store_name is standardised and set to 'Unknown' where missing.
+--        Date formats found in source data: DD/MM/YYYY, written out (e.g. '21 January 2024'),
+--        DD-MM-YYYY, and YYYY-DD-MM. All standardised to YYYY-MM-DD and converted to DATE type.
 --
 -- Remaining steps handled in later scripts:
 --        - order_id generated as IDENTITY primary key after initial table creation
@@ -101,3 +103,12 @@ WHERE order_date LIKE '__-__-____';
 UPDATE dbo.order_clean
 SET store_name = 'Unknown'
 WHERE store_name IS NULL;
+
+-- Updating YYYY-DD-MM format to YYYY-MM-DD format
+UPDATE dbo.order_clean
+SET order_date = SUBSTRING(order_date, 1, 5) + SUBSTRING(order_date, 9, 2) + '-' + SUBSTRING(order_date, 6, 2)
+WHERE TRY_CONVERT(DATE, order_date) IS NULL;
+
+-- Changing column datatype to DATE
+ALTER TABLE dbo.order_clean
+ALTER COLUMN order_date DATE;
