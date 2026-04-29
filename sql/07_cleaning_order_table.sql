@@ -1,16 +1,18 @@
--- Purpose: Cleaning the order table by standardising the date values to 'YYYY-MM-DD' format and standardising the status column.
+-- Purpose: Cleaning the order table by standardising the date values to 'YYYY-MM-DD' format 
+--          and standardising the status column values.
 --
--- Note: order_raw originally referenced customers by name instead of customer_id.
---       Data was regenerated with proper customer_id foreign key references (1-600)
---       matching the cleaned customer_clean table. This reflects how real order systems
---       reference customers — by ID generated at registration, not by name.
+-- Notes: order_raw was regenerated with proper customer_id references (1-600) matching
+--        customer_clean, reflecting how real order systems reference customers by ID.
+--        Store_name is standardised and set to 'Unknown' where missing.
 --
--- Remaining steps to be handled in later scripts
---	- Order_ID generated after all cleaning is handled
---	- Customer_id foreign key added by joining to customer_clean on customer_name
---	- Store_id foreign key added by joining to store_clean on store_name
---	- Customer_name and store_name dropped after foreign keys are populated
--- Date: 25/04/2026
+-- Remaining steps handled in later scripts:
+--        - order_id generated as IDENTITY primary key after initial table creation
+--        - customer_id foreign key constraint added referencing customer_clean
+--        - store_id foreign key added by joining to store_clean on store_name
+--        - store_name dropped after store_id is populated
+--
+-- Date: 29/04/2026
+
 DROP TABLE IF EXISTS dbo.order_clean
 
 
@@ -29,6 +31,14 @@ SELECT
 		total_amount
 INTO dbo.order_clean
 FROM dbo.order_raw;
+
+-- Add order_id row
+ALTER TABLE dbo.order_clean
+ADD order_id INT IDENTITY(1,1) NOT NULL;
+
+-- Add primary key constraint to order_id
+ALTER TABLE dbo.order_clean
+ADD CONSTRAINT PK_order_id PRIMARY KEY (order_id);
 
 -- Convert European format DD/MM/YYYY to ISO YYYY-MM-DD
 UPDATE dbo.order_clean
