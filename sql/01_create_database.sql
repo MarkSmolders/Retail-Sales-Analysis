@@ -1,6 +1,9 @@
 -- Purpose: Create Database, tables and datatypes
 -- Date:    01/05/2026
 
+DROP DATABASE IF EXISTS RetailSales;
+GO
+
 CREATE DATABASE RetailSales;
 GO
 
