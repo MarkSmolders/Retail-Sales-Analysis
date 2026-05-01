@@ -1,3 +1,14 @@
+-- Purpose: Transform the relational database into a star schema ready for analysis.
+--
+-- Notes: dim_date is generated dynamically from the earliest and latest order date in order_clean.
+--        fact_order links to dim_date via date_id, replacing the raw order_date column.
+--        fact_order_item has no link to fact_order due to a limitation in the source data —
+--        supplier_clean is dropped as supplier_id was not retained in any fact table.
+--        The relational cleaned tables are retained and the star schema is built as a separate layer on top.
+--        This was done to showcase and practice the knowledge of both concepts.
+--
+-- Date: 01/05/2026
+
 
 --None of the fact tables include the supplier id making this redundant for the star schema
 DROP TABLE dbo.supplier_clean;
@@ -50,15 +61,7 @@ SET day = DATEPART(day, date),
 	[year] = DATEPART(year, date),
 	weekday_name = DATENAME(weekday, date);
 
--- Changed date_id column to INT NOT NULL datatype for primary key constraint
-ALTER TABLE dbo.dim_date
-ALTER COLUMN date_id INT NOT NULL;
-
--- Added primary key constraint
-ALTER TABLE dbo.dim_date
-ADD CONSTRAINT PK_date_id PRIMARY KEY (date_id);
-
--- Creating the order_fact table with an empty column date_id 
+-- Creating the fact_order table with an empty column date_id 
 SELECT
     customer_id,
     NULL AS date_id,
@@ -79,15 +82,6 @@ FROM dbo.fact_order AS FO
 -- Drops order_date column from fact_order table
 ALTER TABLE dbo.fact_order
 DROP COLUMN order_date;
-
--- Changes the date_id column in the fact_order table to INT NOT NULL for foreign key constraint
-ALTER TABLE dbo.fact_order
-ALTER COLUMN date_id INT NOT NULL;
-
--- Adds foreign key constraint to the date_id column in the fact_order table
-ALTER TABLE dbo.fact_order
-ADD CONSTRAINT FK_date_id FOREIGN KEY (date_id)
-REFERENCES dbo.dim_date (date_id);
 
 -- Creating fact_order_item table
 SELECT
@@ -112,15 +106,61 @@ SELECT
 INTO dbo.dim_customer
 FROM dbo.customer_clean;
 
--- Creating dim_customer table
+-- Creating dim_store table
 SELECT
-    customer_id,
-    first_name,
-    last_name,
-    email,
-    phone,
+    store_id,
+    store_name,
     city,
-    country,
-    date_of_birth
-INTO dbo.dim_customer
-FROM dbo.customer_clean;
+    address,
+    postal_code,
+    manager_name
+INTO dbo.dim_store
+FROM dbo.store_clean;
+
+-- Creating dim_product table
+SELECT
+    product_id,
+    product_name,
+    category,
+    price,
+    stock_quantity
+INTO dbo.dim_product
+FROM dbo.product_clean;
+
+-- Primary Keys
+ALTER TABLE dbo.dim_date
+ALTER COLUMN date_id INT NOT NULL;
+
+ALTER TABLE dbo.dim_date
+ADD CONSTRAINT PK_date_id PRIMARY KEY (date_id);
+
+ALTER TABLE dbo.fact_order
+ALTER COLUMN date_id INT NOT NULL;
+
+ALTER TABLE dbo.fact_order
+ADD CONSTRAINT PK_fact_order PRIMARY KEY (order_id);
+
+ALTER TABLE dbo.fact_order_item
+ADD CONSTRAINT PK_fact_order_item PRIMARY KEY (order_item_id);
+
+ALTER TABLE dbo.dim_customer
+ADD CONSTRAINT PK_dim_customer PRIMARY KEY (customer_id);
+
+ALTER TABLE dbo.dim_product
+ADD CONSTRAINT PK_dim_product PRIMARY KEY (product_id);
+
+ALTER TABLE dbo.dim_store
+ADD CONSTRAINT PK_dim_store PRIMARY KEY (store_id);
+
+-- Foreign Keys
+ALTER TABLE dbo.fact_order
+ADD CONSTRAINT FK_fact_order_customer FOREIGN KEY (customer_id) REFERENCES dbo.dim_customer (customer_id);
+
+ALTER TABLE dbo.fact_order
+ADD CONSTRAINT FK_fact_order_store FOREIGN KEY (store_id) REFERENCES dbo.dim_store (store_id);
+
+ALTER TABLE dbo.fact_order
+ADD CONSTRAINT FK_fact_order_date FOREIGN KEY (date_id) REFERENCES dbo.dim_date (date_id);
+
+ALTER TABLE dbo.fact_order_item
+ADD CONSTRAINT FK_fact_order_item_product FOREIGN KEY (product_id) REFERENCES dbo.dim_product (product_id);
