@@ -114,6 +114,7 @@ ADD CONSTRAINT PK_dim_product PRIMARY KEY (product_id);
 ALTER TABLE dbo.dim_store
 ADD CONSTRAINT PK_dim_store PRIMARY KEY (store_id);
 
+
 -- Changed date_id column in fact_order_item table to INT NOT NULL for foreign key constraint
 ALTER TABLE dbo.fact_order_item
 ALTER COLUMN date_id INT NOT NULL;
@@ -130,3 +131,6 @@ ADD CONSTRAINT FK_fact_order_item_date FOREIGN KEY (date_id) REFERENCES dbo.dim_
 
 ALTER TABLE dbo.fact_order_item
 ADD CONSTRAINT FK_fact_order_item_product FOREIGN KEY (product_id) REFERENCES dbo.dim_product (product_id);
+
+ALTER TABLE dbo.fact_order_item
+ADD CONSTRAINT FK_fact_order_item_order FOREIGN KEY (order_id) REFERENCES dbo.order_clean (order_id);
