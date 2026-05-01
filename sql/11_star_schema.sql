@@ -57,3 +57,70 @@ ALTER COLUMN date_id INT NOT NULL;
 -- Added primary key constraint
 ALTER TABLE dbo.dim_date
 ADD CONSTRAINT PK_date_id PRIMARY KEY (date_id);
+
+-- Creating the order_fact table with an empty column date_id 
+SELECT
+    customer_id,
+    NULL AS date_id,
+    order_date,
+    status,
+    total_amount,
+    order_id,
+    store_id
+INTO dbo.fact_order
+FROM dbo.order_clean;
+
+-- Populating the date_id column in the fact_order table with matching dates from the dim_date table
+UPDATE FO
+SET FO.date_id = DD.date_id
+FROM dbo.fact_order AS FO
+    JOIN dbo.dim_date AS DD ON FO.order_date = DD.date;
+
+-- Drops order_date column from fact_order table
+ALTER TABLE dbo.fact_order
+DROP COLUMN order_date;
+
+-- Changes the date_id column in the fact_order table to INT NOT NULL for foreign key constraint
+ALTER TABLE dbo.fact_order
+ALTER COLUMN date_id INT NOT NULL;
+
+-- Adds foreign key constraint to the date_id column in the fact_order table
+ALTER TABLE dbo.fact_order
+ADD CONSTRAINT FK_date_id FOREIGN KEY (date_id)
+REFERENCES dbo.dim_date (date_id);
+
+-- Creating fact_order_item table
+SELECT
+    order_item_id,
+    quantity,
+    unit_price,
+    line_total,
+    product_id
+INTO dbo.fact_order_item
+FROM dbo.order_item_clean;
+
+-- Creating dim_customer table
+SELECT
+    customer_id,
+    first_name,
+    last_name,
+    email,
+    phone,
+    city,
+    country,
+    date_of_birth
+INTO dbo.dim_customer
+FROM dbo.customer_clean;
+
+-- Creating dim_customer table
+SELECT
+    customer_id,
+    first_name,
+    last_name,
+    email,
+    phone,
+    city,
+    country,
+    date_of_birth
+INTO dbo.dim_customer
+FROM dbo.customer_clean;
