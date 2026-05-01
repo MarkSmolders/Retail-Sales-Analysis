@@ -15,7 +15,7 @@
 --
 -- Date: 01/05/2026
 
-DROP TABLE IF EXISTS dbo.order_clean
+DROP TABLE IF EXISTS dbo.order_clean;
 
 
 -- Create clean order table with standardised status values
