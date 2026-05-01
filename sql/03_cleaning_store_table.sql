@@ -1,5 +1,7 @@
 -- Purpose: Create clean store table with consistent city casing and added primary key
--- Date:    22/04/2026
+-- Date:    01/05/2026
+
+DROP TABLE IF EXISTS dbo.store_clean;
 
 SELECT
 	ROW_NUMBER() OVER (ORDER BY store_name) AS store_id,

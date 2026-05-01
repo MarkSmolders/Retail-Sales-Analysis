@@ -43,6 +43,10 @@ ADD order_id INT IDENTITY(1,1) NOT NULL;
 ALTER TABLE dbo.order_clean
 ADD CONSTRAINT PK_order_id PRIMARY KEY (order_id);
 
+-- Remove carriage return and line feed characters from order_reference
+UPDATE dbo.order_clean
+SET order_reference = REPLACE(REPLACE(order_reference, CHAR(13), ''), CHAR(10), '');
+
 -- Convert European format DD/MM/YYYY to ISO YYYY-MM-DD
 UPDATE dbo.order_clean
 SET order_date = CONVERT(NVARCHAR, CONVERT(DATE, order_date, 103), 120)
@@ -53,6 +57,8 @@ ALTER TABLE dbo.order_clean
 ADD Day_part NVARCHAR(10),
     Month_name NVARCHAR(20),
     Year_part NVARCHAR(10);
+GO
+
 
 -- Extract day, month name and year from written out dates
 UPDATE dbo.order_clean
