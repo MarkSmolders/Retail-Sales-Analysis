@@ -1,18 +1,24 @@
--- Purpose: Clean order_item table by recalculating line_total, handling missing ORD_codes and creating a primary key.
-
--- Note: order_reference contained a mix of ORD_ codes and customer names. 
---       Customer name references were excluded as they cannot be reliably linked to a specific order. 
---       In a real scenario I would raise this issue with the person responsible of the data source system or data engineer.
---       In this case I created the primary key based on the ORD_codes and dropped the other rows.
+-- Purpose: Clean order_item table by standardising and recalculating line_total, 
+--          handling missing values and creating a primary key.
 --
--- Remaining Steps to be handled in later scripts:
---  - Foreign keys added after dimension tables are finalised.
---  - NULL unit_price filled from product_clean via foreign key join.
---  - Dropping redundant columns when foreign keys have been added.
+-- Notes: order_raw was regenerated to include a valid order_reference column (ORD_0001-ORD_1200)
+--        linking each order item to its parent order. Previously, order_reference contained a mix 
+--        of ORD_ codes and customer names — this has been fixed in the source data.
+--        line_total is recalculated from quantity and unit_price to correct inconsistencies 
+--        found during EDA. Missing quantity values are derived where possible from line_total 
+--        and unit_price.
+--
+-- Remaining steps handled in later scripts:
+--        - NULL unit_price filled from product_clean via average price calculation
+--        - product_id foreign key added by joining to product_clean on product_name
+--        - order_id foreign key added by joining to order_clean on order_reference
+--        - product_name and order_reference dropped after foreign keys are populated
+--
 -- Date: 22/04/2026
---
-DROP TABLE IF EXISTS dbo.order_item_clean
 
+DROP TABLE IF EXISTS dbo.order_item_clean;
+
+-- Create clean order_item table
 SELECT
     ROW_NUMBER() OVER (ORDER BY order_reference) AS order_item_id,
     order_reference,
@@ -21,22 +27,26 @@ SELECT
     unit_price,
     line_total
 INTO dbo.order_item_clean
-FROM dbo.order_item_raw
-WHERE LEFT(order_reference, 3) = 'ORD';
+FROM dbo.order_item_raw;
 
--- Recalculating the line_total since incorrect values were discovered in the EDA.
-UPDATE 
-	dbo.order_item_clean
-SET line_total = (quantity * unit_price)
-WHERE (quantity * unit_price) != line_total AND quantity IS NOT NULL AND unit_price IS NOT NULL;
-
+-- Set order_item_id to NOT NULL for primary key constraint
 ALTER TABLE dbo.order_item_clean
 ALTER COLUMN order_item_id INT NOT NULL;
 
+-- Add primary key constraint
 ALTER TABLE dbo.order_item_clean
 ADD CONSTRAINT PK_order_item_id PRIMARY KEY (order_item_id);
 
-UPDATE
-	dbo.order_item_clean
+-- Recalculate line_total where values were incorrect
+UPDATE dbo.order_item_clean
+SET line_total = (quantity * unit_price)
+WHERE (quantity * unit_price) != line_total
+    AND quantity IS NOT NULL
+    AND unit_price IS NOT NULL;
+
+-- Derive missing quantity values from line_total and unit_price where possible
+UPDATE dbo.order_item_clean
 SET quantity = (line_total / unit_price)
-WHERE quantity IS NULL AND unit_price IS NOT NULL and line_total IS NOT NULL;
+WHERE quantity IS NULL
+    AND unit_price IS NOT NULL
+    AND line_total IS NOT NULL;

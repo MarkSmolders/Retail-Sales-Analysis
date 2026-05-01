@@ -8,12 +8,16 @@
 -- 
 -- Date: 29/04/2026
 
-DROP TABLE IF EXISTS dbo.product_clean
+DROP TABLE IF EXISTS dbo.product_clean;
 
-WITH table_creation AS(
-	SELECT 
-		DISTINCT TRIM(product_name) AS product_name,
-	CASE
+WITH
+	table_creation
+	AS
+	
+	(
+		SELECT
+			DISTINCT TRIM(product_name) AS product_name,
+			CASE
 		WHEN category = 'electronic' THEN 'Electronics'
 		WHEN category = 'electronics' THEN 'Electronics'
 		WHEN category = 'Elektronica' THEN 'Electronics'
@@ -32,10 +36,10 @@ WITH table_creation AS(
 		WHEN category = 'beauty' THEN 'Personal Care'
 		ELSE category
 			END AS category,
-		price,
-		stock_quantity
-	FROM dbo.product_raw
-)
+			price,
+			stock_quantity
+		FROM dbo.product_raw
+	)
 SELECT ROW_NUMBER() OVER (ORDER BY product_name) AS product_id,
 	product_name,
 	category,
