@@ -13,13 +13,14 @@
 --        - store_id foreign key added by joining to store_clean on store_name
 --        - store_name dropped after store_id is populated
 --
--- Date: 29/04/2026
+-- Date: 01/05/2026
 
 DROP TABLE IF EXISTS dbo.order_clean
 
 
 -- Create clean order table with standardised status values
 SELECT
+    order_reference,
     customer_id,
     order_date,
     store_name,
@@ -30,7 +31,7 @@ SELECT
 		WHEN LOWER(status) = 'cancelled' THEN 'Cancelled'
 		ELSE status 
 	END AS status,
-		total_amount
+    total_amount
 INTO dbo.order_clean
 FROM dbo.order_raw;
 
