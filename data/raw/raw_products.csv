@@ -1,0 +1,146 @@
+﻿product_name,category,price,supplier,stock_quantity
+Laptop,ELECTRONICS,,GlobalSupply,6
+Smartphone,Electronics,945.45,TechSupply BV,171
+Smartphone ,ELECTRONICS,945.45,Prime Goods,171
+Tablet,electronics,1346.72,Prime Goods,111
+Headphones,Elektronica,750.23,GlobalSupply,471
+Smartwatch,electronics,576.28,EuroTrade,444
+Keyboard,electronic,,EuroTrade,443
+Mouse,Electronics,923.37,EuroTrade,86
+Mouse ,ELECTRONICS,923.37,FashionWorld,86
+Monitor,electronics,548.49,FastSupply,85
+Webcam,electronics,1047.62,FashionWorld,184
+Speaker,electronics,1049.85,SportsDirect,473
+USB Hub,electronics,107.53,FoodCo,105
+USB Hub ,ELECTRONICS,107.53,HomeBase,105
+Charger,ELECTRONICS,1142.39,HomeBase,44
+Power Bank,Electronics,266.91,Prime Goods,326
+SSD Drive,Elektronica,819.93,FastSupply,
+Graphics Card,ELECTRONICS,289.49,SportsDirect,208
+Graphics Card ,electronic,289.49,Prime Goods,208
+Microphone,electronics,779.69,FashionWorld,
+Gamepad,electronic,1043.03,GlobalSupply,441
+Router,electronics,173.62,FastSupply,8
+Smart TV,ELECTRONICS,563.86,TechSupply BV,68
+Earbuds,Elektronica,1420.23,Prime Goods,493
+Earbuds ,electronics,1420.23,Prime Goods,493
+T-Shirt,Kleding,,TechSupply BV,472
+Jeans,Clothing,,HomeBase,397
+Jeans ,clothes,,NL Wholesale,397
+Jacket,clothes,15.78,TechSupply BV,164
+Sneakers,Clothing,113.26,SportsDirect,480
+Dress,clothes,65.57,FastSupply,387
+Sweater,clothing,132.17,SportsDirect,454
+Shorts,clothes,151.90,GlobalSupply,
+Coat,Kleding,130.08,EuroTrade,308
+Boots,clothing,,GlobalSupply,427
+Scarf,Clothing,142.73,TechSupply BV,160
+Scarf ,Clothing,142.73,FoodCo,160
+Hat,Clothing,165.24,FashionWorld,174
+Gloves,Clothing,14.13,Prime Goods,383
+Socks,Clothing,68.84,TechSupply BV,473
+Socks ,CLOTHING,68.84,EuroTrade,473
+Belt,CLOTHING,53.41,NL Wholesale,446
+Polo Shirt,clothes,138.95,FashionWorld,47
+Cardigan,clothing,131.63,GlobalSupply,
+Hoodie,Clothing,158.66,NL Wholesale,1
+Hoodie ,CLOTHING,158.66,Prime Goods,1
+Leggings,clothing,21.18,NL Wholesale,21
+Leggings ,clothing,21.18,HomeBase,21
+Skirt,Clothing,136.95,SportsDirect,179
+Blazer,Clothing,88.90,Prime Goods,286
+Coffee,Voedsel,9.46,EuroTrade,
+Tea,FOOD,3.37,TechSupply BV,449
+Tea ,Foods,3.37,FoodCo,449
+Chocolate,Food,13.22,NL Wholesale,
+Biscuits,FOOD,29.25,FastSupply,238
+Biscuits ,Foods,29.25,TechSupply BV,238
+Pasta,FOOD,13.78,Prime Goods,345
+Rice,food,16.12,HomeBase,117
+Olive Oil,Foods,15.63,Prime Goods,481
+Nuts,Voedsel,29.61,Prime Goods,384
+Jam,FOOD,7.71,FoodCo,489
+Cereal,food,7.98,TechSupply BV,497
+Cereal ,Foods,7.98,TechSupply BV,497
+Honey,Food,3.42,Prime Goods,359
+Soup,Voedsel,26.96,FashionWorld,268
+Crackers,Food,24.01,EuroTrade,
+Granola,food,3.28,EuroTrade,
+Dried Fruit,food,,TechSupply BV,36
+Protein Bar,food,6.97,TechSupply BV,
+Instant Noodles,Food,29.39,FashionWorld,495
+Tomato Sauce,Food,11.48,FashionWorld,300
+Peanut Butter,Food,28.10,FastSupply,
+Peanut Butter ,Voedsel,28.10,SportsDirect,
+Oats,Foods,11.67,Prime Goods,469
+Running Shoes,Sporting Goods,19.47,Prime Goods,390
+Yoga Mat,sports,15.35,GlobalSupply,175
+Dumbbell,Sporting Goods,180.10,FastSupply,51
+Bicycle Helmet,sports,293.98,FastSupply,77
+Water Bottle,sports,21.73,NL Wholesale,442
+Gym Bag,Sports,133.33,SportsDirect,335
+Gym Bag ,Sport,133.33,FastSupply,335
+Jump Rope,SPORTS,112.20,FashionWorld,152
+Tennis Racket,Sporting Goods,254.89,EuroTrade,366
+Football,SPORTS,122.47,HomeBase,385
+Swimwear,Sport,130.23,Prime Goods,210
+Cycling Gloves,Sporting Goods,204.17,NL Wholesale,61
+Knee Pads,Sports,37.22,TechSupply BV,323
+Resistance Band,Sporting Goods,267.11,Prime Goods,260
+Foam Roller,sports,77.79,FashionWorld,185
+Sports Watch,sports,35.57,FastSupply,240
+Basketball,Sports,,Prime Goods,179
+Badminton Set,Sports,178.08,Prime Goods,
+Badminton Set ,sports,178.08,Prime Goods,
+Swim Goggles,SPORTS,,FoodCo,215
+Skipping Rope,sports,152.47,TechSupply BV,
+Fitness Tracker,sports,228.04,SportsDirect,233
+Candle,Home & Living,127.47,FashionWorld,111
+Picture Frame,home,88.73,TechSupply BV,166
+Vase,home,74.99,FashionWorld,348
+Cushion,HOME,6.27,Prime Goods,140
+Lamp,Home,129.35,FashionWorld,314
+Mirror,home,34.64,Prime Goods,26
+Plant Pot,Home & Living,118.04,Prime Goods,331
+Clock,HOME,137.50,SportsDirect,499
+Rug,Home,81.50,SportsDirect,456
+Rug ,Home,81.50,HomeBase,456
+Blanket,Wonen,37.47,TechSupply BV,50
+Blanket ,home,37.47,Prime Goods,50
+Towel,HOME,142.76,GlobalSupply,144
+Storage Box,Wonen,27.43,Prime Goods,480
+Coat Hanger,home,87.64,SportsDirect,38
+Coat Hanger ,Home & Living,87.64,SportsDirect,38
+Laundry Basket,Wonen,119.13,FastSupply,147
+Laundry Basket ,Home & Living,119.13,FoodCo,147
+Kitchen Timer,Home & Living,72.94,FashionWorld,478
+Cutting Board,Wonen,37.79,Prime Goods,277
+Mug,Home & Living,92.79,TechSupply BV,236
+Coasters,home,113.24,SportsDirect,394
+Soap Dispenser,Home & Living,71.41,TechSupply BV,416
+Soap Dispenser ,Home,71.41,GlobalSupply,416
+Doormat,Home,119.90,FashionWorld,61
+Shampoo,Personal Care,48.94,Prime Goods,262
+Conditioner,beauty,38.22,FoodCo,315
+Face Cream,Personal Care,23.96,NL Wholesale,289
+Sunscreen,beauty,40.27,FashionWorld,
+Lip Balm,Beauty,41.42,FastSupply,242
+Mascara,Personal Care,27.26,GlobalSupply,218
+Foundation,Personal Care,41.65,FashionWorld,437
+Perfume,Beauty,9.51,FashionWorld,74
+Perfume ,Schoonheid,9.51,TechSupply BV,74
+Nail Polish,BEAUTY,43.42,GlobalSupply,269
+Body Lotion,Beauty,18.63,FoodCo,
+Face Mask,Beauty,52.96,NL Wholesale,127
+Eye Cream,beauty,11.08,FoodCo,467
+Toner,BEAUTY,,NL Wholesale,46
+Serum,Schoonheid,51.72,NL Wholesale,495
+Serum ,beauty,51.72,Prime Goods,495
+Deodorant,beauty,49.92,HomeBase,260
+Razor,beauty,62.25,NL Wholesale,310
+Razor ,BEAUTY,62.25,EuroTrade,310
+Toothbrush,beauty,77.28,EuroTrade,471
+Toothpaste,beauty,,FoodCo,264
+Hair Oil,BEAUTY,,Prime Goods,29
+Hair Oil ,Personal Care,,FashionWorld,29
+Shower Gel,Beauty,31.86,NL Wholesale,71
